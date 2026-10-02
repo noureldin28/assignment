@@ -1,0 +1,3001 @@
+CustomerID,ChurnProbability,PredictedRevenue12M_EGP,CustomerSegment,AnomalyFlag,RetentionPriority
+CUST-00001,0.3668,5979.58,High-Value Users,0,0
+CUST-00002,0.4153,4236.36,Steady Core Customers,0,0
+CUST-00003,0.516,4046.4,Steady Core Customers,0,0
+CUST-00004,0.4323,4148.14,Steady Core Customers,0,0
+CUST-00005,0.5345,4597.35,Steady Core Customers,0,0
+CUST-00006,0.1088,5408.02,Steady Core Customers,0,0
+CUST-00007,0.6757,3887.06,Steady Core Customers,0,0
+CUST-00008,0.1568,5554.16,Steady Core Customers,0,0
+CUST-00009,0.1703,3262.58,Steady Core Customers,0,0
+CUST-00010,0.1734,4267.59,Steady Core Customers,0,0
+CUST-00011,0.3006,4978.0,High-Value Users,0,0
+CUST-00012,0.2371,7187.3,High-Value Users,0,0
+CUST-00013,0.5573,5323.89,High-Value Users,0,1
+CUST-00014,0.5472,4776.86,Steady Core Customers,0,0
+CUST-00015,0.5722,4659.03,Steady Core Customers,0,0
+CUST-00016,0.0965,5648.45,Steady Core Customers,0,0
+CUST-00017,0.1141,5055.78,Steady Core Customers,0,0
+CUST-00018,0.1178,6900.09,High-Value Users,0,0
+CUST-00019,0.1488,3902.73,Steady Core Customers,0,0
+CUST-00020,0.5521,5830.45,High-Value Users,0,1
+CUST-00021,0.1498,4984.28,Steady Core Customers,0,0
+CUST-00022,0.1399,6335.02,Steady Core Customers,0,0
+CUST-00023,0.7281,4786.44,Steady Core Customers,0,0
+CUST-00024,0.1938,3879.16,Steady Core Customers,0,0
+CUST-00025,0.2636,4581.32,Steady Core Customers,0,0
+CUST-00026,0.4998,4375.0,Steady Core Customers,0,0
+CUST-00027,0.5432,6637.79,High-Value Users,0,1
+CUST-00028,0.5323,4591.01,Steady Core Customers,0,0
+CUST-00029,0.1878,5606.52,Steady Core Customers,0,0
+CUST-00030,0.5529,3924.77,Steady Core Customers,0,0
+CUST-00031,0.5381,4789.23,Steady Core Customers,0,0
+CUST-00032,0.1352,7892.71,High-Value Users,0,0
+CUST-00033,0.0811,6898.93,Steady Core Customers,0,0
+CUST-00034,0.1294,8222.29,High-Value Users,0,0
+CUST-00035,0.1412,5852.79,High-Value Users,0,0
+CUST-00036,0.446,4628.14,Steady Core Customers,0,0
+CUST-00037,0.5145,4004.4,Steady Core Customers,0,0
+CUST-00038,0.2763,6424.76,High-Value Users,0,0
+CUST-00039,0.5395,5594.81,High-Value Users,0,1
+CUST-00040,0.0622,4236.33,Steady Core Customers,0,0
+CUST-00041,0.1106,7689.74,High-Value Users,0,0
+CUST-00042,0.1865,7818.33,High-Value Users,0,0
+CUST-00043,0.1859,7959.34,High-Value Users,0,0
+CUST-00044,0.1669,6370.82,High-Value Users,0,0
+CUST-00045,0.1582,6841.47,High-Value Users,0,0
+CUST-00046,0.4952,4134.18,Steady Core Customers,0,0
+CUST-00047,0.4829,3160.34,Steady Core Customers,0,0
+CUST-00048,0.6774,3619.87,Steady Core Customers,0,0
+CUST-00049,0.1475,6263.66,High-Value Users,0,0
+CUST-00050,0.6258,4556.77,High-Value Users,0,0
+CUST-00051,0.5269,3646.1,Steady Core Customers,0,0
+CUST-00052,0.1699,6055.2,High-Value Users,0,0
+CUST-00053,0.389,4552.35,High-Value Users,0,0
+CUST-00054,0.2468,7231.94,High-Value Users,1,0
+CUST-00055,0.4353,3994.48,Steady Core Customers,0,0
+CUST-00056,0.3731,4147.67,Steady Core Customers,0,0
+CUST-00057,0.7729,3841.72,Steady Core Customers,0,0
+CUST-00058,0.3503,5482.55,High-Value Users,0,0
+CUST-00059,0.1361,6951.04,High-Value Users,0,0
+CUST-00060,0.0745,7614.78,High-Value Users,0,0
+CUST-00061,0.1498,5108.31,Steady Core Customers,0,0
+CUST-00062,0.1512,4778.97,Steady Core Customers,0,0
+CUST-00063,0.3923,7706.49,High-Value Users,0,0
+CUST-00064,0.1776,6422.4,High-Value Users,0,0
+CUST-00065,0.4163,5141.09,High-Value Users,0,0
+CUST-00066,0.6395,6817.63,High-Value Users,0,1
+CUST-00067,0.306,5250.6,Steady Core Customers,0,0
+CUST-00068,0.2404,5810.76,Steady Core Customers,0,0
+CUST-00069,0.5347,4936.09,Steady Core Customers,0,0
+CUST-00070,0.7487,3303.71,Steady Core Customers,0,0
+CUST-00071,0.4107,3075.13,Steady Core Customers,0,0
+CUST-00072,0.598,6859.64,High-Value Users,0,1
+CUST-00073,0.2626,6691.54,High-Value Users,0,0
+CUST-00074,0.421,3856.14,Steady Core Customers,0,0
+CUST-00075,0.1591,7159.28,High-Value Users,0,0
+CUST-00076,0.2735,7576.07,High-Value Users,0,0
+CUST-00077,0.6838,5453.81,High-Value Users,0,1
+CUST-00078,0.2058,4419.06,Steady Core Customers,1,0
+CUST-00079,0.1806,7449.17,High-Value Users,0,0
+CUST-00080,0.3812,3881.29,Steady Core Customers,0,0
+CUST-00081,0.5284,3334.43,Steady Core Customers,0,0
+CUST-00082,0.0825,6261.73,Steady Core Customers,0,0
+CUST-00083,0.6874,6694.38,High-Value Users,0,1
+CUST-00084,0.5393,5467.45,High-Value Users,0,1
+CUST-00085,0.4953,6171.21,High-Value Users,0,0
+CUST-00086,0.3246,3237.73,Steady Core Customers,0,0
+CUST-00087,0.1982,7966.16,High-Value Users,0,0
+CUST-00088,0.6138,4117.08,Steady Core Customers,0,0
+CUST-00089,0.1848,6343.54,High-Value Users,0,0
+CUST-00090,0.6851,3668.15,Steady Core Customers,0,0
+CUST-00091,0.1201,6272.41,High-Value Users,0,0
+CUST-00092,0.5131,4245.38,Steady Core Customers,0,0
+CUST-00093,0.1418,9641.13,High-Value Users,0,0
+CUST-00094,0.1784,6157.02,Steady Core Customers,0,0
+CUST-00095,0.5103,6914.16,High-Value Users,0,1
+CUST-00096,0.2198,7622.89,High-Value Users,0,0
+CUST-00097,0.5173,3962.74,Steady Core Customers,0,0
+CUST-00098,0.211,6674.02,High-Value Users,1,0
+CUST-00099,0.11,4506.98,Steady Core Customers,0,0
+CUST-00100,0.4518,2834.79,Steady Core Customers,0,0
+CUST-00101,0.742,2783.27,Steady Core Customers,0,0
+CUST-00102,0.3699,4637.55,Steady Core Customers,0,0
+CUST-00103,0.4024,8421.51,High-Value Users,0,0
+CUST-00104,0.2405,3463.25,Steady Core Customers,0,0
+CUST-00105,0.552,4731.51,Steady Core Customers,0,0
+CUST-00106,0.5181,4767.65,Steady Core Customers,0,0
+CUST-00107,0.5414,3227.89,Steady Core Customers,0,0
+CUST-00108,0.1144,6282.44,Steady Core Customers,0,0
+CUST-00109,0.5608,6549.3,High-Value Users,0,1
+CUST-00110,0.406,6297.39,High-Value Users,0,0
+CUST-00111,0.1425,8294.72,High-Value Users,0,0
+CUST-00112,0.4389,2718.93,Steady Core Customers,0,0
+CUST-00113,0.2077,8594.35,High-Value Users,1,0
+CUST-00114,0.6972,4680.17,Steady Core Customers,0,0
+CUST-00115,0.3949,4837.13,Steady Core Customers,0,0
+CUST-00116,0.209,7237.41,High-Value Users,0,0
+CUST-00117,0.5112,6019.84,High-Value Users,0,1
+CUST-00118,0.7764,4024.5,Steady Core Customers,0,0
+CUST-00119,0.1509,4635.24,Steady Core Customers,0,0
+CUST-00120,0.0697,8207.33,High-Value Users,0,0
+CUST-00121,0.149,3953.44,Steady Core Customers,0,0
+CUST-00122,0.5347,6675.55,High-Value Users,1,1
+CUST-00123,0.6262,4601.79,Steady Core Customers,0,0
+CUST-00124,0.3529,3116.49,Steady Core Customers,0,0
+CUST-00125,0.2044,7133.47,High-Value Users,0,0
+CUST-00126,0.1503,7036.08,High-Value Users,0,0
+CUST-00127,0.6652,6638.34,High-Value Users,0,1
+CUST-00128,0.0889,6403.23,Steady Core Customers,0,0
+CUST-00129,0.6973,5665.75,High-Value Users,0,1
+CUST-00130,0.1364,4838.18,Steady Core Customers,0,0
+CUST-00131,0.4869,5289.33,Steady Core Customers,0,0
+CUST-00132,0.4658,6603.29,High-Value Users,0,0
+CUST-00133,0.1617,4711.71,Steady Core Customers,0,0
+CUST-00134,0.2001,7264.17,High-Value Users,0,0
+CUST-00135,0.5288,6036.2,High-Value Users,0,1
+CUST-00136,0.4896,3533.15,Steady Core Customers,0,0
+CUST-00137,0.1489,5653.05,Steady Core Customers,0,0
+CUST-00138,0.4628,3637.21,Steady Core Customers,0,0
+CUST-00139,0.0865,6355.93,High-Value Users,0,0
+CUST-00140,0.1069,7230.44,High-Value Users,0,0
+CUST-00141,0.554,4466.96,Steady Core Customers,0,0
+CUST-00142,0.5819,6569.3,High-Value Users,0,1
+CUST-00143,0.6918,4427.84,Steady Core Customers,0,0
+CUST-00144,0.1999,5557.31,Steady Core Customers,0,0
+CUST-00145,0.4303,4599.0,Steady Core Customers,0,0
+CUST-00146,0.176,6268.26,High-Value Users,0,0
+CUST-00147,0.6349,5673.49,High-Value Users,0,1
+CUST-00148,0.0716,5761.6,High-Value Users,0,0
+CUST-00149,0.5907,4783.64,Steady Core Customers,0,0
+CUST-00150,0.5852,5593.31,High-Value Users,0,1
+CUST-00151,0.1649,3894.04,Steady Core Customers,0,0
+CUST-00152,0.1561,3295.63,Steady Core Customers,1,0
+CUST-00153,0.6476,4951.9,High-Value Users,0,0
+CUST-00154,0.6159,4251.16,Steady Core Customers,0,0
+CUST-00155,0.1385,3965.37,Steady Core Customers,0,0
+CUST-00156,0.5901,4971.07,High-Value Users,0,0
+CUST-00157,0.4356,5828.52,High-Value Users,0,0
+CUST-00158,0.3498,5457.55,High-Value Users,0,0
+CUST-00159,0.7768,6034.98,High-Value Users,0,1
+CUST-00160,0.1062,5850.26,High-Value Users,0,0
+CUST-00161,0.1198,5474.15,Steady Core Customers,0,0
+CUST-00162,0.4087,4934.11,High-Value Users,0,0
+CUST-00163,0.171,7826.99,High-Value Users,0,0
+CUST-00164,0.6407,5201.17,High-Value Users,0,0
+CUST-00165,0.2016,6272.98,High-Value Users,0,0
+CUST-00166,0.5736,5299.88,Steady Core Customers,0,0
+CUST-00167,0.6784,6647.7,High-Value Users,0,1
+CUST-00168,0.2884,7536.54,High-Value Users,0,0
+CUST-00169,0.7498,4680.11,High-Value Users,0,0
+CUST-00170,0.7539,5992.96,High-Value Users,1,1
+CUST-00171,0.5014,4845.58,Steady Core Customers,0,0
+CUST-00172,0.2347,7330.68,High-Value Users,0,0
+CUST-00173,0.6028,4500.02,Steady Core Customers,0,0
+CUST-00174,0.1114,7266.0,High-Value Users,0,0
+CUST-00175,0.2332,6226.57,Steady Core Customers,0,0
+CUST-00176,0.2465,6612.03,High-Value Users,0,0
+CUST-00177,0.426,3935.31,Steady Core Customers,0,0
+CUST-00178,0.2369,5373.21,Steady Core Customers,0,0
+CUST-00179,0.4065,4068.08,Steady Core Customers,0,0
+CUST-00180,0.1654,6357.82,High-Value Users,0,0
+CUST-00181,0.1753,3628.49,Steady Core Customers,0,0
+CUST-00182,0.7796,5767.21,High-Value Users,0,1
+CUST-00183,0.0745,6793.13,High-Value Users,0,0
+CUST-00184,0.4434,6058.95,High-Value Users,0,0
+CUST-00185,0.488,3352.68,Steady Core Customers,0,0
+CUST-00186,0.7703,6021.82,High-Value Users,0,1
+CUST-00187,0.1475,2809.22,Steady Core Customers,0,0
+CUST-00188,0.115,6074.48,Steady Core Customers,0,0
+CUST-00189,0.1074,9164.87,High-Value Users,0,0
+CUST-00190,0.6562,2488.91,Steady Core Customers,0,0
+CUST-00191,0.2045,3544.39,Steady Core Customers,0,0
+CUST-00192,0.1491,4205.77,Steady Core Customers,0,0
+CUST-00193,0.1445,7076.96,High-Value Users,0,0
+CUST-00194,0.2543,4318.98,Steady Core Customers,0,0
+CUST-00195,0.6938,6394.59,High-Value Users,0,1
+CUST-00196,0.0923,4470.63,Steady Core Customers,0,0
+CUST-00197,0.44,4757.38,Steady Core Customers,0,0
+CUST-00198,0.605,3107.97,Steady Core Customers,0,0
+CUST-00199,0.573,4875.37,Steady Core Customers,0,0
+CUST-00200,0.7458,3599.27,Steady Core Customers,0,0
+CUST-00201,0.7298,7136.02,High-Value Users,0,1
+CUST-00202,0.6954,3740.81,Steady Core Customers,0,0
+CUST-00203,0.1446,5556.37,Steady Core Customers,0,0
+CUST-00204,0.1551,7112.01,High-Value Users,0,0
+CUST-00205,0.5416,5533.51,High-Value Users,0,1
+CUST-00206,0.6725,5295.51,High-Value Users,0,0
+CUST-00207,0.1215,4456.83,Steady Core Customers,0,0
+CUST-00208,0.6292,3617.52,Steady Core Customers,0,0
+CUST-00209,0.1097,5869.56,High-Value Users,0,0
+CUST-00210,0.1826,8249.7,High-Value Users,0,0
+CUST-00211,0.3833,5689.64,Steady Core Customers,0,0
+CUST-00212,0.6382,3122.55,Steady Core Customers,0,0
+CUST-00213,0.427,4795.43,Steady Core Customers,0,0
+CUST-00214,0.0964,6575.4,High-Value Users,0,0
+CUST-00215,0.6996,4960.16,High-Value Users,0,0
+CUST-00216,0.1662,7303.74,High-Value Users,1,0
+CUST-00217,0.1216,4970.14,Steady Core Customers,0,0
+CUST-00218,0.0842,8227.51,High-Value Users,0,0
+CUST-00219,0.1003,5706.01,Steady Core Customers,0,0
+CUST-00220,0.2747,4302.48,Steady Core Customers,0,0
+CUST-00221,0.7904,5829.33,High-Value Users,0,1
+CUST-00222,0.1046,6203.6,Steady Core Customers,1,0
+CUST-00223,0.3792,4552.77,Steady Core Customers,0,0
+CUST-00224,0.7184,4849.83,High-Value Users,0,0
+CUST-00225,0.5801,3759.93,Steady Core Customers,0,0
+CUST-00226,0.5698,4774.56,High-Value Users,0,0
+CUST-00227,0.0792,6336.75,Steady Core Customers,0,0
+CUST-00228,0.4908,4604.85,High-Value Users,0,0
+CUST-00229,0.1668,8304.95,High-Value Users,0,0
+CUST-00230,0.1545,7004.19,High-Value Users,0,0
+CUST-00231,0.6867,5458.03,Steady Core Customers,0,1
+CUST-00232,0.197,8046.94,High-Value Users,0,0
+CUST-00233,0.3726,4820.96,Steady Core Customers,0,0
+CUST-00234,0.3102,5712.37,High-Value Users,0,0
+CUST-00235,0.4621,6252.43,High-Value Users,0,0
+CUST-00236,0.541,5289.86,High-Value Users,0,0
+CUST-00237,0.4439,5456.1,High-Value Users,0,0
+CUST-00238,0.6022,5713.53,High-Value Users,0,1
+CUST-00239,0.4368,4689.59,Steady Core Customers,0,0
+CUST-00240,0.7818,4657.47,Steady Core Customers,0,0
+CUST-00241,0.1416,4926.76,Steady Core Customers,0,0
+CUST-00242,0.5007,5041.77,Steady Core Customers,0,0
+CUST-00243,0.1716,5420.76,High-Value Users,0,0
+CUST-00244,0.2644,7102.92,High-Value Users,0,0
+CUST-00245,0.1492,5045.35,Steady Core Customers,0,0
+CUST-00246,0.1265,7438.97,High-Value Users,0,0
+CUST-00247,0.1298,3691.43,Steady Core Customers,0,0
+CUST-00248,0.0876,6976.86,High-Value Users,0,0
+CUST-00249,0.1386,7828.06,High-Value Users,0,0
+CUST-00250,0.2049,4494.99,Steady Core Customers,0,0
+CUST-00251,0.6359,4663.93,Steady Core Customers,0,0
+CUST-00252,0.1173,6413.97,High-Value Users,0,0
+CUST-00253,0.1955,5528.75,High-Value Users,0,0
+CUST-00254,0.4195,4118.84,Steady Core Customers,0,0
+CUST-00255,0.2672,3876.22,Steady Core Customers,0,0
+CUST-00256,0.0821,6541.7,High-Value Users,0,0
+CUST-00257,0.1335,5796.86,High-Value Users,0,0
+CUST-00258,0.719,5631.6,High-Value Users,0,1
+CUST-00259,0.5949,5632.61,High-Value Users,0,1
+CUST-00260,0.3058,3420.69,Steady Core Customers,0,0
+CUST-00261,0.2,5600.16,Steady Core Customers,0,0
+CUST-00262,0.1476,8624.19,High-Value Users,0,0
+CUST-00263,0.1168,4460.26,Steady Core Customers,0,0
+CUST-00264,0.4966,4514.09,Steady Core Customers,0,0
+CUST-00265,0.5789,3431.66,Steady Core Customers,0,0
+CUST-00266,0.1185,5172.08,Steady Core Customers,0,0
+CUST-00267,0.1083,5748.18,Steady Core Customers,0,0
+CUST-00268,0.5576,4544.95,High-Value Users,0,0
+CUST-00269,0.5037,5356.93,High-Value Users,0,1
+CUST-00270,0.4522,3691.48,Steady Core Customers,0,0
+CUST-00271,0.1102,6676.27,High-Value Users,0,0
+CUST-00272,0.2429,3437.66,Steady Core Customers,1,0
+CUST-00273,0.2828,5397.7,High-Value Users,0,0
+CUST-00274,0.1179,8674.0,High-Value Users,0,0
+CUST-00275,0.1388,4433.54,Steady Core Customers,0,0
+CUST-00276,0.1208,4941.97,Steady Core Customers,0,0
+CUST-00277,0.3804,3010.86,Steady Core Customers,0,0
+CUST-00278,0.6027,5705.31,High-Value Users,0,1
+CUST-00279,0.1877,7601.89,High-Value Users,0,0
+CUST-00280,0.0674,6141.28,Steady Core Customers,0,0
+CUST-00281,0.2052,4888.79,Steady Core Customers,0,0
+CUST-00282,0.1246,3864.52,Steady Core Customers,0,0
+CUST-00283,0.517,4175.55,Steady Core Customers,0,0
+CUST-00284,0.6159,2854.56,Steady Core Customers,0,0
+CUST-00285,0.6689,5645.96,High-Value Users,0,1
+CUST-00286,0.1586,7489.46,High-Value Users,0,0
+CUST-00287,0.7132,5380.31,High-Value Users,0,1
+CUST-00288,0.0966,6213.89,High-Value Users,0,0
+CUST-00289,0.1846,6927.18,High-Value Users,0,0
+CUST-00290,0.1222,5691.73,Steady Core Customers,0,0
+CUST-00291,0.1528,7266.09,High-Value Users,0,0
+CUST-00292,0.139,7988.21,High-Value Users,0,0
+CUST-00293,0.5495,3501.71,Steady Core Customers,0,0
+CUST-00294,0.1845,5708.09,Steady Core Customers,0,0
+CUST-00295,0.6237,5850.24,High-Value Users,0,1
+CUST-00296,0.446,5572.97,High-Value Users,0,0
+CUST-00297,0.1844,6152.28,Steady Core Customers,0,0
+CUST-00298,0.1789,6843.43,High-Value Users,0,0
+CUST-00299,0.6877,6290.77,High-Value Users,0,1
+CUST-00300,0.6266,4814.75,High-Value Users,0,0
+CUST-00301,0.7855,4335.64,Steady Core Customers,0,0
+CUST-00302,0.1052,5909.29,High-Value Users,0,0
+CUST-00303,0.1392,6731.46,High-Value Users,0,0
+CUST-00304,0.4771,4469.23,High-Value Users,0,0
+CUST-00305,0.2075,6504.3,High-Value Users,0,0
+CUST-00306,0.1281,8941.77,High-Value Users,0,0
+CUST-00307,0.1472,7462.59,High-Value Users,0,0
+CUST-00308,0.4874,5098.92,High-Value Users,0,0
+CUST-00309,0.1536,5421.23,Steady Core Customers,0,0
+CUST-00310,0.391,3508.78,Steady Core Customers,0,0
+CUST-00311,0.4949,5804.7,High-Value Users,0,0
+CUST-00312,0.3114,3369.22,Steady Core Customers,0,0
+CUST-00313,0.4661,3757.86,Steady Core Customers,0,0
+CUST-00314,0.1489,4777.24,Steady Core Customers,0,0
+CUST-00315,0.6545,4763.05,High-Value Users,0,0
+CUST-00316,0.5662,6108.83,High-Value Users,0,1
+CUST-00317,0.5613,4880.25,Steady Core Customers,0,0
+CUST-00318,0.5404,5534.31,High-Value Users,0,1
+CUST-00319,0.1473,6766.75,High-Value Users,0,0
+CUST-00320,0.5987,4678.16,Steady Core Customers,0,0
+CUST-00321,0.5156,4788.16,Steady Core Customers,0,0
+CUST-00322,0.1175,5558.21,Steady Core Customers,0,0
+CUST-00323,0.6861,5860.04,High-Value Users,0,1
+CUST-00324,0.2877,10218.09,High-Value Users,1,0
+CUST-00325,0.2131,5004.5,Steady Core Customers,0,0
+CUST-00326,0.1588,4727.16,Steady Core Customers,0,0
+CUST-00327,0.1213,3644.1,Steady Core Customers,0,0
+CUST-00328,0.5953,6831.56,High-Value Users,0,1
+CUST-00329,0.1073,7492.97,High-Value Users,0,0
+CUST-00330,0.4127,9488.0,High-Value Users,0,0
+CUST-00331,0.622,4553.22,High-Value Users,0,0
+CUST-00332,0.1022,7913.54,High-Value Users,0,0
+CUST-00333,0.4914,4980.71,Steady Core Customers,0,0
+CUST-00334,0.0631,6473.28,Steady Core Customers,0,0
+CUST-00335,0.1354,3926.86,Steady Core Customers,0,0
+CUST-00336,0.5414,4590.56,High-Value Users,0,0
+CUST-00337,0.11,4907.73,Steady Core Customers,0,0
+CUST-00338,0.1837,4532.82,Steady Core Customers,0,0
+CUST-00339,0.192,4777.74,Steady Core Customers,0,0
+CUST-00340,0.5662,6579.4,High-Value Users,0,1
+CUST-00341,0.2515,5105.68,Steady Core Customers,0,0
+CUST-00342,0.2337,2989.05,Steady Core Customers,1,0
+CUST-00343,0.4449,4079.51,Steady Core Customers,0,0
+CUST-00344,0.1048,6128.05,High-Value Users,0,0
+CUST-00345,0.1648,4117.81,Steady Core Customers,0,0
+CUST-00346,0.1811,8252.19,High-Value Users,0,0
+CUST-00347,0.1534,4388.96,Steady Core Customers,0,0
+CUST-00348,0.6463,5836.47,High-Value Users,0,1
+CUST-00349,0.1634,6801.26,High-Value Users,0,0
+CUST-00350,0.2117,5363.62,Steady Core Customers,0,0
+CUST-00351,0.5965,5316.47,High-Value Users,0,1
+CUST-00352,0.7029,3601.51,Steady Core Customers,0,0
+CUST-00353,0.6777,3259.62,Steady Core Customers,0,0
+CUST-00354,0.171,7176.49,High-Value Users,0,0
+CUST-00355,0.3139,3303.04,Steady Core Customers,0,0
+CUST-00356,0.1353,6449.63,Steady Core Customers,0,0
+CUST-00357,0.1231,6349.42,High-Value Users,0,0
+CUST-00358,0.1275,5474.04,Steady Core Customers,0,0
+CUST-00359,0.7769,5421.46,High-Value Users,0,1
+CUST-00360,0.1745,4595.89,Steady Core Customers,0,0
+CUST-00361,0.4003,5985.48,High-Value Users,0,0
+CUST-00362,0.1307,6206.23,High-Value Users,0,0
+CUST-00363,0.6935,5477.7,High-Value Users,0,1
+CUST-00364,0.1347,6228.78,High-Value Users,0,0
+CUST-00365,0.5862,6778.64,High-Value Users,0,1
+CUST-00366,0.7218,4997.9,High-Value Users,0,0
+CUST-00367,0.0644,6559.2,Steady Core Customers,0,0
+CUST-00368,0.5184,6163.97,High-Value Users,0,1
+CUST-00369,0.1288,4852.4,Steady Core Customers,0,0
+CUST-00370,0.0877,8139.2,High-Value Users,0,0
+CUST-00371,0.5978,5564.93,High-Value Users,0,1
+CUST-00372,0.5587,4713.87,Steady Core Customers,0,0
+CUST-00373,0.1154,4826.1,Steady Core Customers,0,0
+CUST-00374,0.1985,3951.51,Steady Core Customers,0,0
+CUST-00375,0.0749,3841.17,Steady Core Customers,0,0
+CUST-00376,0.5618,6800.6,High-Value Users,1,1
+CUST-00377,0.1505,3815.37,Steady Core Customers,0,0
+CUST-00378,0.7296,5190.41,High-Value Users,0,0
+CUST-00379,0.1185,2741.0,Steady Core Customers,0,0
+CUST-00380,0.1547,3601.55,Steady Core Customers,0,0
+CUST-00381,0.2749,6147.61,Steady Core Customers,0,0
+CUST-00382,0.6108,6560.39,High-Value Users,0,1
+CUST-00383,0.4216,4101.66,Steady Core Customers,0,0
+CUST-00384,0.6027,4518.8,Steady Core Customers,0,0
+CUST-00385,0.5337,5576.84,High-Value Users,0,1
+CUST-00386,0.4286,5394.01,High-Value Users,0,0
+CUST-00387,0.1712,4271.36,Steady Core Customers,0,0
+CUST-00388,0.4238,4808.68,Steady Core Customers,0,0
+CUST-00389,0.6432,6282.32,High-Value Users,0,1
+CUST-00390,0.2647,8500.67,High-Value Users,0,0
+CUST-00391,0.6416,3359.69,Steady Core Customers,0,0
+CUST-00392,0.5771,4948.98,Steady Core Customers,0,0
+CUST-00393,0.0887,9169.12,High-Value Users,0,0
+CUST-00394,0.3408,4288.28,Steady Core Customers,0,0
+CUST-00395,0.3439,4179.21,Steady Core Customers,0,0
+CUST-00396,0.1919,5666.8,High-Value Users,0,0
+CUST-00397,0.5684,2886.48,Steady Core Customers,0,0
+CUST-00398,0.6433,6267.49,High-Value Users,0,1
+CUST-00399,0.7373,6087.62,High-Value Users,0,1
+CUST-00400,0.5267,2600.11,Steady Core Customers,1,0
+CUST-00401,0.1328,6822.52,High-Value Users,0,0
+CUST-00402,0.6434,4433.06,Steady Core Customers,0,0
+CUST-00403,0.6017,4824.33,Steady Core Customers,0,0
+CUST-00404,0.4027,5480.52,High-Value Users,0,0
+CUST-00405,0.1259,8303.11,High-Value Users,0,0
+CUST-00406,0.4179,5351.4,High-Value Users,0,0
+CUST-00407,0.1774,7204.02,High-Value Users,0,0
+CUST-00408,0.4732,3676.29,Steady Core Customers,0,0
+CUST-00409,0.195,10302.36,High-Value Users,0,0
+CUST-00410,0.632,4793.56,Steady Core Customers,0,0
+CUST-00411,0.3797,3751.66,Steady Core Customers,0,0
+CUST-00412,0.6866,5315.45,High-Value Users,0,1
+CUST-00413,0.4599,3296.91,Steady Core Customers,0,0
+CUST-00414,0.1701,3536.56,Steady Core Customers,0,0
+CUST-00415,0.2434,4887.32,Steady Core Customers,0,0
+CUST-00416,0.0917,4606.78,Steady Core Customers,0,0
+CUST-00417,0.6313,3985.63,Steady Core Customers,0,0
+CUST-00418,0.1877,8269.84,High-Value Users,0,0
+CUST-00419,0.476,2271.3,Steady Core Customers,0,0
+CUST-00420,0.0884,8743.45,High-Value Users,0,0
+CUST-00421,0.1887,5381.57,Steady Core Customers,0,0
+CUST-00422,0.3413,7921.77,High-Value Users,0,0
+CUST-00423,0.1828,3935.71,Steady Core Customers,0,0
+CUST-00424,0.187,6657.33,High-Value Users,0,0
+CUST-00425,0.1508,2686.61,Steady Core Customers,0,0
+CUST-00426,0.484,4627.47,Steady Core Customers,0,0
+CUST-00427,0.1542,6237.64,High-Value Users,0,0
+CUST-00428,0.7055,4480.55,Steady Core Customers,0,0
+CUST-00429,0.4568,5901.51,High-Value Users,0,0
+CUST-00430,0.182,7261.69,High-Value Users,0,0
+CUST-00431,0.5962,2316.45,Steady Core Customers,1,0
+CUST-00432,0.1514,5940.54,High-Value Users,0,0
+CUST-00433,0.5579,5552.37,High-Value Users,0,1
+CUST-00434,0.312,4077.77,Steady Core Customers,0,0
+CUST-00435,0.1573,10373.0,High-Value Users,1,0
+CUST-00436,0.6122,6222.57,High-Value Users,0,1
+CUST-00437,0.1284,5701.65,Steady Core Customers,0,0
+CUST-00438,0.1722,4468.11,Steady Core Customers,0,0
+CUST-00439,0.1182,4911.44,Steady Core Customers,0,0
+CUST-00440,0.6288,4195.72,Steady Core Customers,0,0
+CUST-00441,0.1226,5368.82,High-Value Users,0,0
+CUST-00442,0.6873,4116.53,Steady Core Customers,0,0
+CUST-00443,0.6916,3834.5,Steady Core Customers,0,0
+CUST-00444,0.6275,4785.82,High-Value Users,0,0
+CUST-00445,0.4434,6076.53,High-Value Users,0,0
+CUST-00446,0.5672,5674.75,High-Value Users,0,1
+CUST-00447,0.616,3829.06,Steady Core Customers,0,0
+CUST-00448,0.6801,4074.29,Steady Core Customers,0,0
+CUST-00449,0.1923,4532.96,Steady Core Customers,0,0
+CUST-00450,0.5972,4159.76,Steady Core Customers,0,0
+CUST-00451,0.3707,4355.29,Steady Core Customers,0,0
+CUST-00452,0.3348,6689.66,High-Value Users,0,0
+CUST-00453,0.5557,5002.09,High-Value Users,0,0
+CUST-00454,0.1249,5308.47,Steady Core Customers,0,0
+CUST-00455,0.1063,7083.14,High-Value Users,0,0
+CUST-00456,0.2495,5409.09,Steady Core Customers,1,0
+CUST-00457,0.1102,4505.76,Steady Core Customers,0,0
+CUST-00458,0.4913,5369.81,High-Value Users,0,0
+CUST-00459,0.1319,4269.1,Steady Core Customers,0,0
+CUST-00460,0.2858,6600.65,High-Value Users,0,0
+CUST-00461,0.6164,3419.8,Steady Core Customers,1,0
+CUST-00462,0.3324,3886.69,Steady Core Customers,0,0
+CUST-00463,0.3582,5145.16,High-Value Users,0,0
+CUST-00464,0.109,5128.52,Steady Core Customers,0,0
+CUST-00465,0.4882,5559.45,High-Value Users,0,0
+CUST-00466,0.4495,6224.55,High-Value Users,0,0
+CUST-00467,0.7654,3994.34,Steady Core Customers,0,0
+CUST-00468,0.0726,3265.25,Steady Core Customers,0,0
+CUST-00469,0.085,6754.27,High-Value Users,0,0
+CUST-00470,0.0934,5057.37,Steady Core Customers,0,0
+CUST-00471,0.1884,7215.45,High-Value Users,0,0
+CUST-00472,0.1441,6897.86,High-Value Users,0,0
+CUST-00473,0.5282,6698.25,High-Value Users,0,1
+CUST-00474,0.3741,4969.14,High-Value Users,0,0
+CUST-00475,0.7049,5604.45,High-Value Users,0,1
+CUST-00476,0.5759,4876.26,Steady Core Customers,0,0
+CUST-00477,0.2447,6623.89,High-Value Users,0,0
+CUST-00478,0.5409,5313.25,High-Value Users,0,0
+CUST-00479,0.385,3887.61,Steady Core Customers,0,0
+CUST-00480,0.1573,6515.12,High-Value Users,0,0
+CUST-00481,0.445,5150.77,Steady Core Customers,0,0
+CUST-00482,0.338,5127.57,High-Value Users,0,0
+CUST-00483,0.5525,4824.35,High-Value Users,0,0
+CUST-00484,0.1793,3952.29,Steady Core Customers,0,0
+CUST-00485,0.4134,4984.0,Steady Core Customers,0,0
+CUST-00486,0.4284,7106.21,High-Value Users,0,0
+CUST-00487,0.7139,4191.79,High-Value Users,1,0
+CUST-00488,0.1348,6470.48,High-Value Users,0,0
+CUST-00489,0.6931,5596.81,High-Value Users,0,1
+CUST-00490,0.4434,4314.34,Steady Core Customers,0,0
+CUST-00491,0.1167,6892.7,High-Value Users,0,0
+CUST-00492,0.149,5162.83,Steady Core Customers,0,0
+CUST-00493,0.6916,3301.79,Steady Core Customers,0,0
+CUST-00494,0.4752,4513.66,Steady Core Customers,0,0
+CUST-00495,0.4533,5126.58,High-Value Users,0,0
+CUST-00496,0.2543,4900.17,Steady Core Customers,0,0
+CUST-00497,0.254,4238.98,Steady Core Customers,0,0
+CUST-00498,0.2147,7435.49,High-Value Users,0,0
+CUST-00499,0.1995,4091.94,Steady Core Customers,0,0
+CUST-00500,0.0749,4234.75,Steady Core Customers,0,0
+CUST-00501,0.5805,5511.51,High-Value Users,0,1
+CUST-00502,0.1791,6071.08,Steady Core Customers,0,0
+CUST-00503,0.2823,3313.17,Steady Core Customers,0,0
+CUST-00504,0.1592,5998.35,High-Value Users,0,0
+CUST-00505,0.5423,4303.32,Steady Core Customers,0,0
+CUST-00506,0.1112,3836.3,Steady Core Customers,0,0
+CUST-00507,0.1211,5632.85,Steady Core Customers,0,0
+CUST-00508,0.1207,5356.7,Steady Core Customers,0,0
+CUST-00509,0.211,5405.03,Steady Core Customers,0,0
+CUST-00510,0.6035,5503.48,High-Value Users,0,1
+CUST-00511,0.4945,5542.58,High-Value Users,0,0
+CUST-00512,0.2248,3799.41,Steady Core Customers,0,0
+CUST-00513,0.1,5729.02,Steady Core Customers,0,0
+CUST-00514,0.15,4942.07,Steady Core Customers,0,0
+CUST-00515,0.5549,2935.08,Steady Core Customers,0,0
+CUST-00516,0.4312,4224.26,Steady Core Customers,0,0
+CUST-00517,0.1426,3690.61,Steady Core Customers,0,0
+CUST-00518,0.0834,7671.85,High-Value Users,0,0
+CUST-00519,0.4524,3462.84,Steady Core Customers,0,0
+CUST-00520,0.5198,5201.87,High-Value Users,0,0
+CUST-00521,0.0989,5130.63,Steady Core Customers,0,0
+CUST-00522,0.6098,6843.13,High-Value Users,0,1
+CUST-00523,0.4417,5787.13,High-Value Users,0,0
+CUST-00524,0.4399,5575.86,High-Value Users,0,0
+CUST-00525,0.6035,5148.29,Steady Core Customers,0,0
+CUST-00526,0.4147,5901.86,High-Value Users,0,0
+CUST-00527,0.1916,5397.79,Steady Core Customers,0,0
+CUST-00528,0.126,6634.41,High-Value Users,0,0
+CUST-00529,0.1592,5392.38,High-Value Users,0,0
+CUST-00530,0.1644,4854.16,Steady Core Customers,0,0
+CUST-00531,0.688,3989.56,Steady Core Customers,1,0
+CUST-00532,0.4087,4980.1,High-Value Users,0,0
+CUST-00533,0.5664,5695.65,High-Value Users,0,1
+CUST-00534,0.4377,4886.28,High-Value Users,0,0
+CUST-00535,0.0651,5622.84,Steady Core Customers,0,0
+CUST-00536,0.4683,6003.43,High-Value Users,0,0
+CUST-00537,0.2969,4190.87,Steady Core Customers,0,0
+CUST-00538,0.4436,4032.54,Steady Core Customers,0,0
+CUST-00539,0.5739,3421.77,Steady Core Customers,0,0
+CUST-00540,0.4433,3715.27,Steady Core Customers,0,0
+CUST-00541,0.5857,5960.17,High-Value Users,0,1
+CUST-00542,0.1032,6810.25,High-Value Users,0,0
+CUST-00543,0.1264,8148.81,High-Value Users,0,0
+CUST-00544,0.4199,5144.81,High-Value Users,0,0
+CUST-00545,0.0969,5734.66,High-Value Users,0,0
+CUST-00546,0.1561,5793.75,High-Value Users,0,0
+CUST-00547,0.6969,5207.69,High-Value Users,0,0
+CUST-00548,0.3173,7731.08,High-Value Users,0,0
+CUST-00549,0.7351,5200.96,High-Value Users,0,0
+CUST-00550,0.5208,5398.73,High-Value Users,0,1
+CUST-00551,0.0769,6628.24,High-Value Users,0,0
+CUST-00552,0.5963,4981.23,High-Value Users,0,0
+CUST-00553,0.7017,5558.31,High-Value Users,0,1
+CUST-00554,0.1298,6462.15,Steady Core Customers,0,0
+CUST-00555,0.6639,7213.28,High-Value Users,0,1
+CUST-00556,0.1628,4670.34,Steady Core Customers,0,0
+CUST-00557,0.7468,4659.37,Steady Core Customers,0,0
+CUST-00558,0.5709,4332.06,Steady Core Customers,0,0
+CUST-00559,0.4898,4341.45,Steady Core Customers,0,0
+CUST-00560,0.7106,3656.83,Steady Core Customers,0,0
+CUST-00561,0.788,3993.85,Steady Core Customers,0,0
+CUST-00562,0.2343,7314.67,High-Value Users,0,0
+CUST-00563,0.1725,7841.1,High-Value Users,0,0
+CUST-00564,0.0961,5096.68,Steady Core Customers,0,0
+CUST-00565,0.7887,4318.84,Steady Core Customers,0,0
+CUST-00566,0.2018,7879.51,High-Value Users,0,0
+CUST-00567,0.5059,5550.07,High-Value Users,0,1
+CUST-00568,0.1945,10510.87,High-Value Users,0,0
+CUST-00569,0.1361,6400.18,High-Value Users,0,0
+CUST-00570,0.2469,7938.64,High-Value Users,1,0
+CUST-00571,0.4352,7088.46,High-Value Users,0,0
+CUST-00572,0.1266,2720.19,Steady Core Customers,0,0
+CUST-00573,0.2765,7071.14,High-Value Users,0,0
+CUST-00574,0.4953,6278.46,High-Value Users,0,0
+CUST-00575,0.2041,3589.52,Steady Core Customers,0,0
+CUST-00576,0.4871,5538.14,High-Value Users,0,0
+CUST-00577,0.6738,5412.55,High-Value Users,0,1
+CUST-00578,0.1372,6448.18,High-Value Users,0,0
+CUST-00579,0.2327,6818.32,High-Value Users,0,0
+CUST-00580,0.3334,5048.29,Steady Core Customers,0,0
+CUST-00581,0.5842,2257.46,Steady Core Customers,0,0
+CUST-00582,0.3441,6211.3,High-Value Users,0,0
+CUST-00583,0.6358,6821.98,High-Value Users,0,1
+CUST-00584,0.3796,3814.78,Steady Core Customers,0,0
+CUST-00585,0.6903,4797.8,Steady Core Customers,0,0
+CUST-00586,0.1751,5221.3,Steady Core Customers,0,0
+CUST-00587,0.4053,4120.68,Steady Core Customers,0,0
+CUST-00588,0.3845,4498.98,Steady Core Customers,0,0
+CUST-00589,0.5938,5919.44,High-Value Users,0,1
+CUST-00590,0.3815,5693.66,High-Value Users,0,0
+CUST-00591,0.4186,6802.77,High-Value Users,0,0
+CUST-00592,0.5018,3612.25,Steady Core Customers,1,0
+CUST-00593,0.4832,3265.2,Steady Core Customers,0,0
+CUST-00594,0.3023,4370.78,Steady Core Customers,0,0
+CUST-00595,0.1327,5464.99,High-Value Users,0,0
+CUST-00596,0.1092,5983.83,High-Value Users,0,0
+CUST-00597,0.4038,4238.41,Steady Core Customers,0,0
+CUST-00598,0.6304,3856.45,Steady Core Customers,0,0
+CUST-00599,0.2716,4088.79,Steady Core Customers,0,0
+CUST-00600,0.6559,4949.62,Steady Core Customers,0,0
+CUST-00601,0.1131,7300.59,High-Value Users,0,0
+CUST-00602,0.1307,7554.08,High-Value Users,0,0
+CUST-00603,0.5553,4552.15,Steady Core Customers,0,0
+CUST-00604,0.6314,6268.72,High-Value Users,0,1
+CUST-00605,0.4444,4520.02,Steady Core Customers,0,0
+CUST-00606,0.5656,5847.7,High-Value Users,0,1
+CUST-00607,0.1284,3958.23,Steady Core Customers,0,0
+CUST-00608,0.6614,5091.84,High-Value Users,0,0
+CUST-00609,0.4383,7676.62,High-Value Users,1,0
+CUST-00610,0.5214,3597.87,Steady Core Customers,0,0
+CUST-00611,0.5376,6577.54,High-Value Users,0,1
+CUST-00612,0.7561,3220.95,Steady Core Customers,0,0
+CUST-00613,0.7608,5627.26,High-Value Users,0,1
+CUST-00614,0.3164,3961.77,Steady Core Customers,0,0
+CUST-00615,0.629,5443.88,High-Value Users,0,1
+CUST-00616,0.0656,7265.75,High-Value Users,0,0
+CUST-00617,0.4109,5616.56,High-Value Users,0,0
+CUST-00618,0.4241,4674.41,Steady Core Customers,0,0
+CUST-00619,0.1405,9050.17,High-Value Users,1,0
+CUST-00620,0.3584,4966.17,Steady Core Customers,0,0
+CUST-00621,0.1881,5542.95,High-Value Users,0,0
+CUST-00622,0.1076,6362.5,High-Value Users,0,0
+CUST-00623,0.2703,6716.97,High-Value Users,0,0
+CUST-00624,0.6996,4126.71,Steady Core Customers,0,0
+CUST-00625,0.2351,5739.65,Steady Core Customers,0,0
+CUST-00626,0.5308,4745.33,Steady Core Customers,0,0
+CUST-00627,0.3836,3563.92,Steady Core Customers,0,0
+CUST-00628,0.236,7455.0,High-Value Users,0,0
+CUST-00629,0.6062,4018.84,Steady Core Customers,0,0
+CUST-00630,0.163,5582.91,Steady Core Customers,0,0
+CUST-00631,0.1252,8035.18,High-Value Users,0,0
+CUST-00632,0.1697,10168.89,High-Value Users,0,0
+CUST-00633,0.1175,6836.88,High-Value Users,0,0
+CUST-00634,0.2635,5352.98,Steady Core Customers,0,0
+CUST-00635,0.4378,6771.35,High-Value Users,0,0
+CUST-00636,0.221,6117.94,Steady Core Customers,0,0
+CUST-00637,0.1149,4522.9,Steady Core Customers,0,0
+CUST-00638,0.2158,4514.78,Steady Core Customers,0,0
+CUST-00639,0.1909,4956.81,Steady Core Customers,0,0
+CUST-00640,0.1816,5067.6,Steady Core Customers,0,0
+CUST-00641,0.6385,3941.61,Steady Core Customers,0,0
+CUST-00642,0.0741,4844.1,Steady Core Customers,0,0
+CUST-00643,0.4352,3883.91,Steady Core Customers,0,0
+CUST-00644,0.6823,3287.4,Steady Core Customers,0,0
+CUST-00645,0.6005,5862.15,High-Value Users,0,1
+CUST-00646,0.1791,5353.44,Steady Core Customers,0,0
+CUST-00647,0.0927,5468.54,High-Value Users,0,0
+CUST-00648,0.3495,4281.9,Steady Core Customers,0,0
+CUST-00649,0.438,4240.63,Steady Core Customers,0,0
+CUST-00650,0.3798,3980.52,Steady Core Customers,0,0
+CUST-00651,0.4441,4112.31,Steady Core Customers,0,0
+CUST-00652,0.4129,3914.17,Steady Core Customers,0,0
+CUST-00653,0.1284,5581.13,High-Value Users,0,0
+CUST-00654,0.4957,5100.58,Steady Core Customers,0,0
+CUST-00655,0.5877,5416.18,High-Value Users,0,1
+CUST-00656,0.5042,2299.41,Steady Core Customers,0,0
+CUST-00657,0.5606,4802.91,High-Value Users,0,0
+CUST-00658,0.1144,5296.31,Steady Core Customers,0,0
+CUST-00659,0.4254,4762.43,High-Value Users,0,0
+CUST-00660,0.399,5420.86,High-Value Users,0,0
+CUST-00661,0.1931,4431.7,Steady Core Customers,0,0
+CUST-00662,0.5013,4916.64,Steady Core Customers,0,0
+CUST-00663,0.2428,8566.44,High-Value Users,0,0
+CUST-00664,0.1392,8136.09,High-Value Users,0,0
+CUST-00665,0.1818,4981.92,Steady Core Customers,0,0
+CUST-00666,0.1015,4775.58,Steady Core Customers,0,0
+CUST-00667,0.4626,5082.8,Steady Core Customers,0,0
+CUST-00668,0.5831,5251.79,High-Value Users,0,0
+CUST-00669,0.5796,4932.05,Steady Core Customers,0,0
+CUST-00670,0.5561,3469.54,Steady Core Customers,0,0
+CUST-00671,0.5089,5373.72,Steady Core Customers,0,1
+CUST-00672,0.746,3355.28,Steady Core Customers,0,0
+CUST-00673,0.5705,4490.41,Steady Core Customers,0,0
+CUST-00674,0.4985,5313.38,High-Value Users,0,0
+CUST-00675,0.1107,5526.01,Steady Core Customers,0,0
+CUST-00676,0.476,7016.89,High-Value Users,0,0
+CUST-00677,0.4247,4601.85,Steady Core Customers,0,0
+CUST-00678,0.5326,6197.21,High-Value Users,0,1
+CUST-00679,0.2305,8286.75,High-Value Users,0,0
+CUST-00680,0.4519,5426.28,Steady Core Customers,0,0
+CUST-00681,0.1215,8110.93,High-Value Users,0,0
+CUST-00682,0.5385,5142.43,High-Value Users,0,0
+CUST-00683,0.5741,3076.98,Steady Core Customers,0,0
+CUST-00684,0.1615,6883.04,High-Value Users,0,0
+CUST-00685,0.3723,5676.94,High-Value Users,0,0
+CUST-00686,0.683,4182.36,Steady Core Customers,0,0
+CUST-00687,0.4798,3277.25,Steady Core Customers,0,0
+CUST-00688,0.485,5358.3,High-Value Users,0,0
+CUST-00689,0.2951,3664.63,Steady Core Customers,0,0
+CUST-00690,0.457,4468.67,Steady Core Customers,0,0
+CUST-00691,0.3989,4904.35,Steady Core Customers,0,0
+CUST-00692,0.1335,6302.74,High-Value Users,0,0
+CUST-00693,0.4722,3899.93,Steady Core Customers,0,0
+CUST-00694,0.582,5774.98,High-Value Users,0,1
+CUST-00695,0.0954,5437.41,Steady Core Customers,0,0
+CUST-00696,0.5214,3479.04,Steady Core Customers,0,0
+CUST-00697,0.1209,4510.21,Steady Core Customers,0,0
+CUST-00698,0.4368,5796.79,High-Value Users,0,0
+CUST-00699,0.1978,4884.22,Steady Core Customers,0,0
+CUST-00700,0.1624,7359.62,High-Value Users,0,0
+CUST-00701,0.7632,2027.6,Steady Core Customers,1,0
+CUST-00702,0.1435,5500.16,Steady Core Customers,0,0
+CUST-00703,0.2892,6208.35,High-Value Users,0,0
+CUST-00704,0.1528,5417.25,Steady Core Customers,0,0
+CUST-00705,0.6347,2997.67,Steady Core Customers,0,0
+CUST-00706,0.4802,5515.97,High-Value Users,0,0
+CUST-00707,0.3866,4721.34,Steady Core Customers,0,0
+CUST-00708,0.2242,7441.93,High-Value Users,0,0
+CUST-00709,0.5843,5698.46,High-Value Users,1,1
+CUST-00710,0.5792,4118.17,Steady Core Customers,0,0
+CUST-00711,0.1072,7451.12,High-Value Users,0,0
+CUST-00712,0.624,3847.07,Steady Core Customers,0,0
+CUST-00713,0.1567,5416.89,Steady Core Customers,0,0
+CUST-00714,0.3951,3113.38,Steady Core Customers,0,0
+CUST-00715,0.1813,4516.18,Steady Core Customers,0,0
+CUST-00716,0.3305,4762.23,Steady Core Customers,0,0
+CUST-00717,0.5153,3997.23,Steady Core Customers,0,0
+CUST-00718,0.5608,6046.91,High-Value Users,0,1
+CUST-00719,0.5307,4896.05,High-Value Users,0,0
+CUST-00720,0.5781,3593.11,Steady Core Customers,0,0
+CUST-00721,0.6988,4583.51,High-Value Users,0,0
+CUST-00722,0.1211,5589.17,Steady Core Customers,0,0
+CUST-00723,0.789,6345.3,High-Value Users,0,1
+CUST-00724,0.7178,4464.87,Steady Core Customers,1,0
+CUST-00725,0.6589,4506.89,High-Value Users,0,0
+CUST-00726,0.6801,4813.66,Steady Core Customers,0,0
+CUST-00727,0.0959,6913.83,High-Value Users,0,0
+CUST-00728,0.378,3888.52,Steady Core Customers,0,0
+CUST-00729,0.0841,3997.38,Steady Core Customers,0,0
+CUST-00730,0.1675,7683.08,High-Value Users,0,0
+CUST-00731,0.1052,5331.63,Steady Core Customers,0,0
+CUST-00732,0.1725,5177.93,Steady Core Customers,0,0
+CUST-00733,0.2973,5232.65,Steady Core Customers,0,0
+CUST-00734,0.0599,6188.93,Steady Core Customers,0,0
+CUST-00735,0.1409,3617.31,Steady Core Customers,1,0
+CUST-00736,0.1643,4154.43,Steady Core Customers,0,0
+CUST-00737,0.7055,4581.35,Steady Core Customers,0,0
+CUST-00738,0.577,6393.32,High-Value Users,0,1
+CUST-00739,0.1221,4712.27,Steady Core Customers,0,0
+CUST-00740,0.4372,5632.41,High-Value Users,0,0
+CUST-00741,0.2046,5493.09,High-Value Users,0,0
+CUST-00742,0.3532,4757.18,Steady Core Customers,0,0
+CUST-00743,0.5182,5669.88,High-Value Users,0,1
+CUST-00744,0.7133,5043.08,High-Value Users,0,0
+CUST-00745,0.6401,5371.79,High-Value Users,0,1
+CUST-00746,0.705,3399.56,Steady Core Customers,0,0
+CUST-00747,0.2011,5508.96,Steady Core Customers,0,0
+CUST-00748,0.1574,6957.93,High-Value Users,0,0
+CUST-00749,0.1394,3208.34,Steady Core Customers,0,0
+CUST-00750,0.1542,4447.43,Steady Core Customers,0,0
+CUST-00751,0.1287,3690.76,Steady Core Customers,0,0
+CUST-00752,0.3989,5781.84,High-Value Users,0,0
+CUST-00753,0.217,7509.75,High-Value Users,0,0
+CUST-00754,0.2051,9196.6,High-Value Users,0,0
+CUST-00755,0.195,6513.97,High-Value Users,0,0
+CUST-00756,0.5479,4517.11,Steady Core Customers,0,0
+CUST-00757,0.138,4849.15,Steady Core Customers,0,0
+CUST-00758,0.4147,5023.82,High-Value Users,0,0
+CUST-00759,0.5525,5791.26,High-Value Users,0,1
+CUST-00760,0.1858,4796.32,Steady Core Customers,0,0
+CUST-00761,0.1461,8100.51,High-Value Users,0,0
+CUST-00762,0.3881,5432.86,High-Value Users,0,0
+CUST-00763,0.6152,4913.64,High-Value Users,0,0
+CUST-00764,0.1096,5881.85,Steady Core Customers,0,0
+CUST-00765,0.5076,4198.93,Steady Core Customers,0,0
+CUST-00766,0.4454,4406.74,Steady Core Customers,0,0
+CUST-00767,0.2198,3887.32,Steady Core Customers,0,0
+CUST-00768,0.0983,6140.18,Steady Core Customers,0,0
+CUST-00769,0.5199,3913.45,Steady Core Customers,0,0
+CUST-00770,0.4261,6179.57,High-Value Users,1,0
+CUST-00771,0.5399,4223.56,Steady Core Customers,0,0
+CUST-00772,0.4273,5352.01,High-Value Users,0,0
+CUST-00773,0.1554,6150.54,Steady Core Customers,0,0
+CUST-00774,0.1242,3626.05,Steady Core Customers,0,0
+CUST-00775,0.7568,3283.59,Steady Core Customers,0,0
+CUST-00776,0.4505,3885.15,Steady Core Customers,0,0
+CUST-00777,0.5437,4516.3,Steady Core Customers,0,0
+CUST-00778,0.6419,4020.67,Steady Core Customers,0,0
+CUST-00779,0.6322,3710.74,Steady Core Customers,0,0
+CUST-00780,0.3211,5329.19,High-Value Users,0,0
+CUST-00781,0.1502,4222.24,Steady Core Customers,0,0
+CUST-00782,0.3163,3259.28,Steady Core Customers,0,0
+CUST-00783,0.1797,6284.8,High-Value Users,0,0
+CUST-00784,0.3567,3908.85,Steady Core Customers,0,0
+CUST-00785,0.1405,6258.08,Steady Core Customers,0,0
+CUST-00786,0.1982,7312.57,High-Value Users,0,0
+CUST-00787,0.4222,4236.36,Steady Core Customers,0,0
+CUST-00788,0.6294,5726.83,High-Value Users,0,1
+CUST-00789,0.1269,5768.16,High-Value Users,0,0
+CUST-00790,0.479,5385.06,High-Value Users,0,0
+CUST-00791,0.5772,3595.78,Steady Core Customers,0,0
+CUST-00792,0.5179,5006.21,Steady Core Customers,0,0
+CUST-00793,0.1621,4912.24,Steady Core Customers,0,0
+CUST-00794,0.5546,5834.85,High-Value Users,0,1
+CUST-00795,0.6198,4393.09,High-Value Users,0,0
+CUST-00796,0.3903,4457.61,Steady Core Customers,0,0
+CUST-00797,0.2037,5631.83,Steady Core Customers,0,0
+CUST-00798,0.3972,3674.13,Steady Core Customers,0,0
+CUST-00799,0.0899,8308.78,High-Value Users,0,0
+CUST-00800,0.233,6531.03,High-Value Users,0,0
+CUST-00801,0.3287,3741.46,Steady Core Customers,0,0
+CUST-00802,0.4784,3754.24,Steady Core Customers,0,0
+CUST-00803,0.1646,8789.96,High-Value Users,1,0
+CUST-00804,0.1311,4424.19,Steady Core Customers,0,0
+CUST-00805,0.5194,6035.02,High-Value Users,0,1
+CUST-00806,0.5049,5330.21,High-Value Users,0,1
+CUST-00807,0.5258,4588.54,High-Value Users,0,0
+CUST-00808,0.3978,6157.16,High-Value Users,0,0
+CUST-00809,0.7818,4549.77,Steady Core Customers,0,0
+CUST-00810,0.5716,6674.55,High-Value Users,0,1
+CUST-00811,0.5624,5120.91,Steady Core Customers,0,0
+CUST-00812,0.0984,5907.23,Steady Core Customers,0,0
+CUST-00813,0.1623,5518.91,Steady Core Customers,0,0
+CUST-00814,0.1359,7395.93,High-Value Users,0,0
+CUST-00815,0.1299,5795.51,High-Value Users,0,0
+CUST-00816,0.1404,6519.61,High-Value Users,0,0
+CUST-00817,0.6413,3308.64,Steady Core Customers,0,0
+CUST-00818,0.205,7150.67,High-Value Users,0,0
+CUST-00819,0.735,3182.93,Steady Core Customers,0,0
+CUST-00820,0.2485,3005.92,Steady Core Customers,0,0
+CUST-00821,0.263,7536.2,High-Value Users,0,0
+CUST-00822,0.1417,7342.31,High-Value Users,1,0
+CUST-00823,0.6034,5678.62,High-Value Users,0,1
+CUST-00824,0.1778,7109.17,High-Value Users,0,0
+CUST-00825,0.4052,5391.25,High-Value Users,0,0
+CUST-00826,0.4599,4340.93,Steady Core Customers,0,0
+CUST-00827,0.6301,4527.2,Steady Core Customers,0,0
+CUST-00828,0.3372,5409.43,High-Value Users,0,0
+CUST-00829,0.1643,6809.99,High-Value Users,0,0
+CUST-00830,0.5695,5410.93,High-Value Users,0,1
+CUST-00831,0.5496,3718.02,Steady Core Customers,0,0
+CUST-00832,0.2044,6192.63,High-Value Users,0,0
+CUST-00833,0.4381,3881.06,Steady Core Customers,0,0
+CUST-00834,0.6485,3053.09,Steady Core Customers,1,0
+CUST-00835,0.6412,6316.76,High-Value Users,0,1
+CUST-00836,0.5311,4083.37,Steady Core Customers,0,0
+CUST-00837,0.6544,4767.66,High-Value Users,0,0
+CUST-00838,0.2271,5465.24,High-Value Users,0,0
+CUST-00839,0.1412,5623.28,Steady Core Customers,0,0
+CUST-00840,0.5312,3422.67,Steady Core Customers,0,0
+CUST-00841,0.7603,4806.46,Steady Core Customers,0,0
+CUST-00842,0.5251,3849.23,Steady Core Customers,0,0
+CUST-00843,0.0869,7341.69,High-Value Users,0,0
+CUST-00844,0.7507,6074.95,High-Value Users,0,1
+CUST-00845,0.5844,3774.84,Steady Core Customers,0,0
+CUST-00846,0.1179,5226.49,Steady Core Customers,1,0
+CUST-00847,0.1842,4909.51,Steady Core Customers,0,0
+CUST-00848,0.7574,4958.06,High-Value Users,0,0
+CUST-00849,0.3892,3462.26,Steady Core Customers,0,0
+CUST-00850,0.3801,5615.29,High-Value Users,0,0
+CUST-00851,0.1249,4657.25,Steady Core Customers,0,0
+CUST-00852,0.5039,4850.87,Steady Core Customers,0,0
+CUST-00853,0.3234,5644.56,High-Value Users,0,0
+CUST-00854,0.1107,5137.28,Steady Core Customers,0,0
+CUST-00855,0.4737,6277.69,High-Value Users,0,0
+CUST-00856,0.5649,4757.07,Steady Core Customers,0,0
+CUST-00857,0.0923,5792.6,Steady Core Customers,0,0
+CUST-00858,0.7396,4715.23,High-Value Users,0,0
+CUST-00859,0.1153,7492.04,High-Value Users,0,0
+CUST-00860,0.1424,5316.0,Steady Core Customers,0,0
+CUST-00861,0.2928,5192.81,Steady Core Customers,0,0
+CUST-00862,0.1694,9010.16,High-Value Users,0,0
+CUST-00863,0.1649,6502.4,High-Value Users,0,0
+CUST-00864,0.2573,7203.62,High-Value Users,0,0
+CUST-00865,0.2171,8008.78,High-Value Users,0,0
+CUST-00866,0.6251,4634.55,Steady Core Customers,0,0
+CUST-00867,0.475,4781.0,Steady Core Customers,0,0
+CUST-00868,0.1625,5809.08,High-Value Users,0,0
+CUST-00869,0.6168,4890.96,High-Value Users,0,0
+CUST-00870,0.4762,5022.09,High-Value Users,0,0
+CUST-00871,0.5134,5266.98,High-Value Users,0,0
+CUST-00872,0.543,4743.67,Steady Core Customers,0,0
+CUST-00873,0.1669,4689.19,Steady Core Customers,0,0
+CUST-00874,0.1656,5055.47,Steady Core Customers,0,0
+CUST-00875,0.3409,8108.16,High-Value Users,0,0
+CUST-00876,0.569,3346.74,Steady Core Customers,0,0
+CUST-00877,0.4408,5220.35,High-Value Users,0,0
+CUST-00878,0.0645,6242.27,Steady Core Customers,0,0
+CUST-00879,0.4609,5738.77,High-Value Users,0,0
+CUST-00880,0.1473,5275.48,Steady Core Customers,0,0
+CUST-00881,0.2368,5167.43,Steady Core Customers,0,0
+CUST-00882,0.6679,5553.66,High-Value Users,0,1
+CUST-00883,0.4909,5994.55,Steady Core Customers,0,0
+CUST-00884,0.1155,5195.04,Steady Core Customers,0,0
+CUST-00885,0.5252,7348.43,High-Value Users,0,1
+CUST-00886,0.1726,9018.61,High-Value Users,0,0
+CUST-00887,0.0773,5144.93,Steady Core Customers,0,0
+CUST-00888,0.5522,5395.56,High-Value Users,0,1
+CUST-00889,0.0823,4784.85,Steady Core Customers,0,0
+CUST-00890,0.611,5442.49,High-Value Users,0,1
+CUST-00891,0.4257,4864.17,High-Value Users,0,0
+CUST-00892,0.1256,8252.11,High-Value Users,0,0
+CUST-00893,0.2187,7468.91,High-Value Users,0,0
+CUST-00894,0.2013,6569.49,High-Value Users,0,0
+CUST-00895,0.18,3946.23,Steady Core Customers,0,0
+CUST-00896,0.7826,5312.17,High-Value Users,0,0
+CUST-00897,0.475,3653.02,Steady Core Customers,0,0
+CUST-00898,0.442,3658.58,Steady Core Customers,0,0
+CUST-00899,0.4282,5468.93,High-Value Users,0,0
+CUST-00900,0.5396,4914.44,Steady Core Customers,0,0
+CUST-00901,0.3187,5453.2,High-Value Users,0,0
+CUST-00902,0.2036,8469.59,High-Value Users,1,0
+CUST-00903,0.4208,4918.19,Steady Core Customers,0,0
+CUST-00904,0.1409,6704.08,High-Value Users,0,0
+CUST-00905,0.0996,5068.63,Steady Core Customers,0,0
+CUST-00906,0.145,6900.43,High-Value Users,0,0
+CUST-00907,0.4599,7237.62,High-Value Users,0,0
+CUST-00908,0.101,7792.95,High-Value Users,0,0
+CUST-00909,0.1613,7174.19,High-Value Users,0,0
+CUST-00910,0.3514,4903.38,Steady Core Customers,0,0
+CUST-00911,0.4559,3787.87,Steady Core Customers,0,0
+CUST-00912,0.807,5838.09,High-Value Users,0,1
+CUST-00913,0.1686,5580.89,High-Value Users,0,0
+CUST-00914,0.1578,5142.4,Steady Core Customers,1,0
+CUST-00915,0.399,3189.93,Steady Core Customers,1,0
+CUST-00916,0.113,4583.44,Steady Core Customers,0,0
+CUST-00917,0.6421,3017.65,Steady Core Customers,0,0
+CUST-00918,0.5688,4558.14,High-Value Users,0,0
+CUST-00919,0.1988,4874.74,Steady Core Customers,0,0
+CUST-00920,0.1728,8468.07,High-Value Users,0,0
+CUST-00921,0.1671,6147.9,High-Value Users,0,0
+CUST-00922,0.4992,4374.65,Steady Core Customers,0,0
+CUST-00923,0.5867,3076.64,Steady Core Customers,0,0
+CUST-00924,0.3056,4283.03,Steady Core Customers,0,0
+CUST-00925,0.5405,3545.34,Steady Core Customers,0,0
+CUST-00926,0.3052,6369.38,High-Value Users,0,0
+CUST-00927,0.1201,7332.4,High-Value Users,0,0
+CUST-00928,0.2764,6317.78,High-Value Users,0,0
+CUST-00929,0.5131,8056.6,High-Value Users,0,1
+CUST-00930,0.4852,4330.81,Steady Core Customers,0,0
+CUST-00931,0.5999,5716.64,High-Value Users,1,1
+CUST-00932,0.4322,4893.97,Steady Core Customers,0,0
+CUST-00933,0.1171,5560.19,Steady Core Customers,0,0
+CUST-00934,0.6738,3883.84,Steady Core Customers,0,0
+CUST-00935,0.2045,8320.71,High-Value Users,0,0
+CUST-00936,0.509,4784.06,High-Value Users,0,0
+CUST-00937,0.418,3861.42,Steady Core Customers,0,0
+CUST-00938,0.1677,4226.9,Steady Core Customers,0,0
+CUST-00939,0.5319,2979.7,Steady Core Customers,0,0
+CUST-00940,0.5904,4799.91,High-Value Users,0,0
+CUST-00941,0.0931,5084.46,Steady Core Customers,0,0
+CUST-00942,0.5627,2348.18,Steady Core Customers,0,0
+CUST-00943,0.4157,4188.19,Steady Core Customers,0,0
+CUST-00944,0.7036,4431.74,Steady Core Customers,0,0
+CUST-00945,0.5892,6559.38,High-Value Users,0,1
+CUST-00946,0.6213,5534.06,High-Value Users,0,1
+CUST-00947,0.4047,5522.26,Steady Core Customers,0,0
+CUST-00948,0.1115,5334.34,Steady Core Customers,0,0
+CUST-00949,0.1631,6888.49,High-Value Users,0,0
+CUST-00950,0.3685,6181.86,High-Value Users,0,0
+CUST-00951,0.4694,5228.35,Steady Core Customers,0,0
+CUST-00952,0.6756,3473.97,Steady Core Customers,0,0
+CUST-00953,0.457,5024.41,High-Value Users,0,0
+CUST-00954,0.5407,5559.71,High-Value Users,0,1
+CUST-00955,0.2305,4432.89,Steady Core Customers,0,0
+CUST-00956,0.283,4908.21,High-Value Users,0,0
+CUST-00957,0.3231,7286.58,High-Value Users,0,0
+CUST-00958,0.2054,7130.15,High-Value Users,0,0
+CUST-00959,0.1567,7210.24,High-Value Users,0,0
+CUST-00960,0.3228,5040.88,High-Value Users,0,0
+CUST-00961,0.6778,5468.28,High-Value Users,0,1
+CUST-00962,0.1606,3996.65,Steady Core Customers,0,0
+CUST-00963,0.465,4047.63,Steady Core Customers,0,0
+CUST-00964,0.1856,4812.71,Steady Core Customers,0,0
+CUST-00965,0.1315,4618.63,Steady Core Customers,0,0
+CUST-00966,0.5387,7032.68,High-Value Users,1,1
+CUST-00967,0.6119,4324.36,Steady Core Customers,0,0
+CUST-00968,0.5004,4916.87,High-Value Users,0,0
+CUST-00969,0.5941,2904.66,Steady Core Customers,0,0
+CUST-00970,0.6023,3908.81,Steady Core Customers,0,0
+CUST-00971,0.17,4185.8,Steady Core Customers,0,0
+CUST-00972,0.2783,5645.11,Steady Core Customers,0,0
+CUST-00973,0.2205,7492.44,High-Value Users,0,0
+CUST-00974,0.1214,5999.47,Steady Core Customers,0,0
+CUST-00975,0.1553,5554.42,High-Value Users,0,0
+CUST-00976,0.5161,3208.52,Steady Core Customers,0,0
+CUST-00977,0.5936,5451.9,High-Value Users,0,1
+CUST-00978,0.1713,7772.86,High-Value Users,0,0
+CUST-00979,0.2448,6107.99,High-Value Users,0,0
+CUST-00980,0.6109,5949.09,High-Value Users,0,1
+CUST-00981,0.1581,6417.62,High-Value Users,0,0
+CUST-00982,0.5238,4104.83,Steady Core Customers,1,0
+CUST-00983,0.4119,6848.73,High-Value Users,0,0
+CUST-00984,0.1055,6985.66,High-Value Users,0,0
+CUST-00985,0.3854,4809.64,High-Value Users,0,0
+CUST-00986,0.5027,6712.18,High-Value Users,0,1
+CUST-00987,0.209,4926.74,Steady Core Customers,1,0
+CUST-00988,0.1759,6420.34,High-Value Users,0,0
+CUST-00989,0.4866,3317.31,Steady Core Customers,0,0
+CUST-00990,0.1453,5867.72,High-Value Users,0,0
+CUST-00991,0.3513,4331.73,Steady Core Customers,0,0
+CUST-00992,0.1678,7234.89,High-Value Users,0,0
+CUST-00993,0.606,5698.75,High-Value Users,0,1
+CUST-00994,0.0935,5089.74,Steady Core Customers,0,0
+CUST-00995,0.1436,3771.1,Steady Core Customers,0,0
+CUST-00996,0.6232,5711.04,High-Value Users,1,1
+CUST-00997,0.5516,5834.13,High-Value Users,0,1
+CUST-00998,0.3928,4272.61,Steady Core Customers,0,0
+CUST-00999,0.1542,4520.91,Steady Core Customers,0,0
+CUST-01000,0.2348,5508.19,Steady Core Customers,0,0
+CUST-01001,0.2097,3382.42,Steady Core Customers,0,0
+CUST-01002,0.1672,5826.92,Steady Core Customers,0,0
+CUST-01003,0.3817,4377.62,Steady Core Customers,0,0
+CUST-01004,0.1864,4570.97,Steady Core Customers,0,0
+CUST-01005,0.2998,4493.66,Steady Core Customers,0,0
+CUST-01006,0.2311,8241.33,High-Value Users,0,0
+CUST-01007,0.4015,4061.64,High-Value Users,0,0
+CUST-01008,0.0773,7714.42,High-Value Users,1,0
+CUST-01009,0.49,6563.19,High-Value Users,0,0
+CUST-01010,0.6117,3503.67,Steady Core Customers,0,0
+CUST-01011,0.597,2525.86,Steady Core Customers,0,0
+CUST-01012,0.1106,7570.83,High-Value Users,0,0
+CUST-01013,0.3369,3648.68,Steady Core Customers,0,0
+CUST-01014,0.5778,5076.5,High-Value Users,0,0
+CUST-01015,0.4659,3837.98,Steady Core Customers,0,0
+CUST-01016,0.3769,3942.37,Steady Core Customers,0,0
+CUST-01017,0.1257,7502.09,High-Value Users,0,0
+CUST-01018,0.1158,9443.7,High-Value Users,0,0
+CUST-01019,0.1516,4652.26,Steady Core Customers,0,0
+CUST-01020,0.1143,4958.82,Steady Core Customers,0,0
+CUST-01021,0.6455,5631.3,High-Value Users,0,1
+CUST-01022,0.5343,3879.1,Steady Core Customers,0,0
+CUST-01023,0.2257,6635.06,High-Value Users,0,0
+CUST-01024,0.0786,5835.86,High-Value Users,0,0
+CUST-01025,0.5468,7047.06,High-Value Users,0,1
+CUST-01026,0.221,8122.0,High-Value Users,0,0
+CUST-01027,0.472,5061.77,High-Value Users,0,0
+CUST-01028,0.4119,3543.85,Steady Core Customers,0,0
+CUST-01029,0.5852,5906.45,High-Value Users,0,1
+CUST-01030,0.1676,4531.42,Steady Core Customers,0,0
+CUST-01031,0.0809,5630.01,Steady Core Customers,0,0
+CUST-01032,0.6102,4536.64,Steady Core Customers,0,0
+CUST-01033,0.1873,5359.02,Steady Core Customers,0,0
+CUST-01034,0.1982,5836.07,High-Value Users,0,0
+CUST-01035,0.4112,4178.64,Steady Core Customers,0,0
+CUST-01036,0.0778,7954.85,High-Value Users,0,0
+CUST-01037,0.3414,2966.05,Steady Core Customers,0,0
+CUST-01038,0.6492,3610.63,Steady Core Customers,0,0
+CUST-01039,0.669,6739.68,High-Value Users,0,1
+CUST-01040,0.379,7464.08,High-Value Users,1,0
+CUST-01041,0.3016,6251.83,High-Value Users,0,0
+CUST-01042,0.6964,6571.07,High-Value Users,0,1
+CUST-01043,0.5538,4569.52,Steady Core Customers,0,0
+CUST-01044,0.2202,4549.68,Steady Core Customers,0,0
+CUST-01045,0.1366,5023.77,Steady Core Customers,0,0
+CUST-01046,0.781,5007.72,High-Value Users,0,0
+CUST-01047,0.4517,3618.22,Steady Core Customers,0,0
+CUST-01048,0.5259,4658.1,Steady Core Customers,0,0
+CUST-01049,0.0899,7262.0,High-Value Users,0,0
+CUST-01050,0.1932,7396.64,High-Value Users,0,0
+CUST-01051,0.4551,4298.41,Steady Core Customers,0,0
+CUST-01052,0.1616,4532.04,Steady Core Customers,0,0
+CUST-01053,0.1552,3982.97,Steady Core Customers,0,0
+CUST-01054,0.1623,6084.9,Steady Core Customers,0,0
+CUST-01055,0.6417,3984.87,Steady Core Customers,0,0
+CUST-01056,0.3291,7916.31,High-Value Users,0,0
+CUST-01057,0.1383,5315.78,Steady Core Customers,0,0
+CUST-01058,0.5214,6449.61,High-Value Users,0,1
+CUST-01059,0.6612,3999.59,Steady Core Customers,0,0
+CUST-01060,0.5466,3122.64,Steady Core Customers,0,0
+CUST-01061,0.4188,3325.53,Steady Core Customers,0,0
+CUST-01062,0.1626,6511.32,High-Value Users,0,0
+CUST-01063,0.2062,6579.62,High-Value Users,0,0
+CUST-01064,0.7692,6478.89,High-Value Users,0,1
+CUST-01065,0.1197,7367.48,High-Value Users,0,0
+CUST-01066,0.3391,3643.7,Steady Core Customers,0,0
+CUST-01067,0.1567,7863.12,High-Value Users,0,0
+CUST-01068,0.3679,3827.78,Steady Core Customers,0,0
+CUST-01069,0.1025,6373.03,High-Value Users,0,0
+CUST-01070,0.1122,5763.97,Steady Core Customers,0,0
+CUST-01071,0.0848,6552.18,High-Value Users,0,0
+CUST-01072,0.1528,5484.13,High-Value Users,0,0
+CUST-01073,0.6992,5325.79,High-Value Users,0,1
+CUST-01074,0.1034,4409.72,Steady Core Customers,0,0
+CUST-01075,0.2056,4892.83,High-Value Users,0,0
+CUST-01076,0.6675,5068.04,High-Value Users,0,0
+CUST-01077,0.148,7525.88,High-Value Users,0,0
+CUST-01078,0.5827,3520.99,Steady Core Customers,0,0
+CUST-01079,0.4478,4160.42,Steady Core Customers,0,0
+CUST-01080,0.1998,6047.37,Steady Core Customers,0,0
+CUST-01081,0.548,6564.66,High-Value Users,0,1
+CUST-01082,0.7041,5293.94,High-Value Users,0,0
+CUST-01083,0.4454,2753.53,Steady Core Customers,0,0
+CUST-01084,0.2108,4966.88,Steady Core Customers,0,0
+CUST-01085,0.0996,5651.9,Steady Core Customers,0,0
+CUST-01086,0.5959,7064.73,High-Value Users,0,1
+CUST-01087,0.2356,8340.01,High-Value Users,0,0
+CUST-01088,0.071,5156.81,Steady Core Customers,0,0
+CUST-01089,0.2287,7503.21,High-Value Users,0,0
+CUST-01090,0.3089,6224.89,High-Value Users,0,0
+CUST-01091,0.0943,5189.62,Steady Core Customers,0,0
+CUST-01092,0.4119,5359.98,High-Value Users,0,0
+CUST-01093,0.338,3661.77,Steady Core Customers,0,0
+CUST-01094,0.2154,5470.63,Steady Core Customers,0,0
+CUST-01095,0.4149,3481.33,Steady Core Customers,0,0
+CUST-01096,0.7429,4094.05,Steady Core Customers,0,0
+CUST-01097,0.6744,5630.59,High-Value Users,0,1
+CUST-01098,0.6195,6429.12,High-Value Users,0,1
+CUST-01099,0.1686,6125.3,Steady Core Customers,0,0
+CUST-01100,0.6302,4748.87,High-Value Users,0,0
+CUST-01101,0.1183,4054.57,Steady Core Customers,0,0
+CUST-01102,0.3162,6910.91,High-Value Users,0,0
+CUST-01103,0.7142,5491.29,High-Value Users,0,1
+CUST-01104,0.3714,4824.12,Steady Core Customers,0,0
+CUST-01105,0.4856,4283.73,Steady Core Customers,0,0
+CUST-01106,0.408,4580.0,Steady Core Customers,0,0
+CUST-01107,0.4577,6502.9,High-Value Users,0,0
+CUST-01108,0.0993,4952.07,Steady Core Customers,0,0
+CUST-01109,0.5417,2229.09,Steady Core Customers,0,0
+CUST-01110,0.519,7951.52,High-Value Users,0,1
+CUST-01111,0.3069,5040.92,Steady Core Customers,0,0
+CUST-01112,0.4458,4222.43,Steady Core Customers,0,0
+CUST-01113,0.5634,5599.73,High-Value Users,0,1
+CUST-01114,0.1098,4864.07,Steady Core Customers,0,0
+CUST-01115,0.4927,4026.86,Steady Core Customers,0,0
+CUST-01116,0.7303,2827.58,Steady Core Customers,0,0
+CUST-01117,0.1391,3995.41,Steady Core Customers,0,0
+CUST-01118,0.1997,7488.38,High-Value Users,0,0
+CUST-01119,0.1046,7921.66,High-Value Users,0,0
+CUST-01120,0.7945,4521.9,High-Value Users,0,0
+CUST-01121,0.1355,3581.23,Steady Core Customers,0,0
+CUST-01122,0.6506,3813.35,Steady Core Customers,0,0
+CUST-01123,0.1461,4720.49,Steady Core Customers,0,0
+CUST-01124,0.3948,5533.7,High-Value Users,0,0
+CUST-01125,0.2399,6577.83,High-Value Users,0,0
+CUST-01126,0.1574,6221.2,High-Value Users,0,0
+CUST-01127,0.2,6232.12,High-Value Users,0,0
+CUST-01128,0.5196,6114.73,High-Value Users,0,1
+CUST-01129,0.1131,5713.89,Steady Core Customers,0,0
+CUST-01130,0.2057,4432.0,Steady Core Customers,0,0
+CUST-01131,0.5325,3606.5,Steady Core Customers,0,0
+CUST-01132,0.3991,5025.25,High-Value Users,0,0
+CUST-01133,0.2914,3336.18,Steady Core Customers,0,0
+CUST-01134,0.4608,3555.32,Steady Core Customers,0,0
+CUST-01135,0.2739,5165.41,Steady Core Customers,0,0
+CUST-01136,0.4565,4416.89,Steady Core Customers,0,0
+CUST-01137,0.1028,5193.43,Steady Core Customers,0,0
+CUST-01138,0.2547,6790.66,High-Value Users,0,0
+CUST-01139,0.1291,5594.81,Steady Core Customers,0,0
+CUST-01140,0.1833,4568.95,Steady Core Customers,0,0
+CUST-01141,0.0958,3261.14,Steady Core Customers,0,0
+CUST-01142,0.3187,4232.13,Steady Core Customers,0,0
+CUST-01143,0.3485,3623.19,Steady Core Customers,0,0
+CUST-01144,0.1337,6083.49,Steady Core Customers,0,0
+CUST-01145,0.1791,8694.83,High-Value Users,0,0
+CUST-01146,0.697,5568.13,High-Value Users,0,1
+CUST-01147,0.1112,3981.15,Steady Core Customers,0,0
+CUST-01148,0.0808,5916.61,Steady Core Customers,0,0
+CUST-01149,0.6383,6943.3,High-Value Users,0,1
+CUST-01150,0.2637,7097.29,High-Value Users,0,0
+CUST-01151,0.0987,6345.69,High-Value Users,0,0
+CUST-01152,0.4766,4224.2,Steady Core Customers,0,0
+CUST-01153,0.7766,3469.35,Steady Core Customers,0,0
+CUST-01154,0.7112,5352.26,High-Value Users,0,1
+CUST-01155,0.169,5405.99,Steady Core Customers,0,0
+CUST-01156,0.3484,5737.34,High-Value Users,0,0
+CUST-01157,0.1808,5068.33,Steady Core Customers,0,0
+CUST-01158,0.1185,3652.99,Steady Core Customers,0,0
+CUST-01159,0.0914,4667.17,Steady Core Customers,0,0
+CUST-01160,0.5118,6075.6,High-Value Users,0,1
+CUST-01161,0.5443,3646.36,Steady Core Customers,0,0
+CUST-01162,0.7134,5363.22,High-Value Users,0,1
+CUST-01163,0.6999,6382.43,High-Value Users,0,1
+CUST-01164,0.3161,5184.83,High-Value Users,0,0
+CUST-01165,0.6037,4001.04,Steady Core Customers,0,0
+CUST-01166,0.3968,4677.53,Steady Core Customers,0,0
+CUST-01167,0.1464,6317.93,High-Value Users,0,0
+CUST-01168,0.4227,4408.45,Steady Core Customers,0,0
+CUST-01169,0.3704,4645.84,Steady Core Customers,0,0
+CUST-01170,0.093,5755.61,Steady Core Customers,0,0
+CUST-01171,0.6965,3280.57,Steady Core Customers,0,0
+CUST-01172,0.0931,9717.95,High-Value Users,0,0
+CUST-01173,0.2385,6656.67,High-Value Users,0,0
+CUST-01174,0.4114,3368.79,Steady Core Customers,0,0
+CUST-01175,0.1666,7259.92,High-Value Users,0,0
+CUST-01176,0.0971,6046.52,Steady Core Customers,0,0
+CUST-01177,0.1485,5230.13,Steady Core Customers,0,0
+CUST-01178,0.5536,6300.59,High-Value Users,0,1
+CUST-01179,0.4099,4119.23,Steady Core Customers,0,0
+CUST-01180,0.5456,3754.32,Steady Core Customers,0,0
+CUST-01181,0.2303,8266.86,High-Value Users,0,0
+CUST-01182,0.671,4757.9,Steady Core Customers,0,0
+CUST-01183,0.4376,5404.02,High-Value Users,0,0
+CUST-01184,0.6045,4793.04,High-Value Users,0,0
+CUST-01185,0.6003,2507.87,Steady Core Customers,0,0
+CUST-01186,0.4582,4138.29,Steady Core Customers,0,0
+CUST-01187,0.5288,2630.71,Steady Core Customers,0,0
+CUST-01188,0.1142,6446.73,Steady Core Customers,0,0
+CUST-01189,0.6123,6147.89,High-Value Users,0,1
+CUST-01190,0.5347,3897.56,Steady Core Customers,0,0
+CUST-01191,0.3396,3231.32,Steady Core Customers,0,0
+CUST-01192,0.4777,5741.85,High-Value Users,0,0
+CUST-01193,0.1348,5941.85,Steady Core Customers,0,0
+CUST-01194,0.4356,2309.62,Steady Core Customers,0,0
+CUST-01195,0.2653,8662.73,High-Value Users,0,0
+CUST-01196,0.1688,7393.76,High-Value Users,0,0
+CUST-01197,0.1806,6016.84,Steady Core Customers,0,0
+CUST-01198,0.198,6153.02,High-Value Users,0,0
+CUST-01199,0.4985,4364.08,Steady Core Customers,0,0
+CUST-01200,0.169,5575.13,Steady Core Customers,0,0
+CUST-01201,0.3673,5351.82,High-Value Users,0,0
+CUST-01202,0.4,8976.99,High-Value Users,0,0
+CUST-01203,0.5007,2295.57,Steady Core Customers,0,0
+CUST-01204,0.4079,5953.03,High-Value Users,0,0
+CUST-01205,0.6514,4694.94,High-Value Users,0,0
+CUST-01206,0.1619,5847.15,High-Value Users,0,0
+CUST-01207,0.0817,5608.13,Steady Core Customers,0,0
+CUST-01208,0.5616,5564.6,High-Value Users,0,1
+CUST-01209,0.5407,3628.91,Steady Core Customers,0,0
+CUST-01210,0.3806,4292.35,Steady Core Customers,0,0
+CUST-01211,0.1648,3800.4,Steady Core Customers,0,0
+CUST-01212,0.4679,4096.34,Steady Core Customers,0,0
+CUST-01213,0.5607,3797.06,Steady Core Customers,0,0
+CUST-01214,0.2456,7135.21,High-Value Users,0,0
+CUST-01215,0.1054,5654.33,Steady Core Customers,1,0
+CUST-01216,0.0948,7486.74,High-Value Users,0,0
+CUST-01217,0.2014,5288.59,Steady Core Customers,0,0
+CUST-01218,0.1373,5140.15,Steady Core Customers,0,0
+CUST-01219,0.4899,3893.36,Steady Core Customers,0,0
+CUST-01220,0.4926,5103.49,High-Value Users,0,0
+CUST-01221,0.1525,5455.86,Steady Core Customers,0,0
+CUST-01222,0.4025,3385.98,Steady Core Customers,0,0
+CUST-01223,0.1302,6961.98,High-Value Users,0,0
+CUST-01224,0.4321,4191.52,Steady Core Customers,0,0
+CUST-01225,0.4076,5398.37,High-Value Users,0,0
+CUST-01226,0.4383,5590.23,High-Value Users,0,0
+CUST-01227,0.1839,4945.86,Steady Core Customers,0,0
+CUST-01228,0.0919,4119.09,Steady Core Customers,0,0
+CUST-01229,0.3803,3065.28,Steady Core Customers,0,0
+CUST-01230,0.6391,3118.23,Steady Core Customers,0,0
+CUST-01231,0.6746,5506.3,High-Value Users,0,1
+CUST-01232,0.4365,6096.17,High-Value Users,0,0
+CUST-01233,0.5163,6747.54,High-Value Users,1,1
+CUST-01234,0.1607,4911.42,Steady Core Customers,0,0
+CUST-01235,0.5726,5419.21,High-Value Users,0,1
+CUST-01236,0.5606,5744.51,High-Value Users,0,1
+CUST-01237,0.4172,6855.79,High-Value Users,0,0
+CUST-01238,0.298,5979.24,High-Value Users,0,0
+CUST-01239,0.2697,6185.69,High-Value Users,0,0
+CUST-01240,0.1313,5492.46,High-Value Users,0,0
+CUST-01241,0.1068,6438.43,High-Value Users,0,0
+CUST-01242,0.1394,6389.79,High-Value Users,0,0
+CUST-01243,0.4972,3978.55,Steady Core Customers,0,0
+CUST-01244,0.1342,3931.26,Steady Core Customers,0,0
+CUST-01245,0.1862,5858.44,Steady Core Customers,0,0
+CUST-01246,0.1302,5986.8,Steady Core Customers,0,0
+CUST-01247,0.1008,8386.28,High-Value Users,0,0
+CUST-01248,0.4115,5449.22,High-Value Users,0,0
+CUST-01249,0.1327,5040.71,Steady Core Customers,0,0
+CUST-01250,0.3122,4972.84,Steady Core Customers,0,0
+CUST-01251,0.0975,6096.27,Steady Core Customers,0,0
+CUST-01252,0.1746,5650.63,Steady Core Customers,0,0
+CUST-01253,0.2284,3878.8,Steady Core Customers,0,0
+CUST-01254,0.6422,6102.32,High-Value Users,0,1
+CUST-01255,0.2193,4281.45,Steady Core Customers,0,0
+CUST-01256,0.2565,6684.76,High-Value Users,0,0
+CUST-01257,0.1281,5625.04,Steady Core Customers,0,0
+CUST-01258,0.1244,4767.63,Steady Core Customers,0,0
+CUST-01259,0.651,4571.51,Steady Core Customers,0,0
+CUST-01260,0.5881,3186.91,Steady Core Customers,0,0
+CUST-01261,0.5146,6849.4,High-Value Users,0,1
+CUST-01262,0.1381,4948.52,Steady Core Customers,0,0
+CUST-01263,0.153,3635.64,Steady Core Customers,0,0
+CUST-01264,0.1893,5479.95,Steady Core Customers,0,0
+CUST-01265,0.1081,8580.02,High-Value Users,0,0
+CUST-01266,0.1302,6265.49,High-Value Users,0,0
+CUST-01267,0.578,6924.74,High-Value Users,0,1
+CUST-01268,0.3505,7761.3,High-Value Users,0,0
+CUST-01269,0.1718,6134.99,Steady Core Customers,0,0
+CUST-01270,0.1993,7553.34,High-Value Users,0,0
+CUST-01271,0.1625,6099.38,Steady Core Customers,0,0
+CUST-01272,0.1277,5903.16,Steady Core Customers,0,0
+CUST-01273,0.4536,3635.99,Steady Core Customers,0,0
+CUST-01274,0.182,4982.43,Steady Core Customers,0,0
+CUST-01275,0.4767,6766.73,High-Value Users,0,0
+CUST-01276,0.5768,5696.44,High-Value Users,0,1
+CUST-01277,0.5576,2393.33,Steady Core Customers,0,0
+CUST-01278,0.4763,5717.38,High-Value Users,0,0
+CUST-01279,0.6768,5284.18,High-Value Users,0,0
+CUST-01280,0.18,5996.9,Steady Core Customers,1,0
+CUST-01281,0.4058,4844.41,Steady Core Customers,0,0
+CUST-01282,0.4033,4231.89,Steady Core Customers,0,0
+CUST-01283,0.4041,5196.0,High-Value Users,0,0
+CUST-01284,0.3557,4704.78,Steady Core Customers,0,0
+CUST-01285,0.1722,5448.39,Steady Core Customers,0,0
+CUST-01286,0.6989,5267.3,High-Value Users,0,0
+CUST-01287,0.3346,5090.42,Steady Core Customers,0,0
+CUST-01288,0.1311,9571.81,High-Value Users,0,0
+CUST-01289,0.1825,6191.68,High-Value Users,1,0
+CUST-01290,0.1437,6956.91,High-Value Users,0,0
+CUST-01291,0.1286,3350.13,Steady Core Customers,0,0
+CUST-01292,0.6957,2894.45,Steady Core Customers,0,0
+CUST-01293,0.2084,7994.68,High-Value Users,0,0
+CUST-01294,0.3198,7765.66,High-Value Users,1,0
+CUST-01295,0.5121,4441.46,Steady Core Customers,0,0
+CUST-01296,0.7231,6653.91,High-Value Users,0,1
+CUST-01297,0.1379,4957.71,Steady Core Customers,0,0
+CUST-01298,0.6969,3932.33,Steady Core Customers,0,0
+CUST-01299,0.7653,3954.21,Steady Core Customers,0,0
+CUST-01300,0.4646,4019.08,Steady Core Customers,0,0
+CUST-01301,0.1556,7657.58,High-Value Users,0,0
+CUST-01302,0.56,3738.84,Steady Core Customers,0,0
+CUST-01303,0.5569,5851.62,High-Value Users,0,1
+CUST-01304,0.4906,3781.11,Steady Core Customers,0,0
+CUST-01305,0.1781,5310.58,High-Value Users,0,0
+CUST-01306,0.5137,6639.39,High-Value Users,0,1
+CUST-01307,0.1129,6348.67,High-Value Users,0,0
+CUST-01308,0.5211,3240.16,Steady Core Customers,0,0
+CUST-01309,0.5532,4812.52,High-Value Users,0,0
+CUST-01310,0.6904,5490.79,High-Value Users,0,1
+CUST-01311,0.3257,6936.38,High-Value Users,0,0
+CUST-01312,0.3027,2030.72,Steady Core Customers,1,0
+CUST-01313,0.6299,5375.38,High-Value Users,0,1
+CUST-01314,0.1068,4776.75,Steady Core Customers,0,0
+CUST-01315,0.48,5823.4,High-Value Users,0,0
+CUST-01316,0.7,4846.86,High-Value Users,0,0
+CUST-01317,0.5493,5481.5,High-Value Users,1,1
+CUST-01318,0.3927,2272.1,Steady Core Customers,0,0
+CUST-01319,0.4324,5424.52,High-Value Users,0,0
+CUST-01320,0.4555,5580.4,High-Value Users,0,0
+CUST-01321,0.766,4736.5,Steady Core Customers,0,0
+CUST-01322,0.5639,4734.47,Steady Core Customers,0,0
+CUST-01323,0.1091,5245.38,Steady Core Customers,0,0
+CUST-01324,0.2046,7033.28,High-Value Users,0,0
+CUST-01325,0.0575,5259.75,Steady Core Customers,0,0
+CUST-01326,0.5444,6822.13,High-Value Users,1,1
+CUST-01327,0.2188,5964.82,Steady Core Customers,0,0
+CUST-01328,0.4573,5338.36,High-Value Users,0,0
+CUST-01329,0.4014,6358.19,High-Value Users,0,0
+CUST-01330,0.098,3654.35,Steady Core Customers,0,0
+CUST-01331,0.5864,3911.91,Steady Core Customers,1,0
+CUST-01332,0.6906,5876.78,High-Value Users,0,1
+CUST-01333,0.2332,5199.2,Steady Core Customers,0,0
+CUST-01334,0.1753,3537.31,Steady Core Customers,0,0
+CUST-01335,0.7367,3613.08,Steady Core Customers,0,0
+CUST-01336,0.4639,3545.7,Steady Core Customers,0,0
+CUST-01337,0.6051,5534.34,High-Value Users,0,1
+CUST-01338,0.2069,7649.01,High-Value Users,0,0
+CUST-01339,0.5052,4554.86,Steady Core Customers,0,0
+CUST-01340,0.5152,3771.69,Steady Core Customers,0,0
+CUST-01341,0.5084,5495.78,High-Value Users,0,1
+CUST-01342,0.205,6605.59,High-Value Users,0,0
+CUST-01343,0.1152,4982.62,Steady Core Customers,0,0
+CUST-01344,0.4036,3973.16,Steady Core Customers,0,0
+CUST-01345,0.197,6225.09,Steady Core Customers,0,0
+CUST-01346,0.6263,6302.52,High-Value Users,0,1
+CUST-01347,0.1137,6996.11,High-Value Users,0,0
+CUST-01348,0.568,4526.06,Steady Core Customers,0,0
+CUST-01349,0.3475,4518.15,Steady Core Customers,0,0
+CUST-01350,0.3927,4937.47,High-Value Users,0,0
+CUST-01351,0.1082,9275.4,High-Value Users,0,0
+CUST-01352,0.1509,7344.13,High-Value Users,0,0
+CUST-01353,0.2032,7252.08,High-Value Users,0,0
+CUST-01354,0.2939,3210.66,Steady Core Customers,0,0
+CUST-01355,0.3922,4277.39,Steady Core Customers,0,0
+CUST-01356,0.4263,3243.84,Steady Core Customers,0,0
+CUST-01357,0.4873,3549.11,Steady Core Customers,0,0
+CUST-01358,0.5033,5235.29,High-Value Users,0,0
+CUST-01359,0.1331,6421.32,High-Value Users,0,0
+CUST-01360,0.166,6798.08,High-Value Users,0,0
+CUST-01361,0.1737,6361.79,Steady Core Customers,0,0
+CUST-01362,0.4855,5866.93,High-Value Users,0,0
+CUST-01363,0.6364,5229.28,High-Value Users,0,0
+CUST-01364,0.4866,4970.17,High-Value Users,0,0
+CUST-01365,0.5803,5728.84,High-Value Users,0,1
+CUST-01366,0.1522,5608.5,Steady Core Customers,0,0
+CUST-01367,0.1096,6705.07,High-Value Users,0,0
+CUST-01368,0.6913,5344.57,High-Value Users,0,1
+CUST-01369,0.4555,3770.78,Steady Core Customers,0,0
+CUST-01370,0.2209,7852.74,High-Value Users,0,0
+CUST-01371,0.5811,7463.98,High-Value Users,0,1
+CUST-01372,0.3827,2349.42,Steady Core Customers,0,0
+CUST-01373,0.1262,6586.64,High-Value Users,0,0
+CUST-01374,0.1413,5159.4,Steady Core Customers,0,0
+CUST-01375,0.4679,4948.96,Steady Core Customers,0,0
+CUST-01376,0.1631,3905.46,Steady Core Customers,0,0
+CUST-01377,0.1485,8055.05,High-Value Users,0,0
+CUST-01378,0.5847,5362.7,High-Value Users,0,1
+CUST-01379,0.3699,3665.82,Steady Core Customers,0,0
+CUST-01380,0.1082,7218.19,High-Value Users,0,0
+CUST-01381,0.0952,5510.37,Steady Core Customers,0,0
+CUST-01382,0.6851,4756.31,Steady Core Customers,0,0
+CUST-01383,0.7917,3961.02,Steady Core Customers,0,0
+CUST-01384,0.2235,7010.98,High-Value Users,0,0
+CUST-01385,0.7481,7173.44,High-Value Users,0,1
+CUST-01386,0.3234,4522.78,High-Value Users,0,0
+CUST-01387,0.6008,2991.9,Steady Core Customers,0,0
+CUST-01388,0.6127,5579.19,High-Value Users,0,1
+CUST-01389,0.1537,7001.61,High-Value Users,0,0
+CUST-01390,0.1319,6838.6,High-Value Users,0,0
+CUST-01391,0.4056,3169.86,Steady Core Customers,0,0
+CUST-01392,0.1669,8919.04,High-Value Users,0,0
+CUST-01393,0.4264,3474.0,Steady Core Customers,0,0
+CUST-01394,0.5176,4891.9,Steady Core Customers,0,0
+CUST-01395,0.6652,6875.92,High-Value Users,0,1
+CUST-01396,0.1162,7019.28,High-Value Users,0,0
+CUST-01397,0.194,5566.96,Steady Core Customers,0,0
+CUST-01398,0.1352,7058.23,High-Value Users,0,0
+CUST-01399,0.6972,4676.02,Steady Core Customers,0,0
+CUST-01400,0.5826,4891.94,High-Value Users,0,0
+CUST-01401,0.4198,3995.55,Steady Core Customers,0,0
+CUST-01402,0.1589,6151.43,High-Value Users,0,0
+CUST-01403,0.4054,4319.64,Steady Core Customers,0,0
+CUST-01404,0.0793,5597.71,Steady Core Customers,0,0
+CUST-01405,0.3064,6963.59,High-Value Users,0,0
+CUST-01406,0.7342,6086.5,High-Value Users,0,1
+CUST-01407,0.5241,6575.52,High-Value Users,0,1
+CUST-01408,0.5019,4845.59,High-Value Users,0,0
+CUST-01409,0.1883,6776.25,High-Value Users,0,0
+CUST-01410,0.1625,4924.48,Steady Core Customers,0,0
+CUST-01411,0.4865,4877.06,High-Value Users,0,0
+CUST-01412,0.139,5728.07,Steady Core Customers,0,0
+CUST-01413,0.6077,2389.63,Steady Core Customers,0,0
+CUST-01414,0.6849,6423.88,High-Value Users,0,1
+CUST-01415,0.1667,4918.7,Steady Core Customers,0,0
+CUST-01416,0.0715,5479.61,Steady Core Customers,0,0
+CUST-01417,0.5834,3998.64,Steady Core Customers,0,0
+CUST-01418,0.2961,7612.59,High-Value Users,0,0
+CUST-01419,0.1014,6239.63,Steady Core Customers,0,0
+CUST-01420,0.2208,5546.57,High-Value Users,0,0
+CUST-01421,0.1255,5799.87,High-Value Users,0,0
+CUST-01422,0.5438,6637.48,High-Value Users,0,1
+CUST-01423,0.5866,5401.89,High-Value Users,0,1
+CUST-01424,0.1265,5592.05,Steady Core Customers,0,0
+CUST-01425,0.6391,5229.25,High-Value Users,0,0
+CUST-01426,0.3401,3015.88,Steady Core Customers,0,0
+CUST-01427,0.4706,5166.39,High-Value Users,0,0
+CUST-01428,0.5773,3197.48,Steady Core Customers,0,0
+CUST-01429,0.5462,5551.05,High-Value Users,0,1
+CUST-01430,0.5638,4810.44,High-Value Users,0,0
+CUST-01431,0.3376,5589.77,High-Value Users,0,0
+CUST-01432,0.5172,4883.01,High-Value Users,0,0
+CUST-01433,0.1251,4238.41,Steady Core Customers,0,0
+CUST-01434,0.1404,5712.2,High-Value Users,0,0
+CUST-01435,0.3972,4817.16,High-Value Users,0,0
+CUST-01436,0.478,4693.64,Steady Core Customers,0,0
+CUST-01437,0.4308,4210.28,Steady Core Customers,0,0
+CUST-01438,0.1581,5005.28,Steady Core Customers,0,0
+CUST-01439,0.1636,4752.98,Steady Core Customers,0,0
+CUST-01440,0.1228,7446.24,High-Value Users,0,0
+CUST-01441,0.1492,4702.83,Steady Core Customers,0,0
+CUST-01442,0.5008,3869.96,Steady Core Customers,0,0
+CUST-01443,0.2953,3967.48,Steady Core Customers,0,0
+CUST-01444,0.5597,3516.25,Steady Core Customers,0,0
+CUST-01445,0.5032,5164.57,Steady Core Customers,0,0
+CUST-01446,0.5345,6778.76,High-Value Users,0,1
+CUST-01447,0.0725,4777.04,Steady Core Customers,0,0
+CUST-01448,0.3415,5341.38,High-Value Users,0,0
+CUST-01449,0.215,5625.78,Steady Core Customers,0,0
+CUST-01450,0.361,3846.91,Steady Core Customers,0,0
+CUST-01451,0.6633,5350.96,High-Value Users,0,1
+CUST-01452,0.1402,4365.46,Steady Core Customers,0,0
+CUST-01453,0.3816,4947.34,High-Value Users,0,0
+CUST-01454,0.6163,6054.85,High-Value Users,0,1
+CUST-01455,0.5438,5524.13,High-Value Users,0,1
+CUST-01456,0.1288,2677.48,Steady Core Customers,0,0
+CUST-01457,0.4777,3698.73,Steady Core Customers,0,0
+CUST-01458,0.0755,4789.92,Steady Core Customers,0,0
+CUST-01459,0.1189,7748.85,High-Value Users,0,0
+CUST-01460,0.2689,4539.84,Steady Core Customers,0,0
+CUST-01461,0.5447,3350.83,Steady Core Customers,0,0
+CUST-01462,0.133,5277.21,Steady Core Customers,0,0
+CUST-01463,0.5302,3127.6,Steady Core Customers,0,0
+CUST-01464,0.1927,5199.53,Steady Core Customers,0,0
+CUST-01465,0.4646,5759.48,High-Value Users,0,0
+CUST-01466,0.4407,5620.77,High-Value Users,0,0
+CUST-01467,0.6252,5711.6,High-Value Users,0,1
+CUST-01468,0.0989,2889.6,Steady Core Customers,0,0
+CUST-01469,0.1611,5534.4,Steady Core Customers,1,0
+CUST-01470,0.6162,4058.36,Steady Core Customers,0,0
+CUST-01471,0.4966,4531.74,Steady Core Customers,0,0
+CUST-01472,0.1912,5309.29,Steady Core Customers,0,0
+CUST-01473,0.0913,6004.21,High-Value Users,0,0
+CUST-01474,0.1651,5493.02,Steady Core Customers,0,0
+CUST-01475,0.6388,5585.27,High-Value Users,0,1
+CUST-01476,0.3363,6550.31,High-Value Users,0,0
+CUST-01477,0.2115,9060.37,High-Value Users,0,0
+CUST-01478,0.4406,3803.13,Steady Core Customers,0,0
+CUST-01479,0.3145,4844.51,Steady Core Customers,0,0
+CUST-01480,0.5568,6446.46,High-Value Users,0,1
+CUST-01481,0.674,5885.7,High-Value Users,0,1
+CUST-01482,0.2965,6501.98,High-Value Users,0,0
+CUST-01483,0.4616,4096.33,Steady Core Customers,0,0
+CUST-01484,0.4571,4341.26,Steady Core Customers,0,0
+CUST-01485,0.4682,6698.96,High-Value Users,0,0
+CUST-01486,0.1659,8974.38,High-Value Users,0,0
+CUST-01487,0.2449,7636.83,High-Value Users,0,0
+CUST-01488,0.5395,4726.75,Steady Core Customers,0,0
+CUST-01489,0.1433,5342.97,High-Value Users,1,0
+CUST-01490,0.5215,4510.92,Steady Core Customers,0,0
+CUST-01491,0.178,4523.13,Steady Core Customers,0,0
+CUST-01492,0.1459,5995.22,Steady Core Customers,0,0
+CUST-01493,0.4179,4384.15,Steady Core Customers,0,0
+CUST-01494,0.222,7988.52,High-Value Users,1,0
+CUST-01495,0.5451,5993.38,High-Value Users,0,1
+CUST-01496,0.1346,7630.27,High-Value Users,0,0
+CUST-01497,0.5232,3969.77,Steady Core Customers,0,0
+CUST-01498,0.1544,6710.63,High-Value Users,0,0
+CUST-01499,0.4254,3347.73,Steady Core Customers,0,0
+CUST-01500,0.4117,6481.2,High-Value Users,0,0
+CUST-01501,0.42,4746.41,Steady Core Customers,0,0
+CUST-01502,0.0775,8240.92,High-Value Users,0,0
+CUST-01503,0.4325,5795.61,High-Value Users,0,0
+CUST-01504,0.2133,5467.02,Steady Core Customers,1,0
+CUST-01505,0.7454,4645.24,Steady Core Customers,0,0
+CUST-01506,0.2611,8587.77,High-Value Users,0,0
+CUST-01507,0.552,3644.95,Steady Core Customers,1,0
+CUST-01508,0.1997,3909.51,Steady Core Customers,0,0
+CUST-01509,0.1112,6654.4,High-Value Users,0,0
+CUST-01510,0.6412,5813.9,High-Value Users,0,1
+CUST-01511,0.3832,5996.74,High-Value Users,0,0
+CUST-01512,0.1611,5534.49,Steady Core Customers,0,0
+CUST-01513,0.5314,3267.74,Steady Core Customers,0,0
+CUST-01514,0.6113,4159.85,Steady Core Customers,0,0
+CUST-01515,0.4301,4788.72,High-Value Users,0,0
+CUST-01516,0.2072,6389.66,High-Value Users,0,0
+CUST-01517,0.075,6221.47,Steady Core Customers,0,0
+CUST-01518,0.1098,4882.62,Steady Core Customers,0,0
+CUST-01519,0.065,3492.86,Steady Core Customers,0,0
+CUST-01520,0.6798,5053.55,High-Value Users,0,0
+CUST-01521,0.6695,6771.98,High-Value Users,0,1
+CUST-01522,0.6561,3252.26,Steady Core Customers,0,0
+CUST-01523,0.529,4817.35,Steady Core Customers,0,0
+CUST-01524,0.3836,4545.25,Steady Core Customers,0,0
+CUST-01525,0.2167,7235.17,High-Value Users,0,0
+CUST-01526,0.2651,6381.19,High-Value Users,0,0
+CUST-01527,0.6521,6315.27,High-Value Users,0,1
+CUST-01528,0.6094,4757.83,Steady Core Customers,0,0
+CUST-01529,0.7562,6634.49,High-Value Users,0,1
+CUST-01530,0.6944,5524.09,High-Value Users,0,1
+CUST-01531,0.7836,5124.22,High-Value Users,0,0
+CUST-01532,0.4643,6164.14,High-Value Users,0,0
+CUST-01533,0.4988,4915.1,Steady Core Customers,0,0
+CUST-01534,0.188,4239.69,Steady Core Customers,0,0
+CUST-01535,0.1716,8777.84,High-Value Users,0,0
+CUST-01536,0.1755,5036.89,Steady Core Customers,0,0
+CUST-01537,0.1131,4916.16,Steady Core Customers,0,0
+CUST-01538,0.1183,5510.06,Steady Core Customers,0,0
+CUST-01539,0.5662,5187.23,High-Value Users,0,0
+CUST-01540,0.1296,4534.26,Steady Core Customers,0,0
+CUST-01541,0.3298,5258.62,High-Value Users,0,0
+CUST-01542,0.5521,3108.1,Steady Core Customers,1,0
+CUST-01543,0.6314,3502.88,Steady Core Customers,0,0
+CUST-01544,0.6134,4508.24,Steady Core Customers,0,0
+CUST-01545,0.1673,5014.96,Steady Core Customers,0,0
+CUST-01546,0.5251,3864.35,Steady Core Customers,0,0
+CUST-01547,0.2043,3557.73,Steady Core Customers,0,0
+CUST-01548,0.1024,5258.91,Steady Core Customers,0,0
+CUST-01549,0.5661,3763.22,Steady Core Customers,0,0
+CUST-01550,0.6586,5479.57,High-Value Users,0,1
+CUST-01551,0.4334,4661.14,Steady Core Customers,0,0
+CUST-01552,0.4818,5279.38,High-Value Users,0,0
+CUST-01553,0.1902,6417.83,Steady Core Customers,0,0
+CUST-01554,0.1826,6400.79,High-Value Users,0,0
+CUST-01555,0.2186,7368.41,High-Value Users,0,0
+CUST-01556,0.3611,3646.24,Steady Core Customers,0,0
+CUST-01557,0.1119,3214.46,Steady Core Customers,0,0
+CUST-01558,0.1246,5539.17,High-Value Users,0,0
+CUST-01559,0.6376,6670.31,High-Value Users,0,1
+CUST-01560,0.7815,5153.32,High-Value Users,0,0
+CUST-01561,0.4455,3920.81,Steady Core Customers,0,0
+CUST-01562,0.5317,5759.3,High-Value Users,0,1
+CUST-01563,0.1393,8326.18,High-Value Users,0,0
+CUST-01564,0.0788,5815.58,High-Value Users,0,0
+CUST-01565,0.5259,4768.71,Steady Core Customers,0,0
+CUST-01566,0.0804,7930.96,High-Value Users,0,0
+CUST-01567,0.3088,3775.73,Steady Core Customers,0,0
+CUST-01568,0.3766,3470.56,Steady Core Customers,0,0
+CUST-01569,0.2485,9374.48,High-Value Users,0,0
+CUST-01570,0.168,5969.97,Steady Core Customers,0,0
+CUST-01571,0.2374,6388.69,High-Value Users,0,0
+CUST-01572,0.7151,3164.52,Steady Core Customers,0,0
+CUST-01573,0.1049,6113.47,High-Value Users,0,0
+CUST-01574,0.1059,5954.07,High-Value Users,0,0
+CUST-01575,0.2196,5504.26,High-Value Users,0,0
+CUST-01576,0.6466,5123.17,High-Value Users,0,0
+CUST-01577,0.4569,5059.18,Steady Core Customers,0,0
+CUST-01578,0.1311,7295.5,High-Value Users,0,0
+CUST-01579,0.1369,7100.29,High-Value Users,0,0
+CUST-01580,0.1889,4698.38,Steady Core Customers,0,0
+CUST-01581,0.6268,5538.22,High-Value Users,0,1
+CUST-01582,0.1001,7851.91,High-Value Users,0,0
+CUST-01583,0.3197,3787.48,Steady Core Customers,0,0
+CUST-01584,0.523,6925.88,High-Value Users,0,1
+CUST-01585,0.7724,4318.8,Steady Core Customers,0,0
+CUST-01586,0.7079,4652.17,Steady Core Customers,0,0
+CUST-01587,0.1804,5582.56,High-Value Users,0,0
+CUST-01588,0.7288,3417.33,Steady Core Customers,0,0
+CUST-01589,0.62,3201.95,Steady Core Customers,0,0
+CUST-01590,0.1425,6560.41,High-Value Users,0,0
+CUST-01591,0.1023,2733.17,Steady Core Customers,0,0
+CUST-01592,0.5655,3582.14,Steady Core Customers,0,0
+CUST-01593,0.5634,4568.29,Steady Core Customers,0,0
+CUST-01594,0.2065,5615.49,Steady Core Customers,0,0
+CUST-01595,0.5478,4562.8,Steady Core Customers,0,0
+CUST-01596,0.4766,5230.24,High-Value Users,0,0
+CUST-01597,0.2972,4856.31,Steady Core Customers,0,0
+CUST-01598,0.6333,5532.29,High-Value Users,0,1
+CUST-01599,0.1435,5687.91,Steady Core Customers,0,0
+CUST-01600,0.5124,4068.51,Steady Core Customers,0,0
+CUST-01601,0.4977,5662.44,High-Value Users,0,0
+CUST-01602,0.7823,7753.83,High-Value Users,1,1
+CUST-01603,0.5056,6113.32,High-Value Users,0,1
+CUST-01604,0.4561,4624.1,Steady Core Customers,0,0
+CUST-01605,0.1279,7079.92,High-Value Users,0,0
+CUST-01606,0.7586,3409.81,Steady Core Customers,0,0
+CUST-01607,0.571,2828.33,Steady Core Customers,0,0
+CUST-01608,0.5775,2406.61,Steady Core Customers,0,0
+CUST-01609,0.2036,5027.57,High-Value Users,0,0
+CUST-01610,0.3921,6025.15,High-Value Users,0,0
+CUST-01611,0.1051,7696.18,High-Value Users,0,0
+CUST-01612,0.1467,8313.67,High-Value Users,1,0
+CUST-01613,0.4559,4245.04,Steady Core Customers,0,0
+CUST-01614,0.1445,3841.06,Steady Core Customers,0,0
+CUST-01615,0.5997,4691.9,High-Value Users,0,0
+CUST-01616,0.1535,7173.92,High-Value Users,0,0
+CUST-01617,0.1449,4899.07,Steady Core Customers,0,0
+CUST-01618,0.7685,3916.25,Steady Core Customers,0,0
+CUST-01619,0.2223,7378.13,High-Value Users,0,0
+CUST-01620,0.344,4292.51,Steady Core Customers,0,0
+CUST-01621,0.5196,3566.52,Steady Core Customers,0,0
+CUST-01622,0.2068,6173.26,Steady Core Customers,0,0
+CUST-01623,0.1449,7375.01,High-Value Users,0,0
+CUST-01624,0.5868,5711.31,High-Value Users,0,1
+CUST-01625,0.1395,4685.8,Steady Core Customers,0,0
+CUST-01626,0.1435,4217.71,Steady Core Customers,0,0
+CUST-01627,0.5735,5620.02,High-Value Users,0,1
+CUST-01628,0.2437,5301.93,Steady Core Customers,0,0
+CUST-01629,0.1561,4869.39,Steady Core Customers,0,0
+CUST-01630,0.1029,3577.06,Steady Core Customers,0,0
+CUST-01631,0.1103,7028.3,Steady Core Customers,0,0
+CUST-01632,0.3371,6819.73,High-Value Users,0,0
+CUST-01633,0.5457,5294.68,High-Value Users,0,0
+CUST-01634,0.4625,6095.6,High-Value Users,0,0
+CUST-01635,0.4217,5899.53,High-Value Users,0,0
+CUST-01636,0.317,5046.92,Steady Core Customers,0,0
+CUST-01637,0.0969,4278.79,Steady Core Customers,0,0
+CUST-01638,0.5996,5353.43,High-Value Users,0,1
+CUST-01639,0.2382,4358.32,Steady Core Customers,0,0
+CUST-01640,0.574,4956.96,High-Value Users,0,0
+CUST-01641,0.4073,5879.26,High-Value Users,0,0
+CUST-01642,0.1231,7602.46,High-Value Users,0,0
+CUST-01643,0.2247,3381.31,Steady Core Customers,0,0
+CUST-01644,0.704,4622.68,Steady Core Customers,0,0
+CUST-01645,0.1192,6917.75,High-Value Users,0,0
+CUST-01646,0.4152,4725.31,Steady Core Customers,0,0
+CUST-01647,0.3541,5365.52,High-Value Users,0,0
+CUST-01648,0.2641,4136.48,Steady Core Customers,0,0
+CUST-01649,0.1008,5538.08,Steady Core Customers,0,0
+CUST-01650,0.6815,4233.08,Steady Core Customers,0,0
+CUST-01651,0.2033,7846.62,High-Value Users,0,0
+CUST-01652,0.515,3791.14,Steady Core Customers,0,0
+CUST-01653,0.6754,3680.88,Steady Core Customers,0,0
+CUST-01654,0.1551,3857.62,Steady Core Customers,0,0
+CUST-01655,0.6709,4389.53,High-Value Users,0,0
+CUST-01656,0.7046,5831.11,High-Value Users,0,1
+CUST-01657,0.5762,3790.66,Steady Core Customers,0,0
+CUST-01658,0.7167,6568.6,High-Value Users,0,1
+CUST-01659,0.5385,4826.1,High-Value Users,0,0
+CUST-01660,0.3279,5238.69,High-Value Users,0,0
+CUST-01661,0.1813,3493.27,Steady Core Customers,0,0
+CUST-01662,0.2459,5545.28,High-Value Users,0,0
+CUST-01663,0.3929,5408.5,High-Value Users,0,0
+CUST-01664,0.2586,4934.79,Steady Core Customers,0,0
+CUST-01665,0.5773,5287.44,High-Value Users,0,0
+CUST-01666,0.1127,5540.97,High-Value Users,0,0
+CUST-01667,0.32,8182.11,High-Value Users,0,0
+CUST-01668,0.4396,3251.04,Steady Core Customers,0,0
+CUST-01669,0.4366,5139.4,High-Value Users,0,0
+CUST-01670,0.3766,5494.41,High-Value Users,0,0
+CUST-01671,0.3725,4114.01,Steady Core Customers,0,0
+CUST-01672,0.7818,4642.37,Steady Core Customers,0,0
+CUST-01673,0.2472,5537.09,High-Value Users,0,0
+CUST-01674,0.1368,6612.51,High-Value Users,0,0
+CUST-01675,0.5924,3129.89,Steady Core Customers,0,0
+CUST-01676,0.0693,4786.65,Steady Core Customers,0,0
+CUST-01677,0.5646,3790.48,Steady Core Customers,0,0
+CUST-01678,0.1462,6229.24,Steady Core Customers,0,0
+CUST-01679,0.1609,3708.29,Steady Core Customers,0,0
+CUST-01680,0.6513,3251.32,Steady Core Customers,0,0
+CUST-01681,0.6325,4793.3,High-Value Users,0,0
+CUST-01682,0.4563,6739.87,High-Value Users,0,0
+CUST-01683,0.1302,8666.64,High-Value Users,0,0
+CUST-01684,0.4373,4968.85,Steady Core Customers,0,0
+CUST-01685,0.1547,8184.96,High-Value Users,0,0
+CUST-01686,0.5691,2680.51,Steady Core Customers,0,0
+CUST-01687,0.5075,3681.41,Steady Core Customers,0,0
+CUST-01688,0.209,4795.63,Steady Core Customers,0,0
+CUST-01689,0.6693,5294.23,High-Value Users,0,0
+CUST-01690,0.493,5039.44,Steady Core Customers,0,0
+CUST-01691,0.1704,8394.49,High-Value Users,0,0
+CUST-01692,0.4717,4470.91,Steady Core Customers,0,0
+CUST-01693,0.0864,5640.47,Steady Core Customers,0,0
+CUST-01694,0.1847,8090.61,High-Value Users,0,0
+CUST-01695,0.3791,3630.32,Steady Core Customers,0,0
+CUST-01696,0.6315,3979.49,Steady Core Customers,0,0
+CUST-01697,0.6508,6121.38,High-Value Users,0,1
+CUST-01698,0.2105,7456.96,High-Value Users,0,0
+CUST-01699,0.1564,7190.91,High-Value Users,0,0
+CUST-01700,0.1298,5021.97,Steady Core Customers,0,0
+CUST-01701,0.1231,7834.64,High-Value Users,0,0
+CUST-01702,0.3289,5871.05,High-Value Users,0,0
+CUST-01703,0.5,6271.82,High-Value Users,0,1
+CUST-01704,0.5645,6885.98,High-Value Users,0,1
+CUST-01705,0.1406,5300.75,Steady Core Customers,0,0
+CUST-01706,0.4734,5485.65,High-Value Users,0,0
+CUST-01707,0.4181,5406.11,High-Value Users,0,0
+CUST-01708,0.552,4658.45,High-Value Users,0,0
+CUST-01709,0.4416,2950.47,Steady Core Customers,0,0
+CUST-01710,0.3287,5093.12,Steady Core Customers,0,0
+CUST-01711,0.4345,3817.8,Steady Core Customers,0,0
+CUST-01712,0.2612,8281.59,High-Value Users,0,0
+CUST-01713,0.2433,6328.22,High-Value Users,0,0
+CUST-01714,0.2752,4158.46,Steady Core Customers,0,0
+CUST-01715,0.1594,3624.46,Steady Core Customers,0,0
+CUST-01716,0.4979,6582.23,High-Value Users,0,0
+CUST-01717,0.2118,5633.95,High-Value Users,0,0
+CUST-01718,0.6725,4453.66,Steady Core Customers,0,0
+CUST-01719,0.1923,4485.22,Steady Core Customers,0,0
+CUST-01720,0.5453,2442.57,Steady Core Customers,0,0
+CUST-01721,0.5295,4835.6,Steady Core Customers,0,0
+CUST-01722,0.0886,5057.93,Steady Core Customers,0,0
+CUST-01723,0.0927,5180.84,Steady Core Customers,0,0
+CUST-01724,0.1164,5650.77,High-Value Users,0,0
+CUST-01725,0.3255,6261.27,High-Value Users,0,0
+CUST-01726,0.3918,4511.89,Steady Core Customers,0,0
+CUST-01727,0.2153,4362.95,Steady Core Customers,0,0
+CUST-01728,0.3754,5037.63,High-Value Users,0,0
+CUST-01729,0.6089,5451.35,High-Value Users,0,1
+CUST-01730,0.3144,3739.56,Steady Core Customers,0,0
+CUST-01731,0.6118,6174.78,High-Value Users,0,1
+CUST-01732,0.6542,5654.26,High-Value Users,0,1
+CUST-01733,0.5548,4494.29,Steady Core Customers,0,0
+CUST-01734,0.112,3898.7,Steady Core Customers,0,0
+CUST-01735,0.2519,3918.53,Steady Core Customers,0,0
+CUST-01736,0.1411,8590.4,High-Value Users,0,0
+CUST-01737,0.1291,4530.79,Steady Core Customers,0,0
+CUST-01738,0.6534,2843.39,Steady Core Customers,1,0
+CUST-01739,0.1155,7293.56,High-Value Users,0,0
+CUST-01740,0.1051,5645.04,Steady Core Customers,0,0
+CUST-01741,0.5666,5361.39,High-Value Users,0,1
+CUST-01742,0.6896,5250.29,High-Value Users,0,0
+CUST-01743,0.195,9137.43,High-Value Users,0,0
+CUST-01744,0.1299,4449.43,Steady Core Customers,0,0
+CUST-01745,0.1436,4266.87,Steady Core Customers,0,0
+CUST-01746,0.2796,5324.81,High-Value Users,0,0
+CUST-01747,0.1119,7717.2,High-Value Users,0,0
+CUST-01748,0.1112,7659.24,High-Value Users,0,0
+CUST-01749,0.09,3452.16,Steady Core Customers,0,0
+CUST-01750,0.144,7198.49,High-Value Users,0,0
+CUST-01751,0.1951,9647.49,High-Value Users,0,0
+CUST-01752,0.7654,4698.67,High-Value Users,0,0
+CUST-01753,0.124,5095.26,Steady Core Customers,0,0
+CUST-01754,0.4668,4109.21,Steady Core Customers,0,0
+CUST-01755,0.5625,3151.26,Steady Core Customers,0,0
+CUST-01756,0.7503,4415.76,High-Value Users,1,0
+CUST-01757,0.5227,5160.11,High-Value Users,1,0
+CUST-01758,0.3727,4331.77,Steady Core Customers,0,0
+CUST-01759,0.7476,2310.33,Steady Core Customers,0,0
+CUST-01760,0.5594,5045.48,High-Value Users,0,0
+CUST-01761,0.1527,7743.27,High-Value Users,0,0
+CUST-01762,0.1322,7428.14,High-Value Users,0,0
+CUST-01763,0.2457,3469.84,Steady Core Customers,0,0
+CUST-01764,0.7125,4454.85,Steady Core Customers,0,0
+CUST-01765,0.7969,4676.45,High-Value Users,0,0
+CUST-01766,0.1413,7259.66,High-Value Users,0,0
+CUST-01767,0.697,4885.1,Steady Core Customers,0,0
+CUST-01768,0.1311,5556.83,Steady Core Customers,0,0
+CUST-01769,0.1976,7723.76,High-Value Users,0,0
+CUST-01770,0.8055,6005.39,High-Value Users,0,1
+CUST-01771,0.4173,4836.55,Steady Core Customers,0,0
+CUST-01772,0.5693,4599.55,Steady Core Customers,0,0
+CUST-01773,0.3916,5024.93,Steady Core Customers,0,0
+CUST-01774,0.4621,2715.3,Steady Core Customers,0,0
+CUST-01775,0.206,7424.82,High-Value Users,0,0
+CUST-01776,0.1166,3351.98,Steady Core Customers,0,0
+CUST-01777,0.522,2946.49,Steady Core Customers,0,0
+CUST-01778,0.6071,6359.77,High-Value Users,0,1
+CUST-01779,0.4322,4624.48,Steady Core Customers,0,0
+CUST-01780,0.4097,4199.33,Steady Core Customers,0,0
+CUST-01781,0.1588,6435.52,High-Value Users,0,0
+CUST-01782,0.1461,5919.75,High-Value Users,0,0
+CUST-01783,0.1427,5568.73,Steady Core Customers,0,0
+CUST-01784,0.3572,3854.63,Steady Core Customers,0,0
+CUST-01785,0.4531,6698.56,High-Value Users,0,0
+CUST-01786,0.1635,5831.46,Steady Core Customers,0,0
+CUST-01787,0.1411,3611.94,Steady Core Customers,0,0
+CUST-01788,0.1537,7679.71,High-Value Users,0,0
+CUST-01789,0.4906,5601.02,High-Value Users,0,0
+CUST-01790,0.167,4924.0,Steady Core Customers,0,0
+CUST-01791,0.5362,4639.07,Steady Core Customers,0,0
+CUST-01792,0.5945,3393.14,Steady Core Customers,0,0
+CUST-01793,0.1393,5314.96,Steady Core Customers,0,0
+CUST-01794,0.4392,4893.14,Steady Core Customers,0,0
+CUST-01795,0.2047,3438.57,Steady Core Customers,0,0
+CUST-01796,0.4002,5047.17,High-Value Users,0,0
+CUST-01797,0.4503,6645.81,High-Value Users,0,0
+CUST-01798,0.6446,5641.34,High-Value Users,0,1
+CUST-01799,0.1293,8226.39,High-Value Users,0,0
+CUST-01800,0.3018,6308.61,High-Value Users,1,0
+CUST-01801,0.3967,4170.44,Steady Core Customers,0,0
+CUST-01802,0.6367,4950.15,High-Value Users,0,0
+CUST-01803,0.577,5047.73,Steady Core Customers,0,0
+CUST-01804,0.4529,6200.22,High-Value Users,0,0
+CUST-01805,0.1771,6833.51,High-Value Users,0,0
+CUST-01806,0.5578,5217.24,High-Value Users,0,0
+CUST-01807,0.4893,3446.33,Steady Core Customers,0,0
+CUST-01808,0.6116,5184.59,High-Value Users,0,0
+CUST-01809,0.1967,4580.1,Steady Core Customers,1,0
+CUST-01810,0.1269,5388.09,Steady Core Customers,0,0
+CUST-01811,0.0734,6819.13,High-Value Users,0,0
+CUST-01812,0.0849,5572.61,Steady Core Customers,0,0
+CUST-01813,0.1125,6259.23,Steady Core Customers,0,0
+CUST-01814,0.7741,5651.57,High-Value Users,0,1
+CUST-01815,0.0733,6548.3,High-Value Users,0,0
+CUST-01816,0.1479,4970.85,Steady Core Customers,0,0
+CUST-01817,0.6629,3833.28,Steady Core Customers,0,0
+CUST-01818,0.1451,4577.21,Steady Core Customers,0,0
+CUST-01819,0.0879,6505.24,High-Value Users,0,0
+CUST-01820,0.2041,2652.59,Steady Core Customers,0,0
+CUST-01821,0.4084,3703.1,Steady Core Customers,0,0
+CUST-01822,0.6691,3286.32,Steady Core Customers,0,0
+CUST-01823,0.0925,6383.44,Steady Core Customers,0,0
+CUST-01824,0.4838,3844.96,Steady Core Customers,0,0
+CUST-01825,0.4435,4956.86,High-Value Users,0,0
+CUST-01826,0.4051,4785.17,Steady Core Customers,0,0
+CUST-01827,0.4709,3978.84,Steady Core Customers,0,0
+CUST-01828,0.1262,7194.66,Steady Core Customers,0,0
+CUST-01829,0.2278,4483.98,Steady Core Customers,0,0
+CUST-01830,0.1048,4351.94,Steady Core Customers,0,0
+CUST-01831,0.4141,4954.1,High-Value Users,0,0
+CUST-01832,0.4362,5204.66,High-Value Users,0,0
+CUST-01833,0.527,4938.39,High-Value Users,0,0
+CUST-01834,0.4839,4776.23,Steady Core Customers,0,0
+CUST-01835,0.2411,6217.16,High-Value Users,0,0
+CUST-01836,0.5435,3439.05,Steady Core Customers,0,0
+CUST-01837,0.42,5355.26,High-Value Users,0,0
+CUST-01838,0.1537,5652.65,Steady Core Customers,0,0
+CUST-01839,0.2907,4100.42,Steady Core Customers,0,0
+CUST-01840,0.5939,4629.8,High-Value Users,0,0
+CUST-01841,0.0689,5476.41,Steady Core Customers,0,0
+CUST-01842,0.6986,3786.84,Steady Core Customers,0,0
+CUST-01843,0.1695,9115.25,High-Value Users,0,0
+CUST-01844,0.1374,7922.29,High-Value Users,0,0
+CUST-01845,0.5062,6826.68,High-Value Users,0,1
+CUST-01846,0.6579,3462.35,Steady Core Customers,0,0
+CUST-01847,0.6578,3909.87,Steady Core Customers,0,0
+CUST-01848,0.2871,5660.57,High-Value Users,0,0
+CUST-01849,0.4331,5811.65,High-Value Users,0,0
+CUST-01850,0.1515,6920.79,High-Value Users,0,0
+CUST-01851,0.3046,3495.17,Steady Core Customers,0,0
+CUST-01852,0.6143,4819.63,High-Value Users,0,0
+CUST-01853,0.563,6907.52,High-Value Users,0,1
+CUST-01854,0.4346,5791.88,High-Value Users,0,0
+CUST-01855,0.5041,5110.9,High-Value Users,0,0
+CUST-01856,0.2238,3488.65,Steady Core Customers,0,0
+CUST-01857,0.1314,5998.78,Steady Core Customers,0,0
+CUST-01858,0.5857,6066.85,High-Value Users,0,1
+CUST-01859,0.1347,4346.23,Steady Core Customers,0,0
+CUST-01860,0.4625,3596.19,Steady Core Customers,0,0
+CUST-01861,0.1713,7352.47,High-Value Users,0,0
+CUST-01862,0.4396,5514.52,High-Value Users,0,0
+CUST-01863,0.136,3571.44,Steady Core Customers,0,0
+CUST-01864,0.5916,4000.38,Steady Core Customers,0,0
+CUST-01865,0.4642,4418.1,Steady Core Customers,0,0
+CUST-01866,0.0743,4834.2,Steady Core Customers,0,0
+CUST-01867,0.3919,4357.26,Steady Core Customers,0,0
+CUST-01868,0.47,5365.18,High-Value Users,0,0
+CUST-01869,0.6054,3132.24,Steady Core Customers,0,0
+CUST-01870,0.1666,4364.45,Steady Core Customers,0,0
+CUST-01871,0.5904,2215.02,Steady Core Customers,0,0
+CUST-01872,0.468,6078.86,High-Value Users,0,0
+CUST-01873,0.1949,8801.51,High-Value Users,0,0
+CUST-01874,0.0753,4544.91,Steady Core Customers,0,0
+CUST-01875,0.5222,6729.15,High-Value Users,0,1
+CUST-01876,0.2179,4584.71,Steady Core Customers,0,0
+CUST-01877,0.456,4438.36,Steady Core Customers,0,0
+CUST-01878,0.3313,3370.91,Steady Core Customers,0,0
+CUST-01879,0.4867,4654.95,Steady Core Customers,0,0
+CUST-01880,0.1077,7767.63,High-Value Users,0,0
+CUST-01881,0.0875,3852.29,Steady Core Customers,0,0
+CUST-01882,0.7587,6991.37,High-Value Users,0,1
+CUST-01883,0.7589,4699.88,High-Value Users,0,0
+CUST-01884,0.6166,3203.5,Steady Core Customers,0,0
+CUST-01885,0.5387,5680.76,High-Value Users,0,1
+CUST-01886,0.7529,5496.43,High-Value Users,0,1
+CUST-01887,0.1246,8345.0,High-Value Users,0,0
+CUST-01888,0.5613,2903.05,Steady Core Customers,0,0
+CUST-01889,0.1213,8300.24,High-Value Users,0,0
+CUST-01890,0.5119,3841.03,Steady Core Customers,0,0
+CUST-01891,0.5587,6101.04,High-Value Users,0,1
+CUST-01892,0.5641,6833.79,High-Value Users,0,1
+CUST-01893,0.1624,8010.38,High-Value Users,0,0
+CUST-01894,0.4915,5535.75,High-Value Users,0,0
+CUST-01895,0.4384,5057.73,Steady Core Customers,0,0
+CUST-01896,0.4768,4871.69,High-Value Users,0,0
+CUST-01897,0.1398,3491.49,Steady Core Customers,0,0
+CUST-01898,0.146,5175.98,Steady Core Customers,0,0
+CUST-01899,0.3865,6009.84,High-Value Users,0,0
+CUST-01900,0.3052,6114.66,High-Value Users,0,0
+CUST-01901,0.4614,3408.82,Steady Core Customers,0,0
+CUST-01902,0.6767,5995.3,High-Value Users,0,1
+CUST-01903,0.2156,8514.78,High-Value Users,0,0
+CUST-01904,0.6767,7200.02,High-Value Users,0,1
+CUST-01905,0.182,5641.04,Steady Core Customers,0,0
+CUST-01906,0.1698,6883.81,High-Value Users,0,0
+CUST-01907,0.1818,6989.36,High-Value Users,0,0
+CUST-01908,0.6736,3328.53,Steady Core Customers,0,0
+CUST-01909,0.1579,3761.47,Steady Core Customers,0,0
+CUST-01910,0.3428,6895.67,High-Value Users,0,0
+CUST-01911,0.5571,6019.76,High-Value Users,0,1
+CUST-01912,0.2534,8150.4,High-Value Users,0,0
+CUST-01913,0.3213,3182.82,Steady Core Customers,0,0
+CUST-01914,0.626,4778.78,Steady Core Customers,0,0
+CUST-01915,0.3856,6001.3,High-Value Users,0,0
+CUST-01916,0.5709,3989.72,Steady Core Customers,0,0
+CUST-01917,0.1767,4005.39,Steady Core Customers,0,0
+CUST-01918,0.2563,6176.7,High-Value Users,0,0
+CUST-01919,0.2572,7262.5,High-Value Users,0,0
+CUST-01920,0.5704,5341.62,High-Value Users,0,1
+CUST-01921,0.5015,5664.08,High-Value Users,0,1
+CUST-01922,0.5763,5762.9,High-Value Users,0,1
+CUST-01923,0.3683,4974.86,High-Value Users,0,0
+CUST-01924,0.2299,6395.22,High-Value Users,0,0
+CUST-01925,0.1747,5382.32,Steady Core Customers,0,0
+CUST-01926,0.1299,7147.59,High-Value Users,0,0
+CUST-01927,0.105,6239.75,High-Value Users,0,0
+CUST-01928,0.5613,5549.05,High-Value Users,0,1
+CUST-01929,0.1883,6297.33,High-Value Users,0,0
+CUST-01930,0.1441,4332.81,Steady Core Customers,0,0
+CUST-01931,0.1356,8042.5,High-Value Users,0,0
+CUST-01932,0.5253,4048.65,Steady Core Customers,0,0
+CUST-01933,0.1904,5607.15,Steady Core Customers,0,0
+CUST-01934,0.487,2379.62,Steady Core Customers,0,0
+CUST-01935,0.1161,7269.63,High-Value Users,0,0
+CUST-01936,0.1049,7036.4,High-Value Users,0,0
+CUST-01937,0.1428,5374.6,Steady Core Customers,0,0
+CUST-01938,0.6762,5953.52,High-Value Users,1,1
+CUST-01939,0.5814,6841.21,High-Value Users,0,1
+CUST-01940,0.2372,7923.6,High-Value Users,0,0
+CUST-01941,0.0782,5701.85,Steady Core Customers,0,0
+CUST-01942,0.196,7751.26,High-Value Users,0,0
+CUST-01943,0.529,6684.05,High-Value Users,0,1
+CUST-01944,0.152,6488.95,High-Value Users,0,0
+CUST-01945,0.2178,6327.28,High-Value Users,0,0
+CUST-01946,0.4285,5646.53,High-Value Users,0,0
+CUST-01947,0.2629,3904.95,Steady Core Customers,0,0
+CUST-01948,0.186,7040.32,High-Value Users,0,0
+CUST-01949,0.4777,3025.97,Steady Core Customers,1,0
+CUST-01950,0.1059,5597.61,High-Value Users,0,0
+CUST-01951,0.2415,4961.55,Steady Core Customers,0,0
+CUST-01952,0.4562,5095.95,High-Value Users,0,0
+CUST-01953,0.5046,5056.52,High-Value Users,0,0
+CUST-01954,0.1556,6421.32,Steady Core Customers,0,0
+CUST-01955,0.1918,5351.84,Steady Core Customers,0,0
+CUST-01956,0.1499,4189.48,Steady Core Customers,0,0
+CUST-01957,0.2298,7439.18,High-Value Users,0,0
+CUST-01958,0.069,5520.43,Steady Core Customers,0,0
+CUST-01959,0.2435,9255.23,High-Value Users,0,0
+CUST-01960,0.1814,5613.54,High-Value Users,0,0
+CUST-01961,0.7068,4727.95,High-Value Users,0,0
+CUST-01962,0.3769,5639.25,High-Value Users,0,0
+CUST-01963,0.5446,5510.61,High-Value Users,0,1
+CUST-01964,0.2107,5314.51,Steady Core Customers,0,0
+CUST-01965,0.3975,3816.63,Steady Core Customers,0,0
+CUST-01966,0.1212,7242.18,High-Value Users,0,0
+CUST-01967,0.134,7091.12,High-Value Users,0,0
+CUST-01968,0.3457,4889.96,Steady Core Customers,0,0
+CUST-01969,0.5162,3612.47,Steady Core Customers,0,0
+CUST-01970,0.1844,3982.33,Steady Core Customers,0,0
+CUST-01971,0.4334,2773.01,Steady Core Customers,0,0
+CUST-01972,0.134,6757.0,High-Value Users,0,0
+CUST-01973,0.4311,6038.5,High-Value Users,0,0
+CUST-01974,0.5346,4481.06,Steady Core Customers,0,0
+CUST-01975,0.1264,8274.76,High-Value Users,0,0
+CUST-01976,0.5052,4825.89,Steady Core Customers,0,0
+CUST-01977,0.6204,3815.02,Steady Core Customers,0,0
+CUST-01978,0.572,5521.89,High-Value Users,0,1
+CUST-01979,0.47,4162.76,Steady Core Customers,0,0
+CUST-01980,0.2642,7880.89,High-Value Users,0,0
+CUST-01981,0.5356,4644.63,High-Value Users,0,0
+CUST-01982,0.7662,4036.43,Steady Core Customers,0,0
+CUST-01983,0.6082,4043.03,Steady Core Customers,0,0
+CUST-01984,0.5694,3067.46,Steady Core Customers,0,0
+CUST-01985,0.3854,5774.39,High-Value Users,0,0
+CUST-01986,0.1078,8478.07,High-Value Users,0,0
+CUST-01987,0.7882,4712.8,High-Value Users,0,0
+CUST-01988,0.1159,6425.34,High-Value Users,0,0
+CUST-01989,0.6315,5786.94,High-Value Users,0,1
+CUST-01990,0.656,5707.55,High-Value Users,0,1
+CUST-01991,0.6751,5794.1,High-Value Users,0,1
+CUST-01992,0.1321,7089.63,High-Value Users,1,0
+CUST-01993,0.1539,6791.08,High-Value Users,0,0
+CUST-01994,0.5993,4654.74,Steady Core Customers,0,0
+CUST-01995,0.1221,7022.14,High-Value Users,0,0
+CUST-01996,0.3584,3541.9,Steady Core Customers,0,0
+CUST-01997,0.1399,4824.97,Steady Core Customers,0,0
+CUST-01998,0.1235,6132.57,High-Value Users,0,0
+CUST-01999,0.3676,5994.72,High-Value Users,0,0
+CUST-02000,0.4406,4862.46,High-Value Users,0,0
+CUST-02001,0.5154,3653.12,Steady Core Customers,0,0
+CUST-02002,0.237,7218.97,High-Value Users,0,0
+CUST-02003,0.5052,6653.78,High-Value Users,0,1
+CUST-02004,0.1815,6504.21,High-Value Users,0,0
+CUST-02005,0.6901,5692.87,High-Value Users,0,1
+CUST-02006,0.1374,7312.75,High-Value Users,0,0
+CUST-02007,0.4283,3944.44,Steady Core Customers,0,0
+CUST-02008,0.0908,4902.45,Steady Core Customers,0,0
+CUST-02009,0.6911,5726.48,High-Value Users,0,1
+CUST-02010,0.6296,5465.45,High-Value Users,0,1
+CUST-02011,0.6984,4053.33,Steady Core Customers,0,0
+CUST-02012,0.194,6155.2,High-Value Users,0,0
+CUST-02013,0.3426,6059.38,High-Value Users,0,0
+CUST-02014,0.1076,5544.94,High-Value Users,0,0
+CUST-02015,0.1558,7336.25,High-Value Users,0,0
+CUST-02016,0.5671,5569.43,Steady Core Customers,0,1
+CUST-02017,0.4613,7080.49,High-Value Users,0,0
+CUST-02018,0.5554,5026.46,Steady Core Customers,0,0
+CUST-02019,0.3396,3644.4,Steady Core Customers,0,0
+CUST-02020,0.4641,5612.55,High-Value Users,0,0
+CUST-02021,0.116,8370.74,High-Value Users,0,0
+CUST-02022,0.3935,5031.06,Steady Core Customers,0,0
+CUST-02023,0.6057,3775.45,Steady Core Customers,0,0
+CUST-02024,0.161,7746.21,High-Value Users,0,0
+CUST-02025,0.7466,4103.63,Steady Core Customers,0,0
+CUST-02026,0.3052,7581.37,High-Value Users,0,0
+CUST-02027,0.1555,4075.51,Steady Core Customers,0,0
+CUST-02028,0.4011,5108.16,High-Value Users,0,0
+CUST-02029,0.4888,4494.21,Steady Core Customers,0,0
+CUST-02030,0.2308,6036.62,High-Value Users,0,0
+CUST-02031,0.1567,5134.95,Steady Core Customers,0,0
+CUST-02032,0.1853,7677.04,High-Value Users,0,0
+CUST-02033,0.2748,6287.76,High-Value Users,1,0
+CUST-02034,0.3602,7622.94,High-Value Users,0,0
+CUST-02035,0.475,6110.56,High-Value Users,0,0
+CUST-02036,0.1728,3597.8,Steady Core Customers,0,0
+CUST-02037,0.2189,5633.29,Steady Core Customers,0,0
+CUST-02038,0.1727,6131.97,High-Value Users,0,0
+CUST-02039,0.5856,4458.64,High-Value Users,0,0
+CUST-02040,0.1582,7760.04,High-Value Users,0,0
+CUST-02041,0.556,5788.08,High-Value Users,0,1
+CUST-02042,0.4778,3914.65,Steady Core Customers,0,0
+CUST-02043,0.4549,5467.49,High-Value Users,0,0
+CUST-02044,0.4747,3933.64,Steady Core Customers,0,0
+CUST-02045,0.1982,6415.72,High-Value Users,0,0
+CUST-02046,0.3839,6976.27,High-Value Users,1,0
+CUST-02047,0.119,7541.61,High-Value Users,0,0
+CUST-02048,0.325,4413.6,Steady Core Customers,0,0
+CUST-02049,0.577,2794.85,Steady Core Customers,0,0
+CUST-02050,0.6839,4793.57,High-Value Users,0,0
+CUST-02051,0.6682,6763.16,High-Value Users,0,1
+CUST-02052,0.1772,4902.29,Steady Core Customers,0,0
+CUST-02053,0.4701,3210.29,Steady Core Customers,0,0
+CUST-02054,0.4291,4883.95,High-Value Users,0,0
+CUST-02055,0.5533,4662.45,High-Value Users,0,0
+CUST-02056,0.3484,4852.85,Steady Core Customers,0,0
+CUST-02057,0.6534,3561.37,Steady Core Customers,0,0
+CUST-02058,0.2024,5947.26,Steady Core Customers,0,0
+CUST-02059,0.6955,4473.7,High-Value Users,0,0
+CUST-02060,0.4342,6344.22,High-Value Users,0,0
+CUST-02061,0.1203,7636.49,High-Value Users,0,0
+CUST-02062,0.1599,6554.51,High-Value Users,0,0
+CUST-02063,0.4947,4778.01,Steady Core Customers,0,0
+CUST-02064,0.1143,6070.61,High-Value Users,0,0
+CUST-02065,0.1935,5150.45,Steady Core Customers,0,0
+CUST-02066,0.6407,3801.79,Steady Core Customers,0,0
+CUST-02067,0.4355,5976.16,High-Value Users,0,0
+CUST-02068,0.1549,8807.33,High-Value Users,0,0
+CUST-02069,0.1445,6809.64,High-Value Users,0,0
+CUST-02070,0.1168,7156.55,High-Value Users,0,0
+CUST-02071,0.43,7105.58,High-Value Users,0,0
+CUST-02072,0.1317,3758.59,Steady Core Customers,0,0
+CUST-02073,0.7846,5038.27,High-Value Users,0,0
+CUST-02074,0.2745,4944.61,Steady Core Customers,0,0
+CUST-02075,0.1439,5203.73,Steady Core Customers,0,0
+CUST-02076,0.2194,4343.37,Steady Core Customers,0,0
+CUST-02077,0.5386,4645.13,Steady Core Customers,0,0
+CUST-02078,0.1051,3565.63,Steady Core Customers,0,0
+CUST-02079,0.1073,6170.75,Steady Core Customers,0,0
+CUST-02080,0.7316,6572.82,High-Value Users,0,1
+CUST-02081,0.1099,4838.86,Steady Core Customers,0,0
+CUST-02082,0.3192,5076.94,High-Value Users,0,0
+CUST-02083,0.5631,5412.06,High-Value Users,0,1
+CUST-02084,0.7419,3315.01,Steady Core Customers,0,0
+CUST-02085,0.115,5476.76,Steady Core Customers,0,0
+CUST-02086,0.6663,4016.21,Steady Core Customers,0,0
+CUST-02087,0.3003,5403.5,High-Value Users,0,0
+CUST-02088,0.5751,4578.66,Steady Core Customers,0,0
+CUST-02089,0.111,4634.95,Steady Core Customers,0,0
+CUST-02090,0.1268,7889.31,High-Value Users,0,0
+CUST-02091,0.6555,4607.2,Steady Core Customers,0,0
+CUST-02092,0.487,6503.86,High-Value Users,0,0
+CUST-02093,0.4707,5828.67,High-Value Users,0,0
+CUST-02094,0.4191,5769.86,High-Value Users,0,0
+CUST-02095,0.2433,6890.65,High-Value Users,0,0
+CUST-02096,0.0956,5748.92,Steady Core Customers,0,0
+CUST-02097,0.5324,3918.64,Steady Core Customers,0,0
+CUST-02098,0.2901,7671.03,High-Value Users,0,0
+CUST-02099,0.7467,6921.29,High-Value Users,0,1
+CUST-02100,0.4768,4102.82,Steady Core Customers,0,0
+CUST-02101,0.2989,5660.88,High-Value Users,0,0
+CUST-02102,0.4702,2702.42,Steady Core Customers,0,0
+CUST-02103,0.0872,5609.07,Steady Core Customers,0,0
+CUST-02104,0.6629,4694.08,High-Value Users,0,0
+CUST-02105,0.1499,6052.97,High-Value Users,0,0
+CUST-02106,0.57,6590.09,High-Value Users,0,1
+CUST-02107,0.1763,2638.24,Steady Core Customers,0,0
+CUST-02108,0.4579,5853.86,High-Value Users,0,0
+CUST-02109,0.4111,5660.02,High-Value Users,0,0
+CUST-02110,0.5572,5503.65,High-Value Users,0,1
+CUST-02111,0.5799,5596.7,High-Value Users,0,1
+CUST-02112,0.7685,4782.15,High-Value Users,0,0
+CUST-02113,0.5322,4898.38,High-Value Users,0,0
+CUST-02114,0.1351,5201.63,Steady Core Customers,0,0
+CUST-02115,0.5423,5283.25,Steady Core Customers,0,0
+CUST-02116,0.1669,5734.86,High-Value Users,0,0
+CUST-02117,0.1383,5475.42,High-Value Users,0,0
+CUST-02118,0.4626,6840.15,High-Value Users,0,0
+CUST-02119,0.224,5160.89,Steady Core Customers,0,0
+CUST-02120,0.4575,3491.34,Steady Core Customers,0,0
+CUST-02121,0.125,5746.7,High-Value Users,0,0
+CUST-02122,0.3177,6558.94,High-Value Users,0,0
+CUST-02123,0.1561,5501.35,High-Value Users,0,0
+CUST-02124,0.6932,4159.12,Steady Core Customers,0,0
+CUST-02125,0.1402,4078.4,Steady Core Customers,0,0
+CUST-02126,0.7177,3822.69,High-Value Users,0,0
+CUST-02127,0.6923,5523.36,High-Value Users,0,1
+CUST-02128,0.382,4816.29,Steady Core Customers,0,0
+CUST-02129,0.4599,5035.98,Steady Core Customers,0,0
+CUST-02130,0.1834,4067.48,Steady Core Customers,0,0
+CUST-02131,0.1273,7255.85,High-Value Users,0,0
+CUST-02132,0.3435,5199.71,High-Value Users,0,0
+CUST-02133,0.2807,7765.35,High-Value Users,0,0
+CUST-02134,0.1888,5555.83,High-Value Users,0,0
+CUST-02135,0.1737,7323.08,High-Value Users,0,0
+CUST-02136,0.1403,4098.24,Steady Core Customers,0,0
+CUST-02137,0.4894,5459.37,High-Value Users,0,0
+CUST-02138,0.5224,4372.94,Steady Core Customers,0,0
+CUST-02139,0.13,7000.11,High-Value Users,0,0
+CUST-02140,0.4001,6262.85,High-Value Users,0,0
+CUST-02141,0.1111,8339.34,High-Value Users,1,0
+CUST-02142,0.2244,8247.77,High-Value Users,0,0
+CUST-02143,0.0929,5448.27,Steady Core Customers,0,0
+CUST-02144,0.5603,5697.37,High-Value Users,0,1
+CUST-02145,0.113,5364.77,Steady Core Customers,0,0
+CUST-02146,0.25,3254.85,Steady Core Customers,0,0
+CUST-02147,0.3175,4969.49,Steady Core Customers,0,0
+CUST-02148,0.4184,5377.99,High-Value Users,0,0
+CUST-02149,0.5021,4485.12,Steady Core Customers,0,0
+CUST-02150,0.7904,4156.79,Steady Core Customers,0,0
+CUST-02151,0.201,5389.24,Steady Core Customers,0,0
+CUST-02152,0.1355,6679.27,Steady Core Customers,0,0
+CUST-02153,0.5453,6635.99,High-Value Users,0,1
+CUST-02154,0.7831,2820.52,Steady Core Customers,1,0
+CUST-02155,0.3504,4048.43,Steady Core Customers,0,0
+CUST-02156,0.5711,3615.03,Steady Core Customers,0,0
+CUST-02157,0.5144,2941.04,Steady Core Customers,0,0
+CUST-02158,0.0855,2863.22,Steady Core Customers,0,0
+CUST-02159,0.1509,3676.33,Steady Core Customers,0,0
+CUST-02160,0.1424,4215.59,Steady Core Customers,0,0
+CUST-02161,0.1151,6489.98,Steady Core Customers,0,0
+CUST-02162,0.5741,4839.65,Steady Core Customers,0,0
+CUST-02163,0.1614,7470.55,High-Value Users,0,0
+CUST-02164,0.4618,6050.23,High-Value Users,0,0
+CUST-02165,0.3339,3618.14,Steady Core Customers,0,0
+CUST-02166,0.5088,5896.77,High-Value Users,0,1
+CUST-02167,0.4169,4597.1,High-Value Users,0,0
+CUST-02168,0.5534,4103.13,Steady Core Customers,0,0
+CUST-02169,0.3828,6595.63,High-Value Users,0,0
+CUST-02170,0.6498,4498.33,Steady Core Customers,0,0
+CUST-02171,0.1697,7725.63,High-Value Users,0,0
+CUST-02172,0.4021,5116.37,High-Value Users,0,0
+CUST-02173,0.385,4715.34,High-Value Users,0,0
+CUST-02174,0.142,4273.43,Steady Core Customers,0,0
+CUST-02175,0.1393,7407.42,High-Value Users,0,0
+CUST-02176,0.5774,4106.1,Steady Core Customers,0,0
+CUST-02177,0.2418,7398.74,High-Value Users,0,0
+CUST-02178,0.3578,6431.35,High-Value Users,0,0
+CUST-02179,0.5075,3729.23,Steady Core Customers,0,0
+CUST-02180,0.4947,5060.68,Steady Core Customers,0,0
+CUST-02181,0.4123,3740.91,Steady Core Customers,0,0
+CUST-02182,0.1312,5569.07,Steady Core Customers,0,0
+CUST-02183,0.6256,5330.7,Steady Core Customers,0,1
+CUST-02184,0.131,5059.69,Steady Core Customers,0,0
+CUST-02185,0.131,3523.07,Steady Core Customers,0,0
+CUST-02186,0.2071,4768.97,Steady Core Customers,0,0
+CUST-02187,0.5358,5817.06,High-Value Users,0,1
+CUST-02188,0.6038,4606.0,Steady Core Customers,0,0
+CUST-02189,0.107,5882.48,Steady Core Customers,0,0
+CUST-02190,0.0997,5066.62,Steady Core Customers,0,0
+CUST-02191,0.4985,5258.96,High-Value Users,0,0
+CUST-02192,0.5016,6176.19,High-Value Users,0,1
+CUST-02193,0.1851,4928.02,Steady Core Customers,0,0
+CUST-02194,0.1315,5714.19,High-Value Users,0,0
+CUST-02195,0.1541,8252.3,High-Value Users,1,0
+CUST-02196,0.0796,5827.42,Steady Core Customers,0,0
+CUST-02197,0.6917,6697.39,High-Value Users,0,1
+CUST-02198,0.6509,6005.13,High-Value Users,0,1
+CUST-02199,0.097,5249.75,Steady Core Customers,0,0
+CUST-02200,0.1682,5871.6,Steady Core Customers,0,0
+CUST-02201,0.4799,5787.14,High-Value Users,0,0
+CUST-02202,0.1643,5674.02,High-Value Users,0,0
+CUST-02203,0.4681,5495.85,High-Value Users,0,0
+CUST-02204,0.4512,4556.75,Steady Core Customers,0,0
+CUST-02205,0.0667,7098.75,High-Value Users,0,0
+CUST-02206,0.7542,3775.13,Steady Core Customers,0,0
+CUST-02207,0.306,4418.24,Steady Core Customers,0,0
+CUST-02208,0.2269,5452.99,High-Value Users,0,0
+CUST-02209,0.3282,5683.79,High-Value Users,0,0
+CUST-02210,0.6977,3134.3,Steady Core Customers,0,0
+CUST-02211,0.1232,4445.64,Steady Core Customers,0,0
+CUST-02212,0.2971,3665.68,Steady Core Customers,0,0
+CUST-02213,0.1075,3613.54,Steady Core Customers,0,0
+CUST-02214,0.6609,3334.81,Steady Core Customers,0,0
+CUST-02215,0.2802,4860.49,High-Value Users,0,0
+CUST-02216,0.217,7549.01,High-Value Users,0,0
+CUST-02217,0.6231,6070.93,High-Value Users,0,1
+CUST-02218,0.0804,8186.71,High-Value Users,0,0
+CUST-02219,0.1006,4359.27,Steady Core Customers,0,0
+CUST-02220,0.1034,7419.42,High-Value Users,0,0
+CUST-02221,0.6085,6690.45,High-Value Users,0,1
+CUST-02222,0.6774,3504.89,Steady Core Customers,0,0
+CUST-02223,0.1228,7465.22,High-Value Users,0,0
+CUST-02224,0.3606,4112.83,Steady Core Customers,0,0
+CUST-02225,0.1791,5779.3,High-Value Users,0,0
+CUST-02226,0.2577,6023.45,High-Value Users,0,0
+CUST-02227,0.2156,5448.14,Steady Core Customers,0,0
+CUST-02228,0.2585,3794.11,Steady Core Customers,0,0
+CUST-02229,0.1054,4198.12,Steady Core Customers,0,0
+CUST-02230,0.144,2728.95,Steady Core Customers,0,0
+CUST-02231,0.7873,5290.07,High-Value Users,0,0
+CUST-02232,0.1517,6886.88,High-Value Users,0,0
+CUST-02233,0.2119,6824.51,High-Value Users,0,0
+CUST-02234,0.4349,3741.36,Steady Core Customers,0,0
+CUST-02235,0.3485,4602.96,Steady Core Customers,0,0
+CUST-02236,0.1731,6140.35,High-Value Users,0,0
+CUST-02237,0.2438,4762.45,Steady Core Customers,0,0
+CUST-02238,0.1474,6518.51,High-Value Users,0,0
+CUST-02239,0.6983,4511.15,Steady Core Customers,0,0
+CUST-02240,0.1233,7593.73,High-Value Users,0,0
+CUST-02241,0.0931,4813.62,Steady Core Customers,0,0
+CUST-02242,0.1569,6208.59,High-Value Users,0,0
+CUST-02243,0.5909,6899.3,High-Value Users,0,1
+CUST-02244,0.3453,4861.05,Steady Core Customers,0,0
+CUST-02245,0.4198,4821.96,High-Value Users,0,0
+CUST-02246,0.5066,4341.21,Steady Core Customers,0,0
+CUST-02247,0.3029,3397.73,Steady Core Customers,0,0
+CUST-02248,0.1467,5673.31,High-Value Users,0,0
+CUST-02249,0.6589,4783.4,Steady Core Customers,0,0
+CUST-02250,0.1184,6301.18,High-Value Users,0,0
+CUST-02251,0.3256,3927.87,Steady Core Customers,0,0
+CUST-02252,0.2213,7346.27,High-Value Users,0,0
+CUST-02253,0.7391,6602.62,High-Value Users,0,1
+CUST-02254,0.1382,8635.18,High-Value Users,0,0
+CUST-02255,0.1848,7002.06,High-Value Users,0,0
+CUST-02256,0.1351,7335.61,High-Value Users,0,0
+CUST-02257,0.6893,5185.88,High-Value Users,0,0
+CUST-02258,0.5609,6122.22,High-Value Users,0,1
+CUST-02259,0.1242,7218.46,High-Value Users,0,0
+CUST-02260,0.394,3976.1,Steady Core Customers,0,0
+CUST-02261,0.2145,4099.9,Steady Core Customers,0,0
+CUST-02262,0.3628,5065.98,High-Value Users,0,0
+CUST-02263,0.3243,3549.88,Steady Core Customers,0,0
+CUST-02264,0.1776,6624.21,High-Value Users,0,0
+CUST-02265,0.147,8169.93,High-Value Users,0,0
+CUST-02266,0.1371,5041.51,Steady Core Customers,0,0
+CUST-02267,0.4911,6454.86,High-Value Users,0,0
+CUST-02268,0.1517,5072.58,Steady Core Customers,0,0
+CUST-02269,0.1002,5997.84,Steady Core Customers,0,0
+CUST-02270,0.6382,4774.39,Steady Core Customers,0,0
+CUST-02271,0.4256,4058.98,Steady Core Customers,0,0
+CUST-02272,0.455,5522.91,High-Value Users,0,0
+CUST-02273,0.0684,5394.02,Steady Core Customers,0,0
+CUST-02274,0.5184,4073.35,Steady Core Customers,0,0
+CUST-02275,0.2941,7274.44,High-Value Users,0,0
+CUST-02276,0.6117,4687.36,High-Value Users,0,0
+CUST-02277,0.3062,5395.28,Steady Core Customers,0,0
+CUST-02278,0.1587,7130.24,High-Value Users,0,0
+CUST-02279,0.4658,7171.03,High-Value Users,0,0
+CUST-02280,0.3983,4465.02,Steady Core Customers,0,0
+CUST-02281,0.5093,6342.73,High-Value Users,0,1
+CUST-02282,0.6311,6637.64,High-Value Users,0,1
+CUST-02283,0.4412,6201.82,High-Value Users,0,0
+CUST-02284,0.109,7577.35,High-Value Users,0,0
+CUST-02285,0.5461,6563.52,High-Value Users,0,1
+CUST-02286,0.5107,4809.79,Steady Core Customers,0,0
+CUST-02287,0.4602,2913.17,Steady Core Customers,0,0
+CUST-02288,0.4984,6822.67,High-Value Users,0,0
+CUST-02289,0.1319,7871.85,High-Value Users,0,0
+CUST-02290,0.4041,3732.07,Steady Core Customers,0,0
+CUST-02291,0.4758,3921.77,Steady Core Customers,0,0
+CUST-02292,0.4636,4737.42,Steady Core Customers,0,0
+CUST-02293,0.1422,8003.68,High-Value Users,0,0
+CUST-02294,0.1345,4901.31,Steady Core Customers,0,0
+CUST-02295,0.6179,4411.36,Steady Core Customers,0,0
+CUST-02296,0.1995,7849.34,High-Value Users,0,0
+CUST-02297,0.1099,6784.97,High-Value Users,0,0
+CUST-02298,0.2162,8436.91,High-Value Users,0,0
+CUST-02299,0.5236,4958.29,High-Value Users,0,0
+CUST-02300,0.1485,5754.4,High-Value Users,0,0
+CUST-02301,0.152,5378.74,High-Value Users,0,0
+CUST-02302,0.3698,5990.31,High-Value Users,0,0
+CUST-02303,0.504,5902.85,High-Value Users,0,1
+CUST-02304,0.4722,4619.73,Steady Core Customers,0,0
+CUST-02305,0.5767,5223.83,High-Value Users,0,0
+CUST-02306,0.7087,5729.43,High-Value Users,0,1
+CUST-02307,0.1055,6124.25,Steady Core Customers,0,0
+CUST-02308,0.1677,6432.78,Steady Core Customers,0,0
+CUST-02309,0.6195,3757.08,Steady Core Customers,0,0
+CUST-02310,0.6081,4138.25,Steady Core Customers,0,0
+CUST-02311,0.229,6036.07,High-Value Users,0,0
+CUST-02312,0.6305,3896.6,Steady Core Customers,0,0
+CUST-02313,0.3744,7153.94,High-Value Users,0,0
+CUST-02314,0.1232,6607.28,High-Value Users,0,0
+CUST-02315,0.456,4595.94,High-Value Users,0,0
+CUST-02316,0.4415,5459.33,High-Value Users,0,0
+CUST-02317,0.1273,5434.03,High-Value Users,0,0
+CUST-02318,0.171,2891.19,Steady Core Customers,0,0
+CUST-02319,0.392,4299.11,Steady Core Customers,0,0
+CUST-02320,0.2005,8098.37,High-Value Users,0,0
+CUST-02321,0.083,5286.19,Steady Core Customers,0,0
+CUST-02322,0.6134,4338.1,Steady Core Customers,0,0
+CUST-02323,0.176,4406.05,Steady Core Customers,0,0
+CUST-02324,0.3625,5693.0,High-Value Users,0,0
+CUST-02325,0.4424,4362.37,Steady Core Customers,1,0
+CUST-02326,0.459,4925.96,Steady Core Customers,0,0
+CUST-02327,0.4859,3826.98,Steady Core Customers,0,0
+CUST-02328,0.5364,5470.75,High-Value Users,1,1
+CUST-02329,0.2039,7296.34,High-Value Users,0,0
+CUST-02330,0.285,3789.77,Steady Core Customers,0,0
+CUST-02331,0.1484,4139.74,Steady Core Customers,0,0
+CUST-02332,0.404,6914.84,High-Value Users,0,0
+CUST-02333,0.0805,6624.33,High-Value Users,0,0
+CUST-02334,0.4604,4956.01,High-Value Users,0,0
+CUST-02335,0.7087,3337.9,Steady Core Customers,0,0
+CUST-02336,0.1401,4756.01,Steady Core Customers,0,0
+CUST-02337,0.2915,8281.1,High-Value Users,0,0
+CUST-02338,0.4144,3475.69,Steady Core Customers,0,0
+CUST-02339,0.5692,4106.9,Steady Core Customers,0,0
+CUST-02340,0.2059,6681.52,High-Value Users,0,0
+CUST-02341,0.1878,5356.62,Steady Core Customers,0,0
+CUST-02342,0.3814,4228.73,Steady Core Customers,0,0
+CUST-02343,0.0877,4331.36,Steady Core Customers,0,0
+CUST-02344,0.744,3071.39,Steady Core Customers,0,0
+CUST-02345,0.6769,5545.55,High-Value Users,0,1
+CUST-02346,0.3057,6614.11,High-Value Users,0,0
+CUST-02347,0.0569,4393.53,Steady Core Customers,0,0
+CUST-02348,0.3581,3767.01,Steady Core Customers,0,0
+CUST-02349,0.4658,6612.38,High-Value Users,0,0
+CUST-02350,0.4378,4884.18,High-Value Users,0,0
+CUST-02351,0.1187,5056.99,Steady Core Customers,0,0
+CUST-02352,0.5035,5384.25,High-Value Users,0,1
+CUST-02353,0.2902,5121.16,High-Value Users,0,0
+CUST-02354,0.6305,2500.91,Steady Core Customers,0,0
+CUST-02355,0.2597,6909.26,High-Value Users,0,0
+CUST-02356,0.6241,4036.45,Steady Core Customers,0,0
+CUST-02357,0.1574,6484.47,High-Value Users,0,0
+CUST-02358,0.7017,3016.9,Steady Core Customers,1,0
+CUST-02359,0.5511,6792.14,High-Value Users,0,1
+CUST-02360,0.572,5722.16,High-Value Users,0,1
+CUST-02361,0.4842,4499.09,Steady Core Customers,0,0
+CUST-02362,0.5494,4024.48,Steady Core Customers,0,0
+CUST-02363,0.6773,2464.93,Steady Core Customers,0,0
+CUST-02364,0.5085,5364.46,High-Value Users,0,1
+CUST-02365,0.4695,5165.28,High-Value Users,0,0
+CUST-02366,0.6967,5402.73,High-Value Users,0,1
+CUST-02367,0.6982,3586.15,Steady Core Customers,0,0
+CUST-02368,0.486,4973.4,High-Value Users,0,0
+CUST-02369,0.6529,6603.97,High-Value Users,0,1
+CUST-02370,0.1934,4406.65,Steady Core Customers,0,0
+CUST-02371,0.1588,8138.86,High-Value Users,0,0
+CUST-02372,0.1473,5115.61,Steady Core Customers,0,0
+CUST-02373,0.7362,4011.66,High-Value Users,0,0
+CUST-02374,0.1886,9036.47,High-Value Users,0,0
+CUST-02375,0.0975,8096.74,High-Value Users,0,0
+CUST-02376,0.526,5277.98,High-Value Users,0,0
+CUST-02377,0.4302,4193.56,Steady Core Customers,0,0
+CUST-02378,0.2137,7358.94,High-Value Users,0,0
+CUST-02379,0.1029,6908.68,High-Value Users,0,0
+CUST-02380,0.1926,5354.37,Steady Core Customers,0,0
+CUST-02381,0.1154,4663.74,Steady Core Customers,0,0
+CUST-02382,0.1077,6889.58,High-Value Users,0,0
+CUST-02383,0.1506,4353.79,Steady Core Customers,0,0
+CUST-02384,0.6066,3494.32,Steady Core Customers,0,0
+CUST-02385,0.4381,5851.39,High-Value Users,0,0
+CUST-02386,0.1152,7411.77,High-Value Users,0,0
+CUST-02387,0.4541,5555.35,High-Value Users,0,0
+CUST-02388,0.1976,5602.95,High-Value Users,0,0
+CUST-02389,0.5046,4775.94,Steady Core Customers,0,0
+CUST-02390,0.7515,3833.66,Steady Core Customers,0,0
+CUST-02391,0.705,5325.67,High-Value Users,0,1
+CUST-02392,0.2101,7532.42,High-Value Users,0,0
+CUST-02393,0.6853,5302.77,High-Value Users,0,0
+CUST-02394,0.2228,6904.6,High-Value Users,0,0
+CUST-02395,0.6048,3108.17,Steady Core Customers,0,0
+CUST-02396,0.0786,5320.49,Steady Core Customers,0,0
+CUST-02397,0.1729,4009.76,Steady Core Customers,0,0
+CUST-02398,0.1045,4983.07,Steady Core Customers,0,0
+CUST-02399,0.4618,3853.4,Steady Core Customers,0,0
+CUST-02400,0.4904,5738.34,High-Value Users,0,0
+CUST-02401,0.2737,4938.75,Steady Core Customers,0,0
+CUST-02402,0.1052,7033.28,High-Value Users,0,0
+CUST-02403,0.4839,4265.58,Steady Core Customers,0,0
+CUST-02404,0.1664,4273.31,Steady Core Customers,0,0
+CUST-02405,0.1958,6428.55,High-Value Users,0,0
+CUST-02406,0.7343,4576.4,Steady Core Customers,0,0
+CUST-02407,0.2884,5489.54,Steady Core Customers,0,0
+CUST-02408,0.5501,4657.04,High-Value Users,0,0
+CUST-02409,0.6849,4350.91,High-Value Users,0,0
+CUST-02410,0.106,4055.53,Steady Core Customers,0,0
+CUST-02411,0.5634,5665.51,High-Value Users,0,1
+CUST-02412,0.1414,6635.18,High-Value Users,0,0
+CUST-02413,0.2407,8583.19,High-Value Users,0,0
+CUST-02414,0.0933,6344.19,Steady Core Customers,0,0
+CUST-02415,0.6316,3596.73,Steady Core Customers,0,0
+CUST-02416,0.4603,4233.09,Steady Core Customers,0,0
+CUST-02417,0.4006,4722.81,Steady Core Customers,0,0
+CUST-02418,0.1789,4545.34,Steady Core Customers,0,0
+CUST-02419,0.6025,4729.53,Steady Core Customers,0,0
+CUST-02420,0.124,6293.1,High-Value Users,1,0
+CUST-02421,0.2882,4804.75,Steady Core Customers,0,0
+CUST-02422,0.4373,4125.37,Steady Core Customers,0,0
+CUST-02423,0.0907,6861.18,High-Value Users,0,0
+CUST-02424,0.081,4186.74,Steady Core Customers,0,0
+CUST-02425,0.5261,6471.26,High-Value Users,0,1
+CUST-02426,0.1809,6077.28,High-Value Users,0,0
+CUST-02427,0.4794,5055.69,Steady Core Customers,0,0
+CUST-02428,0.1619,4755.52,Steady Core Customers,0,0
+CUST-02429,0.3495,4292.33,Steady Core Customers,0,0
+CUST-02430,0.5226,3139.64,Steady Core Customers,0,0
+CUST-02431,0.4024,4553.02,Steady Core Customers,0,0
+CUST-02432,0.6808,6816.75,High-Value Users,1,1
+CUST-02433,0.2012,7321.17,High-Value Users,0,0
+CUST-02434,0.4359,6210.16,High-Value Users,0,0
+CUST-02435,0.5045,6049.68,High-Value Users,0,1
+CUST-02436,0.6077,5554.72,High-Value Users,0,1
+CUST-02437,0.602,4748.9,High-Value Users,0,0
+CUST-02438,0.1874,4668.93,Steady Core Customers,0,0
+CUST-02439,0.6125,6887.74,High-Value Users,0,1
+CUST-02440,0.1045,5827.34,High-Value Users,0,0
+CUST-02441,0.1558,8074.6,High-Value Users,0,0
+CUST-02442,0.4204,4325.06,High-Value Users,0,0
+CUST-02443,0.1013,5732.38,High-Value Users,0,0
+CUST-02444,0.4626,5082.8,High-Value Users,0,0
+CUST-02445,0.536,5318.8,High-Value Users,0,1
+CUST-02446,0.6307,3035.04,Steady Core Customers,1,0
+CUST-02447,0.7801,4811.54,High-Value Users,0,0
+CUST-02448,0.486,4135.51,Steady Core Customers,0,0
+CUST-02449,0.6431,4522.72,Steady Core Customers,0,0
+CUST-02450,0.1334,4793.91,Steady Core Customers,0,0
+CUST-02451,0.566,6588.34,High-Value Users,0,1
+CUST-02452,0.0923,7067.82,High-Value Users,0,0
+CUST-02453,0.7146,2865.97,Steady Core Customers,0,0
+CUST-02454,0.2809,5421.25,Steady Core Customers,0,0
+CUST-02455,0.6276,5992.91,High-Value Users,0,1
+CUST-02456,0.2754,6725.11,High-Value Users,0,0
+CUST-02457,0.4794,5314.03,High-Value Users,0,0
+CUST-02458,0.3078,9134.54,High-Value Users,0,0
+CUST-02459,0.1823,5441.95,Steady Core Customers,0,0
+CUST-02460,0.726,6035.63,High-Value Users,0,1
+CUST-02461,0.1917,6266.13,High-Value Users,0,0
+CUST-02462,0.2686,6303.16,High-Value Users,0,0
+CUST-02463,0.1427,6843.16,High-Value Users,0,0
+CUST-02464,0.4501,5214.77,High-Value Users,0,0
+CUST-02465,0.2351,5247.25,Steady Core Customers,0,0
+CUST-02466,0.1332,3642.97,Steady Core Customers,0,0
+CUST-02467,0.4297,5398.81,High-Value Users,0,0
+CUST-02468,0.6292,7471.21,High-Value Users,0,1
+CUST-02469,0.5642,6341.71,High-Value Users,0,1
+CUST-02470,0.0959,4157.72,Steady Core Customers,0,0
+CUST-02471,0.5917,7136.03,High-Value Users,0,1
+CUST-02472,0.6077,2942.43,Steady Core Customers,0,0
+CUST-02473,0.5414,5572.18,High-Value Users,0,1
+CUST-02474,0.083,6819.21,High-Value Users,0,0
+CUST-02475,0.119,5175.78,High-Value Users,0,0
+CUST-02476,0.8065,5708.46,High-Value Users,0,1
+CUST-02477,0.274,5579.46,High-Value Users,0,0
+CUST-02478,0.2037,2392.89,Steady Core Customers,1,0
+CUST-02479,0.5994,4146.6,Steady Core Customers,0,0
+CUST-02480,0.4758,5330.35,Steady Core Customers,0,0
+CUST-02481,0.1908,7184.55,High-Value Users,0,0
+CUST-02482,0.5202,3594.98,Steady Core Customers,0,0
+CUST-02483,0.7785,4755.76,Steady Core Customers,0,0
+CUST-02484,0.4989,5810.09,High-Value Users,0,0
+CUST-02485,0.1637,6424.12,High-Value Users,0,0
+CUST-02486,0.154,6351.96,High-Value Users,0,0
+CUST-02487,0.7881,4535.27,Steady Core Customers,0,0
+CUST-02488,0.1092,5513.74,Steady Core Customers,0,0
+CUST-02489,0.1374,4231.93,Steady Core Customers,0,0
+CUST-02490,0.0928,4373.01,Steady Core Customers,0,0
+CUST-02491,0.4958,6707.48,High-Value Users,0,0
+CUST-02492,0.4328,5088.2,High-Value Users,0,0
+CUST-02493,0.0894,6457.55,High-Value Users,0,0
+CUST-02494,0.5445,5774.78,High-Value Users,0,1
+CUST-02495,0.6063,6756.41,High-Value Users,0,1
+CUST-02496,0.6014,4822.19,Steady Core Customers,0,0
+CUST-02497,0.159,6854.14,High-Value Users,0,0
+CUST-02498,0.5689,5618.95,High-Value Users,0,1
+CUST-02499,0.493,4718.32,Steady Core Customers,0,0
+CUST-02500,0.2942,6407.8,High-Value Users,0,0
+CUST-02501,0.6166,5730.0,High-Value Users,0,1
+CUST-02502,0.4932,7192.3,High-Value Users,0,0
+CUST-02503,0.3996,4300.75,Steady Core Customers,0,0
+CUST-02504,0.5556,3692.53,Steady Core Customers,0,0
+CUST-02505,0.1611,3217.32,Steady Core Customers,0,0
+CUST-02506,0.3251,6504.62,High-Value Users,0,0
+CUST-02507,0.109,7357.13,High-Value Users,0,0
+CUST-02508,0.5882,4141.05,Steady Core Customers,0,0
+CUST-02509,0.6238,5560.23,High-Value Users,0,1
+CUST-02510,0.5302,5913.74,High-Value Users,0,1
+CUST-02511,0.7482,3724.82,Steady Core Customers,0,0
+CUST-02512,0.6361,5371.22,High-Value Users,0,1
+CUST-02513,0.3796,5391.39,High-Value Users,0,0
+CUST-02514,0.1591,4924.43,Steady Core Customers,0,0
+CUST-02515,0.4499,3251.53,Steady Core Customers,0,0
+CUST-02516,0.1068,4615.98,Steady Core Customers,0,0
+CUST-02517,0.345,4844.41,Steady Core Customers,0,0
+CUST-02518,0.6796,5669.7,High-Value Users,0,1
+CUST-02519,0.1705,6866.39,High-Value Users,0,0
+CUST-02520,0.6516,4602.1,Steady Core Customers,0,0
+CUST-02521,0.4906,4617.65,Steady Core Customers,0,0
+CUST-02522,0.6844,5089.25,High-Value Users,0,0
+CUST-02523,0.5041,5455.37,High-Value Users,0,1
+CUST-02524,0.1843,7874.23,High-Value Users,0,0
+CUST-02525,0.6323,4773.07,High-Value Users,0,0
+CUST-02526,0.0861,5747.99,Steady Core Customers,0,0
+CUST-02527,0.532,4315.33,Steady Core Customers,0,0
+CUST-02528,0.567,5939.86,High-Value Users,0,1
+CUST-02529,0.4481,4403.7,Steady Core Customers,0,0
+CUST-02530,0.7314,5607.76,High-Value Users,0,1
+CUST-02531,0.1753,6551.3,High-Value Users,0,0
+CUST-02532,0.1791,7995.55,High-Value Users,0,0
+CUST-02533,0.6678,5182.1,High-Value Users,0,0
+CUST-02534,0.6812,5270.49,High-Value Users,0,0
+CUST-02535,0.1338,8633.66,High-Value Users,0,0
+CUST-02536,0.6257,3976.22,Steady Core Customers,0,0
+CUST-02537,0.3242,4180.7,Steady Core Customers,0,0
+CUST-02538,0.5373,6026.68,High-Value Users,0,1
+CUST-02539,0.6536,5305.77,High-Value Users,0,0
+CUST-02540,0.7799,5759.33,High-Value Users,0,1
+CUST-02541,0.5111,5653.7,High-Value Users,0,1
+CUST-02542,0.1504,5862.05,Steady Core Customers,0,0
+CUST-02543,0.402,5402.52,High-Value Users,0,0
+CUST-02544,0.1643,5938.63,Steady Core Customers,0,0
+CUST-02545,0.2293,5034.77,Steady Core Customers,0,0
+CUST-02546,0.5343,3230.22,Steady Core Customers,0,0
+CUST-02547,0.4722,3599.65,Steady Core Customers,0,0
+CUST-02548,0.6446,3345.75,Steady Core Customers,0,0
+CUST-02549,0.1709,3761.57,Steady Core Customers,0,0
+CUST-02550,0.4335,4022.88,Steady Core Customers,0,0
+CUST-02551,0.1914,7498.78,High-Value Users,0,0
+CUST-02552,0.0948,5072.74,Steady Core Customers,0,0
+CUST-02553,0.1156,2725.07,Steady Core Customers,0,0
+CUST-02554,0.635,3643.41,Steady Core Customers,0,0
+CUST-02555,0.1424,4612.13,Steady Core Customers,0,0
+CUST-02556,0.1528,6309.09,High-Value Users,0,0
+CUST-02557,0.1114,4371.56,Steady Core Customers,0,0
+CUST-02558,0.7552,3212.86,Steady Core Customers,0,0
+CUST-02559,0.1573,6325.76,High-Value Users,0,0
+CUST-02560,0.349,4742.3,Steady Core Customers,0,0
+CUST-02561,0.1332,6459.27,High-Value Users,0,0
+CUST-02562,0.7132,4823.39,High-Value Users,0,0
+CUST-02563,0.7325,5895.04,High-Value Users,0,1
+CUST-02564,0.1937,4684.6,Steady Core Customers,0,0
+CUST-02565,0.5636,5344.58,Steady Core Customers,0,1
+CUST-02566,0.1842,7100.88,High-Value Users,0,0
+CUST-02567,0.1226,5611.93,Steady Core Customers,0,0
+CUST-02568,0.1482,7072.62,High-Value Users,0,0
+CUST-02569,0.2699,4262.53,Steady Core Customers,0,0
+CUST-02570,0.3312,4744.97,Steady Core Customers,0,0
+CUST-02571,0.5974,5412.99,High-Value Users,0,1
+CUST-02572,0.0885,5894.13,High-Value Users,0,0
+CUST-02573,0.5618,5357.15,High-Value Users,0,1
+CUST-02574,0.4078,4444.49,Steady Core Customers,0,0
+CUST-02575,0.58,2914.12,Steady Core Customers,0,0
+CUST-02576,0.4793,3269.36,Steady Core Customers,0,0
+CUST-02577,0.0772,7027.09,High-Value Users,0,0
+CUST-02578,0.636,6489.29,High-Value Users,0,1
+CUST-02579,0.5312,5193.09,Steady Core Customers,0,0
+CUST-02580,0.116,3281.57,Steady Core Customers,0,0
+CUST-02581,0.198,6535.19,High-Value Users,0,0
+CUST-02582,0.6211,6120.15,High-Value Users,0,1
+CUST-02583,0.1167,6862.97,High-Value Users,0,0
+CUST-02584,0.3984,4589.45,Steady Core Customers,0,0
+CUST-02585,0.1423,5771.19,Steady Core Customers,0,0
+CUST-02586,0.4157,3933.47,Steady Core Customers,0,0
+CUST-02587,0.5321,6559.21,High-Value Users,0,1
+CUST-02588,0.6394,5572.01,High-Value Users,0,1
+CUST-02589,0.1593,5234.18,Steady Core Customers,0,0
+CUST-02590,0.5797,5661.89,High-Value Users,0,1
+CUST-02591,0.6861,5211.15,High-Value Users,0,0
+CUST-02592,0.2583,5668.7,High-Value Users,0,0
+CUST-02593,0.4776,4084.2,Steady Core Customers,0,0
+CUST-02594,0.174,4364.75,Steady Core Customers,0,0
+CUST-02595,0.5783,5442.82,High-Value Users,0,1
+CUST-02596,0.528,5863.17,High-Value Users,0,1
+CUST-02597,0.7307,4885.43,Steady Core Customers,0,0
+CUST-02598,0.4846,5160.77,Steady Core Customers,0,0
+CUST-02599,0.4534,5838.41,High-Value Users,0,0
+CUST-02600,0.2969,5852.88,High-Value Users,0,0
+CUST-02601,0.2194,6296.23,High-Value Users,0,0
+CUST-02602,0.5456,5555.37,High-Value Users,0,1
+CUST-02603,0.6787,4682.63,High-Value Users,0,0
+CUST-02604,0.1627,4848.8,Steady Core Customers,0,0
+CUST-02605,0.5131,3941.58,Steady Core Customers,0,0
+CUST-02606,0.1222,5634.38,High-Value Users,0,0
+CUST-02607,0.1725,9071.39,High-Value Users,0,0
+CUST-02608,0.3801,5825.72,High-Value Users,0,0
+CUST-02609,0.1119,4622.4,Steady Core Customers,0,0
+CUST-02610,0.2668,7876.52,High-Value Users,0,0
+CUST-02611,0.5052,5248.0,High-Value Users,0,0
+CUST-02612,0.1283,6458.01,High-Value Users,0,0
+CUST-02613,0.5047,4817.32,High-Value Users,0,0
+CUST-02614,0.2646,5423.71,Steady Core Customers,0,0
+CUST-02615,0.4805,4943.1,High-Value Users,0,0
+CUST-02616,0.4222,3904.58,Steady Core Customers,0,0
+CUST-02617,0.1369,8527.77,High-Value Users,0,0
+CUST-02618,0.5873,2407.31,Steady Core Customers,0,0
+CUST-02619,0.0782,6986.82,High-Value Users,0,0
+CUST-02620,0.1377,4134.24,Steady Core Customers,0,0
+CUST-02621,0.1292,7717.19,High-Value Users,0,0
+CUST-02622,0.1553,3897.69,Steady Core Customers,0,0
+CUST-02623,0.1901,8106.82,High-Value Users,0,0
+CUST-02624,0.0992,4834.48,Steady Core Customers,0,0
+CUST-02625,0.2324,8181.7,High-Value Users,0,0
+CUST-02626,0.4108,5982.3,High-Value Users,0,0
+CUST-02627,0.2272,8057.39,High-Value Users,0,0
+CUST-02628,0.3264,4000.92,Steady Core Customers,0,0
+CUST-02629,0.5593,6788.56,High-Value Users,0,1
+CUST-02630,0.6252,3464.41,Steady Core Customers,0,0
+CUST-02631,0.5173,5466.45,High-Value Users,0,1
+CUST-02632,0.2879,4906.19,Steady Core Customers,0,0
+CUST-02633,0.4651,4903.69,High-Value Users,0,0
+CUST-02634,0.175,6716.81,High-Value Users,0,0
+CUST-02635,0.1111,5716.34,Steady Core Customers,0,0
+CUST-02636,0.1787,5609.68,Steady Core Customers,0,0
+CUST-02637,0.0992,7130.16,High-Value Users,0,0
+CUST-02638,0.1062,10019.82,High-Value Users,0,0
+CUST-02639,0.1374,6626.22,High-Value Users,0,0
+CUST-02640,0.4889,6680.17,High-Value Users,0,0
+CUST-02641,0.152,4582.32,Steady Core Customers,0,0
+CUST-02642,0.3062,6173.27,High-Value Users,1,0
+CUST-02643,0.5296,4552.44,High-Value Users,0,0
+CUST-02644,0.7404,5964.86,High-Value Users,0,1
+CUST-02645,0.4195,7237.4,High-Value Users,0,0
+CUST-02646,0.1265,6578.78,High-Value Users,0,0
+CUST-02647,0.6782,5715.47,High-Value Users,0,1
+CUST-02648,0.1722,5040.21,Steady Core Customers,0,0
+CUST-02649,0.4056,5678.96,High-Value Users,0,0
+CUST-02650,0.5719,5806.11,High-Value Users,0,1
+CUST-02651,0.352,3492.28,Steady Core Customers,0,0
+CUST-02652,0.5098,4011.77,Steady Core Customers,0,0
+CUST-02653,0.1137,5144.52,Steady Core Customers,0,0
+CUST-02654,0.6062,5428.44,Steady Core Customers,0,1
+CUST-02655,0.4142,4298.39,Steady Core Customers,0,0
+CUST-02656,0.354,5890.0,High-Value Users,0,0
+CUST-02657,0.1607,6583.18,High-Value Users,0,0
+CUST-02658,0.1266,6368.04,Steady Core Customers,0,0
+CUST-02659,0.1348,5719.24,Steady Core Customers,0,0
+CUST-02660,0.1682,4675.4,Steady Core Customers,0,0
+CUST-02661,0.1817,6262.42,Steady Core Customers,0,0
+CUST-02662,0.3239,4379.95,Steady Core Customers,0,0
+CUST-02663,0.5223,5594.83,High-Value Users,0,1
+CUST-02664,0.6046,4713.02,Steady Core Customers,0,0
+CUST-02665,0.7873,6085.51,High-Value Users,0,1
+CUST-02666,0.6932,5722.91,High-Value Users,0,1
+CUST-02667,0.6432,4625.87,Steady Core Customers,0,0
+CUST-02668,0.4757,5350.11,High-Value Users,0,0
+CUST-02669,0.2901,5056.54,Steady Core Customers,0,0
+CUST-02670,0.2961,4393.98,Steady Core Customers,0,0
+CUST-02671,0.4764,5975.59,High-Value Users,0,0
+CUST-02672,0.1635,4015.85,Steady Core Customers,0,0
+CUST-02673,0.1743,8223.78,High-Value Users,0,0
+CUST-02674,0.4673,4469.94,Steady Core Customers,0,0
+CUST-02675,0.5719,5632.52,High-Value Users,0,1
+CUST-02676,0.6019,4774.86,High-Value Users,0,0
+CUST-02677,0.4064,3899.44,Steady Core Customers,0,0
+CUST-02678,0.7306,4858.61,High-Value Users,0,0
+CUST-02679,0.6059,4945.88,High-Value Users,0,0
+CUST-02680,0.1312,7542.98,High-Value Users,0,0
+CUST-02681,0.1808,5302.47,Steady Core Customers,0,0
+CUST-02682,0.1893,4851.96,Steady Core Customers,0,0
+CUST-02683,0.169,5272.87,Steady Core Customers,0,0
+CUST-02684,0.1314,5212.19,Steady Core Customers,0,0
+CUST-02685,0.2119,7601.58,High-Value Users,0,0
+CUST-02686,0.1723,5522.11,Steady Core Customers,0,0
+CUST-02687,0.1679,5757.94,Steady Core Customers,0,0
+CUST-02688,0.2324,5289.32,Steady Core Customers,0,0
+CUST-02689,0.1716,5548.19,High-Value Users,0,0
+CUST-02690,0.1079,7516.55,High-Value Users,0,0
+CUST-02691,0.5305,5353.56,High-Value Users,0,1
+CUST-02692,0.5573,5847.38,High-Value Users,0,1
+CUST-02693,0.532,4664.11,Steady Core Customers,0,0
+CUST-02694,0.5091,6307.97,High-Value Users,0,1
+CUST-02695,0.5582,5133.39,Steady Core Customers,0,0
+CUST-02696,0.4199,2976.72,Steady Core Customers,0,0
+CUST-02697,0.5633,5646.27,High-Value Users,0,1
+CUST-02698,0.1681,7778.67,High-Value Users,0,0
+CUST-02699,0.7508,4202.68,Steady Core Customers,0,0
+CUST-02700,0.5316,4542.84,Steady Core Customers,0,0
+CUST-02701,0.3132,3867.33,Steady Core Customers,0,0
+CUST-02702,0.4305,4069.77,Steady Core Customers,0,0
+CUST-02703,0.2905,5463.75,Steady Core Customers,0,0
+CUST-02704,0.2358,5449.15,Steady Core Customers,1,0
+CUST-02705,0.4985,3795.15,Steady Core Customers,0,0
+CUST-02706,0.2427,3898.19,Steady Core Customers,0,0
+CUST-02707,0.7521,2908.95,Steady Core Customers,0,0
+CUST-02708,0.1925,5357.36,Steady Core Customers,0,0
+CUST-02709,0.1796,6370.79,High-Value Users,0,0
+CUST-02710,0.0886,6346.44,Steady Core Customers,0,0
+CUST-02711,0.5133,5777.7,High-Value Users,0,1
+CUST-02712,0.1392,7433.16,High-Value Users,0,0
+CUST-02713,0.1182,5804.7,Steady Core Customers,0,0
+CUST-02714,0.1439,7324.91,High-Value Users,0,0
+CUST-02715,0.4847,3525.37,Steady Core Customers,0,0
+CUST-02716,0.5502,7370.05,High-Value Users,0,1
+CUST-02717,0.4997,4673.25,Steady Core Customers,0,0
+CUST-02718,0.378,5969.58,High-Value Users,0,0
+CUST-02719,0.1322,7700.15,High-Value Users,0,0
+CUST-02720,0.7656,6625.61,High-Value Users,0,1
+CUST-02721,0.3904,3195.1,Steady Core Customers,0,0
+CUST-02722,0.0989,6179.55,High-Value Users,0,0
+CUST-02723,0.4359,3938.2,Steady Core Customers,0,0
+CUST-02724,0.0947,3872.93,Steady Core Customers,0,0
+CUST-02725,0.2161,3692.56,Steady Core Customers,0,0
+CUST-02726,0.1658,7035.65,High-Value Users,0,0
+CUST-02727,0.144,6375.71,High-Value Users,0,0
+CUST-02728,0.6788,3941.21,Steady Core Customers,0,0
+CUST-02729,0.4914,6080.82,High-Value Users,0,0
+CUST-02730,0.1589,7277.41,High-Value Users,0,0
+CUST-02731,0.5167,6899.0,High-Value Users,0,1
+CUST-02732,0.5329,5975.42,High-Value Users,0,1
+CUST-02733,0.192,5905.43,High-Value Users,0,0
+CUST-02734,0.5319,2667.55,Steady Core Customers,0,0
+CUST-02735,0.492,5238.86,High-Value Users,0,0
+CUST-02736,0.4793,4358.95,Steady Core Customers,0,0
+CUST-02737,0.5466,3514.83,Steady Core Customers,1,0
+CUST-02738,0.1668,4756.89,Steady Core Customers,0,0
+CUST-02739,0.451,4868.83,High-Value Users,0,0
+CUST-02740,0.4277,5972.48,High-Value Users,0,0
+CUST-02741,0.4049,5505.08,High-Value Users,0,0
+CUST-02742,0.1327,8272.38,High-Value Users,0,0
+CUST-02743,0.4999,5582.7,High-Value Users,0,0
+CUST-02744,0.48,3091.79,Steady Core Customers,0,0
+CUST-02745,0.2601,6924.56,High-Value Users,0,0
+CUST-02746,0.4265,4058.3,Steady Core Customers,0,0
+CUST-02747,0.158,5011.16,Steady Core Customers,0,0
+CUST-02748,0.31,5627.77,High-Value Users,0,0
+CUST-02749,0.4944,4795.81,Steady Core Customers,0,0
+CUST-02750,0.2891,3978.04,Steady Core Customers,0,0
+CUST-02751,0.1018,4621.71,Steady Core Customers,0,0
+CUST-02752,0.5042,3473.23,Steady Core Customers,0,0
+CUST-02753,0.3278,6016.11,High-Value Users,0,0
+CUST-02754,0.5342,4433.34,Steady Core Customers,0,0
+CUST-02755,0.3977,3737.06,Steady Core Customers,0,0
+CUST-02756,0.258,5655.29,High-Value Users,0,0
+CUST-02757,0.0762,4828.12,Steady Core Customers,0,0
+CUST-02758,0.4421,4301.35,Steady Core Customers,0,0
+CUST-02759,0.2345,3032.57,Steady Core Customers,0,0
+CUST-02760,0.5234,4119.5,Steady Core Customers,0,0
+CUST-02761,0.1625,7696.75,High-Value Users,0,0
+CUST-02762,0.578,3505.42,Steady Core Customers,0,0
+CUST-02763,0.4153,5163.47,Steady Core Customers,0,0
+CUST-02764,0.137,7242.6,High-Value Users,0,0
+CUST-02765,0.0913,5171.76,Steady Core Customers,0,0
+CUST-02766,0.439,3991.65,Steady Core Customers,0,0
+CUST-02767,0.691,4899.04,High-Value Users,0,0
+CUST-02768,0.1682,5332.75,High-Value Users,0,0
+CUST-02769,0.091,7165.81,High-Value Users,0,0
+CUST-02770,0.5498,6694.5,High-Value Users,0,1
+CUST-02771,0.5374,3045.95,Steady Core Customers,0,0
+CUST-02772,0.3944,4175.67,Steady Core Customers,0,0
+CUST-02773,0.4296,5331.77,High-Value Users,0,0
+CUST-02774,0.6396,4136.25,Steady Core Customers,0,0
+CUST-02775,0.2135,7120.75,High-Value Users,0,0
+CUST-02776,0.2938,2545.33,Steady Core Customers,1,0
+CUST-02777,0.4616,5280.88,High-Value Users,0,0
+CUST-02778,0.2051,9708.74,High-Value Users,0,0
+CUST-02779,0.4183,5929.86,High-Value Users,0,0
+CUST-02780,0.3461,3546.01,Steady Core Customers,0,0
+CUST-02781,0.1496,4843.21,Steady Core Customers,0,0
+CUST-02782,0.662,5743.48,High-Value Users,0,1
+CUST-02783,0.091,6949.38,Steady Core Customers,0,0
+CUST-02784,0.3927,5167.37,High-Value Users,0,0
+CUST-02785,0.7035,5680.58,High-Value Users,0,1
+CUST-02786,0.1305,6433.19,High-Value Users,0,0
+CUST-02787,0.6894,3559.86,Steady Core Customers,0,0
+CUST-02788,0.3384,5771.9,High-Value Users,0,0
+CUST-02789,0.651,6450.98,High-Value Users,0,1
+CUST-02790,0.1043,3587.14,Steady Core Customers,0,0
+CUST-02791,0.7337,5628.21,High-Value Users,0,1
+CUST-02792,0.3014,5366.96,High-Value Users,0,0
+CUST-02793,0.1914,6051.35,High-Value Users,0,0
+CUST-02794,0.5037,8080.75,High-Value Users,1,1
+CUST-02795,0.4573,5575.63,High-Value Users,0,0
+CUST-02796,0.4593,4965.79,High-Value Users,0,0
+CUST-02797,0.0789,6606.98,High-Value Users,0,0
+CUST-02798,0.5041,5814.73,High-Value Users,0,1
+CUST-02799,0.1178,5440.79,High-Value Users,0,0
+CUST-02800,0.4711,5700.54,High-Value Users,0,0
+CUST-02801,0.6284,7125.45,High-Value Users,0,1
+CUST-02802,0.1126,6271.6,High-Value Users,0,0
+CUST-02803,0.4368,2615.89,Steady Core Customers,0,0
+CUST-02804,0.623,6614.2,High-Value Users,0,1
+CUST-02805,0.2007,4473.08,Steady Core Customers,0,0
+CUST-02806,0.127,5541.69,High-Value Users,0,0
+CUST-02807,0.6545,4101.85,Steady Core Customers,0,0
+CUST-02808,0.2896,3942.44,Steady Core Customers,0,0
+CUST-02809,0.3547,6685.01,High-Value Users,0,0
+CUST-02810,0.1444,3645.21,Steady Core Customers,0,0
+CUST-02811,0.5396,4135.84,Steady Core Customers,0,0
+CUST-02812,0.1251,5714.96,High-Value Users,0,0
+CUST-02813,0.1855,5074.2,Steady Core Customers,0,0
+CUST-02814,0.0955,8402.85,High-Value Users,0,0
+CUST-02815,0.3307,4640.35,Steady Core Customers,0,0
+CUST-02816,0.6932,6184.82,High-Value Users,0,1
+CUST-02817,0.3885,6171.35,High-Value Users,0,0
+CUST-02818,0.6416,5494.25,High-Value Users,0,1
+CUST-02819,0.553,6231.82,High-Value Users,0,1
+CUST-02820,0.1049,7052.26,High-Value Users,0,0
+CUST-02821,0.5744,3376.79,Steady Core Customers,0,0
+CUST-02822,0.5827,2417.54,Steady Core Customers,0,0
+CUST-02823,0.398,4166.78,Steady Core Customers,0,0
+CUST-02824,0.1475,7081.75,High-Value Users,0,0
+CUST-02825,0.4805,6999.14,High-Value Users,0,0
+CUST-02826,0.2498,6400.37,High-Value Users,0,0
+CUST-02827,0.1843,3456.94,Steady Core Customers,1,0
+CUST-02828,0.5178,5559.54,High-Value Users,0,1
+CUST-02829,0.2187,8462.88,High-Value Users,0,0
+CUST-02830,0.5306,6275.96,High-Value Users,0,1
+CUST-02831,0.4563,3599.27,Steady Core Customers,0,0
+CUST-02832,0.4271,5436.77,High-Value Users,0,0
+CUST-02833,0.6616,4957.12,High-Value Users,0,0
+CUST-02834,0.2205,5617.62,Steady Core Customers,0,0
+CUST-02835,0.1504,4826.21,Steady Core Customers,0,0
+CUST-02836,0.4416,5846.82,High-Value Users,0,0
+CUST-02837,0.1368,5473.93,Steady Core Customers,0,0
+CUST-02838,0.7006,3719.96,Steady Core Customers,0,0
+CUST-02839,0.6,5408.34,Steady Core Customers,0,1
+CUST-02840,0.1125,5756.29,Steady Core Customers,0,0
+CUST-02841,0.6909,4163.74,Steady Core Customers,0,0
+CUST-02842,0.1528,8501.95,High-Value Users,0,0
+CUST-02843,0.5536,4855.96,High-Value Users,0,0
+CUST-02844,0.179,4547.86,Steady Core Customers,0,0
+CUST-02845,0.5461,4750.84,Steady Core Customers,0,0
+CUST-02846,0.3357,4927.28,Steady Core Customers,0,0
+CUST-02847,0.1773,7785.8,High-Value Users,0,0
+CUST-02848,0.5861,4147.82,Steady Core Customers,0,0
+CUST-02849,0.6668,6620.34,High-Value Users,0,1
+CUST-02850,0.1121,4063.97,Steady Core Customers,0,0
+CUST-02851,0.4304,4873.95,High-Value Users,0,0
+CUST-02852,0.5337,4094.85,Steady Core Customers,0,0
+CUST-02853,0.5516,4878.82,High-Value Users,0,0
+CUST-02854,0.1863,4340.35,Steady Core Customers,0,0
+CUST-02855,0.268,7143.87,High-Value Users,0,0
+CUST-02856,0.1122,7494.25,High-Value Users,0,0
+CUST-02857,0.4905,4246.65,Steady Core Customers,0,0
+CUST-02858,0.5236,5967.67,High-Value Users,0,1
+CUST-02859,0.7162,4709.34,Steady Core Customers,0,0
+CUST-02860,0.3968,3970.66,Steady Core Customers,0,0
+CUST-02861,0.1339,3818.98,Steady Core Customers,0,0
+CUST-02862,0.2807,6132.69,High-Value Users,0,0
+CUST-02863,0.1852,5593.35,Steady Core Customers,0,0
+CUST-02864,0.2753,6726.39,High-Value Users,0,0
+CUST-02865,0.1808,5322.16,Steady Core Customers,0,0
+CUST-02866,0.5695,6399.1,High-Value Users,0,1
+CUST-02867,0.5823,2681.49,Steady Core Customers,1,0
+CUST-02868,0.0853,8227.16,High-Value Users,0,0
+CUST-02869,0.1599,5464.63,Steady Core Customers,0,0
+CUST-02870,0.6185,4715.6,High-Value Users,0,0
+CUST-02871,0.2602,7536.09,High-Value Users,0,0
+CUST-02872,0.1397,7505.12,High-Value Users,0,0
+CUST-02873,0.4064,4605.61,Steady Core Customers,0,0
+CUST-02874,0.1555,5675.97,Steady Core Customers,0,0
+CUST-02875,0.7428,5394.75,High-Value Users,0,1
+CUST-02876,0.1134,4150.21,Steady Core Customers,0,0
+CUST-02877,0.4727,2867.72,Steady Core Customers,0,0
+CUST-02878,0.445,4607.89,Steady Core Customers,0,0
+CUST-02879,0.7461,2929.36,Steady Core Customers,0,0
+CUST-02880,0.1545,3355.67,Steady Core Customers,0,0
+CUST-02881,0.2062,8677.96,High-Value Users,0,0
+CUST-02882,0.499,4654.84,Steady Core Customers,0,0
+CUST-02883,0.4668,5309.52,High-Value Users,0,0
+CUST-02884,0.4389,5025.36,High-Value Users,0,0
+CUST-02885,0.3358,6864.24,High-Value Users,0,0
+CUST-02886,0.1374,3653.8,Steady Core Customers,0,0
+CUST-02887,0.4237,4066.1,Steady Core Customers,1,0
+CUST-02888,0.0841,6276.52,Steady Core Customers,0,0
+CUST-02889,0.1569,5688.74,Steady Core Customers,0,0
+CUST-02890,0.6078,4450.31,Steady Core Customers,0,0
+CUST-02891,0.5333,3969.83,Steady Core Customers,0,0
+CUST-02892,0.0745,7776.16,High-Value Users,0,0
+CUST-02893,0.227,4807.2,Steady Core Customers,0,0
+CUST-02894,0.1414,6821.98,High-Value Users,0,0
+CUST-02895,0.4175,2487.76,Steady Core Customers,0,0
+CUST-02896,0.6517,5873.43,High-Value Users,0,1
+CUST-02897,0.1685,6389.92,High-Value Users,0,0
+CUST-02898,0.3803,4719.03,Steady Core Customers,0,0
+CUST-02899,0.1819,5478.24,Steady Core Customers,0,0
+CUST-02900,0.1921,2901.02,Steady Core Customers,1,0
+CUST-02901,0.451,5324.74,High-Value Users,0,0
+CUST-02902,0.7045,5703.59,High-Value Users,0,1
+CUST-02903,0.5328,2929.46,Steady Core Customers,0,0
+CUST-02904,0.0953,6430.76,High-Value Users,0,0
+CUST-02905,0.5463,5729.09,High-Value Users,0,1
+CUST-02906,0.6412,4495.64,High-Value Users,0,0
+CUST-02907,0.2284,7415.33,High-Value Users,0,0
+CUST-02908,0.1362,5634.5,Steady Core Customers,0,0
+CUST-02909,0.4369,5477.95,High-Value Users,0,0
+CUST-02910,0.1027,6415.03,High-Value Users,0,0
+CUST-02911,0.6114,6132.86,High-Value Users,0,1
+CUST-02912,0.1012,6821.61,High-Value Users,0,0
+CUST-02913,0.0991,4603.33,Steady Core Customers,0,0
+CUST-02914,0.7143,5357.41,High-Value Users,0,1
+CUST-02915,0.7996,5292.43,High-Value Users,0,0
+CUST-02916,0.2861,3310.78,Steady Core Customers,0,0
+CUST-02917,0.1627,7061.48,High-Value Users,0,0
+CUST-02918,0.1595,7062.35,High-Value Users,0,0
+CUST-02919,0.4203,4322.61,Steady Core Customers,0,0
+CUST-02920,0.0917,8938.88,High-Value Users,0,0
+CUST-02921,0.5421,3135.25,Steady Core Customers,0,0
+CUST-02922,0.0936,5145.54,Steady Core Customers,0,0
+CUST-02923,0.2717,4295.64,Steady Core Customers,0,0
+CUST-02924,0.7548,5109.6,High-Value Users,0,0
+CUST-02925,0.3336,4059.14,Steady Core Customers,0,0
+CUST-02926,0.1296,5006.55,Steady Core Customers,0,0
+CUST-02927,0.1999,6997.78,High-Value Users,0,0
+CUST-02928,0.4048,4017.19,Steady Core Customers,0,0
+CUST-02929,0.1285,4956.88,Steady Core Customers,0,0
+CUST-02930,0.785,7029.22,High-Value Users,0,1
+CUST-02931,0.4694,3829.83,Steady Core Customers,0,0
+CUST-02932,0.1402,3998.37,Steady Core Customers,0,0
+CUST-02933,0.5298,4278.79,Steady Core Customers,0,0
+CUST-02934,0.0798,3636.66,Steady Core Customers,0,0
+CUST-02935,0.1434,5163.84,Steady Core Customers,0,0
+CUST-02936,0.7887,5518.57,High-Value Users,0,1
+CUST-02937,0.6699,6485.87,High-Value Users,0,1
+CUST-02938,0.4547,6138.68,High-Value Users,0,0
+CUST-02939,0.5657,4954.62,High-Value Users,0,0
+CUST-02940,0.0967,3912.49,Steady Core Customers,0,0
+CUST-02941,0.5656,4154.09,Steady Core Customers,0,0
+CUST-02942,0.065,6054.41,Steady Core Customers,0,0
+CUST-02943,0.564,5419.14,High-Value Users,0,1
+CUST-02944,0.5585,2319.57,Steady Core Customers,0,0
+CUST-02945,0.1295,7721.58,High-Value Users,0,0
+CUST-02946,0.5864,4390.68,Steady Core Customers,0,0
+CUST-02947,0.18,4013.64,Steady Core Customers,0,0
+CUST-02948,0.1624,6501.3,High-Value Users,0,0
+CUST-02949,0.155,5475.52,Steady Core Customers,0,0
+CUST-02950,0.5362,3613.23,Steady Core Customers,0,0
+CUST-02951,0.4125,4389.35,Steady Core Customers,0,0
+CUST-02952,0.1281,7713.06,High-Value Users,0,0
+CUST-02953,0.4797,5822.19,High-Value Users,0,0
+CUST-02954,0.0731,5805.49,Steady Core Customers,0,0
+CUST-02955,0.0607,5690.3,High-Value Users,0,0
+CUST-02956,0.2522,7663.3,High-Value Users,0,0
+CUST-02957,0.0787,3581.11,Steady Core Customers,0,0
+CUST-02958,0.1118,4095.33,Steady Core Customers,0,0
+CUST-02959,0.5294,3594.55,Steady Core Customers,0,0
+CUST-02960,0.0936,7186.96,High-Value Users,0,0
+CUST-02961,0.2128,7951.37,High-Value Users,0,0
+CUST-02962,0.5253,5773.39,High-Value Users,0,1
+CUST-02963,0.0799,6129.95,Steady Core Customers,0,0
+CUST-02964,0.3266,7053.77,High-Value Users,0,0
+CUST-02965,0.4438,4586.32,Steady Core Customers,0,0
+CUST-02966,0.1699,5586.2,Steady Core Customers,1,0
+CUST-02967,0.1576,6795.76,High-Value Users,0,0
+CUST-02968,0.7583,5631.11,High-Value Users,0,1
+CUST-02969,0.1138,3465.82,Steady Core Customers,0,0
+CUST-02970,0.5853,4130.38,Steady Core Customers,0,0
+CUST-02971,0.4039,4172.34,Steady Core Customers,0,0
+CUST-02972,0.6095,5682.23,High-Value Users,0,1
+CUST-02973,0.1502,6173.87,Steady Core Customers,0,0
+CUST-02974,0.7383,5503.93,High-Value Users,0,1
+CUST-02975,0.4139,3836.68,Steady Core Customers,0,0
+CUST-02976,0.0922,3380.99,Steady Core Customers,0,0
+CUST-02977,0.7275,3843.78,Steady Core Customers,0,0
+CUST-02978,0.427,5302.22,High-Value Users,0,0
+CUST-02979,0.5071,3838.47,Steady Core Customers,0,0
+CUST-02980,0.2509,5424.58,Steady Core Customers,0,0
+CUST-02981,0.1917,6182.41,High-Value Users,0,0
+CUST-02982,0.1696,7423.72,High-Value Users,0,0
+CUST-02983,0.3995,3325.67,Steady Core Customers,0,0
+CUST-02984,0.7784,4546.57,Steady Core Customers,0,0
+CUST-02985,0.1435,4596.24,Steady Core Customers,0,0
+CUST-02986,0.4452,4280.1,Steady Core Customers,0,0
+CUST-02987,0.3916,4009.5,Steady Core Customers,0,0
+CUST-02988,0.349,5382.76,High-Value Users,0,0
+CUST-02989,0.4333,6057.22,High-Value Users,0,0
+CUST-02990,0.4735,5510.8,High-Value Users,0,0
+CUST-02991,0.0921,4837.72,Steady Core Customers,0,0
+CUST-02992,0.7476,3789.92,Steady Core Customers,0,0
+CUST-02993,0.0918,4271.99,Steady Core Customers,0,0
+CUST-02994,0.3848,3946.12,Steady Core Customers,0,0
+CUST-02995,0.0848,6451.53,High-Value Users,0,0
+CUST-02996,0.2294,6020.55,High-Value Users,0,0
+CUST-02997,0.117,6025.38,Steady Core Customers,0,0
+CUST-02998,0.4419,5678.5,High-Value Users,0,0
+CUST-02999,0.0929,5521.02,High-Value Users,0,0
+CUST-03000,0.5005,3754.85,Steady Core Customers,0,0
